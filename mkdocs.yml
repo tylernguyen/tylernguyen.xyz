@@ -8,7 +8,7 @@ site_description: >-
 
 # ANCHOR  Repository
 repo_name: tylernguyen/damnthattelevision.com
-repo_url: https://github.com/tylernguyen/damnthatteleivision.com
+repo_url: https://github.com/tylernguyen/damnthattelevision.com
 edit_uri: ""
 
 theme:
@@ -18,7 +18,7 @@ theme:
     logo: material/laptop
   custom_dir: overrides
   font:
-    text: Fira Code
+    text: Playfair Display
     code: Fira Code
   palette:
     - media: "(prefers-color-scheme: light)"
