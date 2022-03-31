@@ -59,7 +59,7 @@ extra_css:
 
 # ANCHOR Plugins
 plugins:
-  - git-revision-date
+  - git-revision-date-localized
   - privacy
   - search
   - social
