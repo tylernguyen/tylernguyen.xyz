@@ -12,7 +12,8 @@
 }
 
 .md-header,
-.md-tabs {
+.md-tabs,
+.md-nav--primary .md-nav__title {
   background-color: rgb(40, 47, 56);
 }
 
