@@ -18,7 +18,7 @@ theme:
     logo: material/laptop
   custom_dir: overrides
   font:
-    text: Playfair Display
+    text: Oswald
     code: Fira Code
   palette:
     - media: "(prefers-color-scheme: light)"
