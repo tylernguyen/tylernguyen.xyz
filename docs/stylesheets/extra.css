@@ -11,9 +11,12 @@
   --md-footer-bg-color-dark: rgb(23, 27, 32);
 }
 
-.md-header,
+.md-header {
+  background-color: rgb(255, 255, 255);
+}
+
 .md-tabs,
-.md-nav__title[for="__drawer"] {
+.md-nav--primary .md-nav__title[for="__drawer"] {
   background-color: rgb(40, 47, 56);
 }
 
