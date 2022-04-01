@@ -1,9 +1,9 @@
 # ANCHOR Project information
-site_name: damn that television.
+site_name: Damn That Television
 site_url: https://tylernguyen.dev
 site_author: Tyler Nguyen
 site_description: >-
-  damn that television. is a Tyler Nguyen blog production, 
+  Damn That Television is a Tyler Nguyen blog production, 
   himself directed and alone edited.
 
 # ANCHOR  Repository
@@ -15,7 +15,7 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/git
-    logo: material/laptop
+    logo: assets/logo.svg
   custom_dir: overrides
   font:
     text: Roboto Slab
@@ -50,9 +50,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/tylernguyen
-  # NOTE Hide "Made with Material for MkDocs"
   extra:
-    generator: false
+    generator: false # NOTE Hide "Made with Material for MkDocs"
 
 extra_css:
   - stylesheets/extra.css
@@ -60,6 +59,7 @@ extra_css:
 # ANCHOR Plugins
 plugins:
   - git-revision-date-localized
+      enable_creation_date: true
   - privacy
   - search
   - social
