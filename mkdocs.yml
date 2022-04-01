@@ -26,14 +26,14 @@ theme:
       primary: red
       accent: indigo
       toggle:
-        icon: material/octicons-moon-24
+        icon: octicons/moon-24
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: red
       accent: indigo
       toggle:
-        icon: material/octicons-sun-24
+        icon: octicons/sun-24
         name: Switch to light mode
   features:
     - announce.dismiss # NOTE Dismissable Announcement Banner
