@@ -23,14 +23,14 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: red
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: red
       accent: indigo
       toggle:
         icon: material/toggle-switch
