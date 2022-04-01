@@ -1,3 +1,13 @@
+/* Remove default title on the page */
+.md-content__inner h1:first-child {
+  display: none;
+}
+
+/* Adjust to 2px to align with the title */
+.md-logo {
+  padding-top: 6px;
+}
+
 .md-grid {
   max-width: 1600px; 
 }
