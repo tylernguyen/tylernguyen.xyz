@@ -13,7 +13,6 @@ edit_uri: ""
 
 theme:
   name: material
-  logo: assets/logo.png
   icon:
     repo: fontawesome/brands/git
   custom_dir: overrides
