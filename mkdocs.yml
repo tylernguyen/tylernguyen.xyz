@@ -22,15 +22,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      accent: orange
+      accent: red
       toggle:
-        icon: octicons/moon-24
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      accent: orange
+      accent: red
       toggle:
-        icon: octicons/sun-24
+        icon: material/toggle-switch
         name: Switch to light mode
   features:
     - announce.dismiss # NOTE Dismissable Announcement Banner
