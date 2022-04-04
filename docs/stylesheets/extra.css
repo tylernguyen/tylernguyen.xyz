@@ -5,9 +5,11 @@
 
 /* ANCHOR Define brand colors */
 :root {
-  --md-primary-fg-color: #282F38;
-  --md-primary-fg-color--light: #282F38;
-  --md-primary-fg-color--dark: #232631;
+  --md-primary-fg-color: #FFD06F;
+  --md-primary-fg-color--light: #ffdd98;
+  --md-primary-fg-color--dark: #db9d21;
+  --md-primary-bg-color: rgba(0, 0, 0);
+  --md-primary-bg-color--light: rgba(0, 0, 0);
 }
 
 [data-md-color-scheme="slate"] {
@@ -17,7 +19,7 @@
   --md-default-bg-color--lightest: rgb(26, 28, 35, 0.07);
   --md-default-fg-color: #FDF0ED;
   --md-footer-bg-color: rgb(23, 27, 32, 0.87);
-  --md-footer-bg-color-dark: rgb(23, 27, 32);
+  --md-footer-bg-color-dark: rgb(67, 126, 199);
   --md-typeset-a-color: #689D6A;
 }
 
