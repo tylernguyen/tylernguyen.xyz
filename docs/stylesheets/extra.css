@@ -10,6 +10,7 @@
   --md-default-bg-color--light: rgb(26, 28, 35, 0.54);
   --md-default-bg-color--lighter: rgb(26, 28, 35, 0.26);
   --md-default-bg-color--lightest: rgb(26, 28, 35, 0.07);
+  --md-default-fg-color: #FDF0ED;
   --md-footer-bg-color: rgb(23, 27, 32, 0.87);
   --md-footer-bg-color-dark: rgb(23, 27, 32);
   --md-typeset-a-color: #689D6A;
