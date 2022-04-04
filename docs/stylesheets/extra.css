@@ -1,8 +1,8 @@
 /* ANCHOR Define brand colors */
 :root {
-  --md-primary-fg-color: rgb(28, 30, 38);
-  --md-primary-fg-color--light: rgb(28, 30, 38);
-  --md-primary-fg-color--dark: rgb(28, 30, 38);
+  --md-primary-fg-color: rgb(40, 47, 56);
+  --md-primary-fg-color--light: rgb(40, 47, 56);
+  --md-primary-fg-color--dark: rgb(40, 47, 56);
 }
 
 [data-md-color-scheme="slate"] {
