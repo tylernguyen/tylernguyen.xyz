@@ -20,13 +20,13 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      accent: deep purple
+      accent: red
       toggle:
         icon: octicons/moon-24
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      accent: deep purple
+      accent: red
       toggle:
         icon: octicons/sun-24
         name: Switch to light mode

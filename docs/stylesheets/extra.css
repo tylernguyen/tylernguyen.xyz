@@ -1,7 +1,7 @@
 /* ANCHOR Define brand colors */
 :root {
-  --md-primary-fg-color: rgb(40, 47, 56, .8);
-  --md-primary-fg-color--light: rgb(40, 47, 56, .54);
+  --md-primary-fg-color: rgb(40, 47, 56);
+  --md-primary-fg-color--light: rgb(40, 47, 56);
   --md-primary-fg-color--dark: rgb(40, 47, 56);
 }
 
