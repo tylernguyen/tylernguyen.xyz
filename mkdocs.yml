@@ -13,8 +13,6 @@ edit_uri: ""
 
 theme:
   name: material
-  icon:
-    repo: fontawesome/brands/git
   custom_dir: overrides
   font:
     text: Roboto Slab
