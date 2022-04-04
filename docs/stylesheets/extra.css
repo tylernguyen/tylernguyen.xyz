@@ -1,8 +1,8 @@
 /* ANCHOR Define brand colors */
 :root {
-  --md-primary-fg-color: rgb(40, 47, 56);
-  --md-primary-fg-color--light: rgb(40, 47, 56);
-  --md-primary-fg-color--dark: rgb(40, 47, 56);
+  --md-primary-fg-color: #282F38;
+  --md-primary-fg-color--light: #282F38;
+  --md-primary-fg-color--dark: #232631;
 }
 
 [data-md-color-scheme="slate"] {
@@ -12,7 +12,7 @@
   --md-default-bg-color--lightest: rgb(26, 28, 35, 0.07);
   --md-footer-bg-color: rgb(23, 27, 32, 0.87);
   --md-footer-bg-color-dark: rgb(23, 27, 32);
-  --md-typeset-a-color: #27D796;
+  --md-typeset-a-color: #689D6A;
 }
 
 /* ANCHOR Hide shadow under navigation */
