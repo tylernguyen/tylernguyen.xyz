@@ -3,6 +3,7 @@
   --md-primary-fg-color: rgb(40, 47, 56);
   --md-primary-fg-color--light: rgb(40, 47, 56);
   --md-primary-fg-color--dark: rgb(40, 47, 56);
+  --md-typeset-a-color: #689D6A;
 }
 
 [data-md-color-scheme="slate"] {
@@ -18,15 +19,6 @@
 .md-header[data-md-state="shadow"],
 .md-header--shadow {
   box-shadow: none;
-}
-
-/* ANCHOR Better contrast link colors */
-[data-md-color-scheme="default"] {
-  --md-typeset-a-color: #3C00E0;
-}
-
-[data-md-color-scheme="slate"] {
-  --md-typeset-a-color: #689D6A;
 }
 
 /* ANCHOR Purple buttons */

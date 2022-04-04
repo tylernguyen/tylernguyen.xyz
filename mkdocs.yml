@@ -20,13 +20,13 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      accent: red
+      accent: yellow
       toggle:
         icon: octicons/moon-24
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      accent: red
+      accent: yellow
       toggle:
         icon: octicons/sun-24
         name: Switch to light mode
