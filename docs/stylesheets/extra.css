@@ -5,11 +5,9 @@
 
 /* ANCHOR Define brand colors */
 :root {
-  --md-primary-fg-color: #FFD06F;
-  --md-primary-fg-color--light: #ffdd98;
-  --md-primary-fg-color--dark: #db9d21;
-  --md-primary-bg-color: rgba(0, 0, 0);
-  --md-primary-bg-color--light: rgba(0, 0, 0);
+  --md-primary-fg-color: #282F38;
+  --md-primary-fg-color--light: #282F38;
+  --md-primary-fg-color--dark: #232631;
 }
 
 [data-md-color-scheme="slate"] {

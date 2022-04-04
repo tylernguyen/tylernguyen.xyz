@@ -17,18 +17,18 @@ theme:
   icon:
     repo: fontawesome/brands/github
   font:
-    text: Roboto Slab
+    text: Roboto
     code: Fira Code
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      accent: yellow
+      accent: orange
       toggle:
         icon: octicons/moon-24
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      accent: yellow
+      accent: orange
       toggle:
         icon: octicons/sun-24
         name: Switch to light mode
@@ -39,6 +39,8 @@ theme:
     - navigation.instant # NOTE Instant Loading on Internal Links with XMLHttpRequest (XHR)
     - navigation.sections
     - navigation.top # NOTE Back-to-top button
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.tracking # NOTE Update URL with Active Anchor
     - toc.follow # NOTE Anchor following in TOC
 
