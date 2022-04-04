@@ -1,10 +1,10 @@
 /* ANCHOR Define brand colors */
 :root {
-  --md-primary-fg-color: #FFF27D;
-  --md-primary-fg-color--light: #FFE08D;
-  --md-primary-fg-color--dark: #D4DF6B;
-  --md-primary-bg-color: rgba(0, 0, 0, 1);
-  --md-primary-bg-color--light: rgba(0, 0, 0, .75);
+  --md-primary-fg-color: rgb(28, 30, 38, .75);
+  --md-primary-fg-color--light: rgb(28, 30, 38, .54);
+  --md-primary-fg-color--dark: rgb(28, 30, 38);
+  --md-primary-bg-color: rgba(253, 240, 237, 1);
+  --md-primary-bg-color--light: rgba(253, 240, 237, .75);
 }
 
 [data-md-color-scheme="slate"] {
