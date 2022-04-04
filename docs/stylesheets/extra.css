@@ -3,8 +3,6 @@
   --md-primary-fg-color: rgb(28, 30, 38);
   --md-primary-fg-color--light: rgb(28, 30, 38);
   --md-primary-fg-color--dark: rgb(28, 30, 38);
-  --md-primary-bg-color: #FFF27D;
-  --md-primary-bg-color--light: #FFF27D;
 }
 
 [data-md-color-scheme="slate"] {
