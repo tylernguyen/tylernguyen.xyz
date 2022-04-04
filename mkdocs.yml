@@ -7,7 +7,7 @@ site_description: >-
   himself directed and alone edited.
 
 # ANCHOR  Repository
-repo_name: tylernguyen/damnthattelevision.com
+repo_name: damnthattelevision.com
 repo_url: https://github.com/tylernguyen/damnthattelevision.com
 edit_uri: ""
 
@@ -22,15 +22,13 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: red
-      accent: indigo
+      accent: deep purple
       toggle:
         icon: octicons/moon-24
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: red
-      accent: indigo
+      accent: deep purple
       toggle:
         icon: octicons/sun-24
         name: Switch to light mode

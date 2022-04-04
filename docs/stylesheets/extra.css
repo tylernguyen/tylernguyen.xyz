@@ -1,3 +1,9 @@
+:root {
+  --md-primary-fg-color: #FFD06F;
+  --md-primary-fg-color--light: #ffdd98;
+  --md-primary-fg-color--dark: #db9d21;
+}
+
 /* Adjust to 2px to align with the title */
 .md-logo {
   padding-top: 6px;
