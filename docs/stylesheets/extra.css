@@ -1,8 +1,8 @@
 /* ANCHOR Define brand colors */
 :root {
-  --md-primary-fg-color: #FFD06F;
-  --md-primary-fg-color--light: #ffdd98;
-  --md-primary-fg-color--dark: #db9d21;
+  --md-primary-fg-color: #1C1E26;
+  --md-primary-fg-color--light: #232530;
+  --md-primary-fg-color--dark: #1A1C23;
   --md-primary-bg-color: rgba(0, 0, 0, .75);
   --md-primary-bg-color--light: rgba(0, 0, 0, .54);
 }
