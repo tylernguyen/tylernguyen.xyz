@@ -6,4 +6,4 @@ hide:
 
 ## 2022
 
-- **April 4:** ["Move Fast and Break Things"](blog/2022/04/04/move-fast-and-break-things.md)
+- ["Cloudflare Tunnels, Zero Trust, and Warp"](blog/2022/cloudflare-tunnels-zero-trust-and-warp.md)

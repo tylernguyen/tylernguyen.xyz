@@ -58,6 +58,7 @@ extra_css:
 # ANCHOR Plugins
 plugins:
   - git-revision-date-localized
+      enable_creation_date: true
   - privacy
   - search
   - social
@@ -91,10 +92,10 @@ markdown_extensions:
 nav:
     - Home: index.md
     - Blog:
-      - 'Blog Index': 'blog/index.md'
+      - 'Blog': 'blog/index.md'
       - '2022':
         - 'April':
-          - '"Cloudflare Tunnels, Zero Trust, and Warp"': 'blog/2022/cloudflare-tunnels-zero-trust-and-warp.md'
+          - 'Cloudflare Tunnels, Zero Trust, and Warp': 'blog/2022/cloudflare-tunnels-zero-trust-and-warp.md'
     - Uses This: uses-this.md
     - Contact: contact.md
     - About: about.md
