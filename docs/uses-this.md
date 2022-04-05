@@ -144,6 +144,7 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 <div class="grid cards" markdown>
 
 - ![Mullvad](/assets/img/uses-this/Mullvad.svg){ .twemoji } [Mullvad](https://mullvad.net/)
+- ![Wireguard](/assets/img/uses-this/Wireguard.svg){ .twemoji } [Wireguard](https://www.wireguard.com/)
 
 </div>
   
