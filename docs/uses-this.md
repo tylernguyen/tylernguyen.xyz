@@ -133,10 +133,6 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 - ![Cryptomator](/assets/img/uses-this/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
 
 </div>
-
-- Mega.nz is my preferred syncing service for normal files. If I need to upload something sensitive to the cloud, it is encrypted with either Cryptomator or Duplicati.
-- Since I also live within the Apple ecosystem, I have additional iCloud storage to backup my iPhone and iPad.
-- [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html) to store encrypted, off-site snapshots and backups.
   
 ### VPN
 
@@ -150,7 +146,7 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 
 <div class="grid cards" markdown>
 
-- ![Cloudflare](/assets/img/uses-this/Cloudflare.png){ .twemoji } [Cloudflare](https://www.cloudflare.com/)
+- ![Cloudflare](/assets/img/uses-this/Cloudflare.svg){ .twemoji } [Cloudflare](https://www.cloudflare.com/)
 - ![MkDocs Material](/assets/img/uses-this/MkDocs-Material.png){ .twemoji } [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 
 </div>
