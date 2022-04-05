@@ -55,17 +55,12 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 
 ### Writing, Text, and Audio
 
-- The majority of my note-taking and writing happens on random paper with random pens.
-- [VSCode](https://code.visualstudio.com/) is my main code and LaTeX editor, and would quite often act as a temporary home for snippets.
-- [iA Writer](https://ia.net/writer)  for professional and focused writing.
-- [Obsidian](https://obsidian.md/) for topic research.
-- Just Press Record for voice memos.
-
 <div class="grid cards" markdown>
 
-- ![VSCode](/assets/img/uses-this/VSCode.png){ .twemoji } [VSCode](https://code.visualstudio.com/)
+- ![VSCode](/assets/img/uses-this/VSCode.png){ .twemoji } [Visual Studio Code](https://code.visualstudio.com/)
 - ![iA Writer](/assets/img/uses-this/iA-Writer.png){ .twemoji } [iA Writer](https://ia.net/writer)
 - ![Obsidian](/assets/img/uses-this/Obsidian.png){ .twemoji } [Obsidian](https://obsidian.md/)
+- ![Just Press Record](/assets/img/uses-this/Just-Press-Record.png){ .twemoji } [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
 
 </div>
 
@@ -122,13 +117,22 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 
 ### Email
 
-- Gmail currently for day-to-day life.
-- SimpleLogin for custom domain routing, aliasing, and encryption pass-through.
-- Mailvelope to use Gmail web with GPG.
+<div class="grid cards" markdown>
 
-Read more about my email setup [here].
+- ![ProtonMail](/assets/img/uses-this/ProtonMail.png){ .twemoji } [ProtonMail](https://protonmail.com/)
+- ![SimpleLogin](/assets/img/uses-this/SimpleLogin.png){ .twemoji } [SimpleLogin](https://simplelogin.io/)
+
+</div>
 
 ### File Storage / Sync
+
+<div class="grid cards" markdown>
+
+- ![iCloud](/assets/img/uses-this/iCloud.png){ .twemoji } [iCloud](https://www.icloud.com/)
+- ![Backblaze B2](/assets/img/uses-this/Backblaze-B2.png){ .twemoji } [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)
+- ![Cryptomator](/assets/img/uses-this/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
+
+</div>
 
 - Mega.nz is my preferred syncing service for normal files. If I need to upload something sensitive to the cloud, it is encrypted with either Cryptomator or Duplicati.
 - Since I also live within the Apple ecosystem, I have additional iCloud storage to backup my iPhone and iPad.
@@ -136,9 +140,17 @@ Read more about my email setup [here].
   
 ### VPN
 
-- [Mullvad](https://mullvad.net) via Wireguard. Mullvad is possibly the most respected and trusted VPN provider on the market currently; they’re the people behind Mozilla’s own VPN service. It’s also very P2P friendly.
+<div class="grid cards" markdown>
+
+- ![Mullvad](/assets/img/uses-this/Mullvad.svg){ .twemoji } [Mullvad](https://mullvad.net/)
+
+</div>
   
 ### Domain, DNS, Hosting
 
-- [Cloudflare](https://www.cloudflare.com/) is my go-to for purchasing domains, DNS routing, and hosting lighter sites such as 11ty or Jekyll. I also like Argo Tunnel as a private tunneling service.
-- Obsidian Publish (powering this website) is my preferred platform for hosting text, especially a knowledge base.
+<div class="grid cards" markdown>
+
+- ![Cloudflare](/assets/img/uses-this/Cloudflare.png){ .twemoji } [Cloudflare](https://www.cloudflare.com/)
+- ![MkDocs Material](/assets/img/uses-this/MkDocs-Material.svg){ .twemoji } [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
+
+</div>
