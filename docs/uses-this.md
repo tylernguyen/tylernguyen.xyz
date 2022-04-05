@@ -74,7 +74,6 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 
 - ![Unraid](/assets/img/uses-this/Unraid.png){ .twemoji } [Unraid](https://unraid.net/)
 - ![Plex](/assets/img/uses-this/Plex.svg){ .twemoji } [Plex](https://www.plex.tv/)
-- ![QMK](/assets/img/uses-this/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
 
 </div>
 
@@ -90,14 +89,9 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 - ![Audible](/assets/img/uses-this/Audible.png){ .twemoji } [Audible](https://www.audible.com/)
 - ![Spotify](/assets/img/uses-this/Spotify.svg){ .twemoji } [Spotify](https://www.spotify.com/us/)
 - ![Pocket Casts](/assets/img/uses-this/Pocket-Casts.svg){ .twemoji } [Pocket Casts](https://pocketcasts.com/)
+- ![Libby](/assets/img/uses-this/Libby.png){ .twemoji } [Libby](https://libbyapp.com)
 
 </div>
-
-- Unraid as the OS for home server. Docker as its best friend.
-- Plex is my temple. It has all sorts of movies, television, anime, audiobooks, and high-fidelity music that I’ve hoarded over the years.
-- Plex Dash, Plexamp, and Prologue are great companion apps to the Plex server.
-- I also supplement my needs with Spotify, Audible, Libby, and Pocket Casts.
-- Books and comics are organized and served via OPDS, and is usually read on my iPad Mini with KyBook 3.
 
 ## Productivity
 
