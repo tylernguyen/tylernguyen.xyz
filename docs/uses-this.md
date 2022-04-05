@@ -62,6 +62,7 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 - Just Press Record for voice memos.
 
 ### Design
+
 - Adobe Photoshop and Illustrator are what I initially learned, and stuck to until today. I only do very light design/mockup work so I've been reluctant to learn alternatives.
 
 ### Media
