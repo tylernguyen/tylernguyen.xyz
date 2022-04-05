@@ -90,10 +90,11 @@ markdown_extensions:
 # ANCHOR Page tree
 nav:
     - Home: index.md
-    - Blog: blog/index.md
-        - '2022':
-          - 'April':
-            - '"Cloudflare Tunnels, Zero Trust, and Warp"': 'blog/2022/cloudflare-tunnels-zero-trust-and-warp.md'
+    - Blog:
+      - 'Blog Index': 'blog/index.md'
+      - '2022':
+        - 'April':
+          - '"Cloudflare Tunnels, Zero Trust, and Warp"': 'blog/2022/cloudflare-tunnels-zero-trust-and-warp.md'
     - Uses This: uses-this.md
     - Contact: contact.md
     - About: about.md
