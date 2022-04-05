@@ -73,10 +73,15 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 - I also supplement my needs with Spotify, Audible, Libby, and Pocket Casts.
 - Books and comics are organized and served via OPDS, and is usually read on my iPad Mini with KyBook 3.
 
-### Productivity
+## Productivity
 
-- [1Password](https://1password.com/) is my preferred password manager. See 1Password White Paper.
-- [Todoist](https://todoist.com/) is probably the best todo-list app that's cross-platform (web included). Though I hate the entire act of making to-dos.
+<div class="grid cards" markdown>
+
+- ![1Password](/assets/img/uses-this/1Password.png){ .twemoji } [1Password](https://1password.com/)
+- ![Todoist](/assets/img/uses-this/todoist.svg){ .twemoji } [Todoist](https://todoist.com/)
+
+</div>
+
 - Google Calendar is my choice for now, though I'm actively looking for an alternative.
 - [QMK](https://qmk.fm/) for all my keyboards.
 - Emails:
