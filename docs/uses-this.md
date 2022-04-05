@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 ## Hardware 🔧
 
 ### PC
