@@ -1,21 +1,21 @@
 # ANCHOR Project information
-site_name: Damn That Television
-site_url: https://tylernguyen.dev
+site_name: Tyler Nguyen's Webpage
+site_url: https://tylernguyen.xyz
 site_author: Tyler Nguyen
 site_description: >-
-  Damn That Television is a Tyler Nguyen blog production, 
-  himself directed and alone edited.
+  Tyler is a high consumer of popular culture, history, and the internet;
+  He has much to say, so he writes instead of annoying the uninterested.
 
 # ANCHOR  Repository
-repo_name: damnthattelevision.com
-repo_url: https://github.com/tylernguyen/damnthattelevision.com
+repo_name: tylernguyen.xyz
+repo_url: https://github.com/tylernguyen/tylernguyen.xyz
 edit_uri: ""
 
 theme:
   name: material
   custom_dir: overrides
   icon:
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/git-square
   font:
     text: Roboto
     code: Fira Code
@@ -89,4 +89,8 @@ markdown_extensions:
 
 # ANCHOR Page tree
 nav:
-    - Home: blog/index.md
+    - Home: index.md
+    - Blog: blog/index.md
+    - Uses This: uses-this.md
+    - Contact: contact.md
+    - About: about.md
