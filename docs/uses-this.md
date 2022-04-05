@@ -96,7 +96,7 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 <div class="grid cards" markdown>
 
 - ![1Password](/assets/img/uses-this/1Password.png){ .twemoji } [1Password](https://1password.com/)
-- ![Todoist](/assets/img/uses-this/todoist.svg){ .twemoji } [Todoist](https://todoist.com/)
+- ![Todoist](/assets/img/uses-this/Todoist.svg){ .twemoji } [Todoist](https://todoist.com/)
 - ![QMK](/assets/img/uses-this/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
 
 </div>
