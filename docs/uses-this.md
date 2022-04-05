@@ -151,6 +151,6 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 <div class="grid cards" markdown>
 
 - ![Cloudflare](/assets/img/uses-this/Cloudflare.png){ .twemoji } [Cloudflare](https://www.cloudflare.com/)
-- ![MkDocs Material](/assets/img/uses-this/MkDocs-Material.svg){ .twemoji } [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
+- ![MkDocs Material](/assets/img/uses-this/MkDocs-Material.png){ .twemoji } [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 
 </div>
