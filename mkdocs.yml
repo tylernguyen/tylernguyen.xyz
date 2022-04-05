@@ -100,5 +100,6 @@ nav:
       - 'Hardware' : 'setup/hardware.md'
       - 'Selfhosted' : 'setup/selfhosted.md'
       - 'Email' : 'setup/email.md'
+      - 'YubiKey' : 'setup/yubikey.md'
     - Contact: contact.md
     - About: about.md
