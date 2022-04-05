@@ -110,10 +110,13 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 
 ### CLI
 
-- `winget` on Windows, brew on macOS for software management.
-- Debian under WSL 2 on Windows.
-- Alacritty is my preferred terminal emulator.
-- `fish` is my favorite shell, mostly because of its autocomplete.
+<div class="grid cards" markdown>
+
+- ![Wezterm](/assets/img/uses-this/wezterm.png){ .twemoji } [Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
+- ![Homebrew](/assets/img/uses-this/Homebrew.png){ .twemoji } [Homebrew](https://brew.sh/)
+- ![winget](/assets/img/uses-this/winget.png){ .twemoji } [winget](https://github.com/microsoft/winget-cli)
+
+</div>
 
 ## Services ☎️
 
