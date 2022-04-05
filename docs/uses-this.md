@@ -67,6 +67,21 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 
 ### Media
 
+<div class="grid cards" markdown>
+
+- ![Unraid](/assets/img/uses-this/Unraid.png){ .twemoji } [Unraid](https://unraid.net/)
+- ![Plex](/assets/img/uses-this/Plex.png){ .twemoji } [Plex](https://www.plex.tv/)
+- ![QMK](/assets/img/uses-this/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
+
+</div>
+
+<div class="grid cards" markdown>
+
+- ![Plexamp](/assets/img/uses-this/Plexamp.png){ .twemoji } [Plexamp (iOS)](https://plexamp.com/)
+- ![Prologue](/assets/img/uses-this/Prologue.jpg){ .twemoji } [Prologue (iOS)](https://prologue.audio/)
+
+</div>
+
 - Unraid as the OS for home server. Docker as its best friend.
 - Plex is my temple. It has all sorts of movies, television, anime, audiobooks, and high-fidelity music that I’ve hoarded over the years.
 - Plex Dash, Plexamp, and Prologue are great companion apps to the Plex server.
@@ -79,14 +94,9 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 
 - ![1Password](/assets/img/uses-this/1Password.png){ .twemoji } [1Password](https://1password.com/)
 - ![Todoist](/assets/img/uses-this/todoist.svg){ .twemoji } [Todoist](https://todoist.com/)
+- ![QMK](/assets/img/uses-this/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
 
 </div>
-
-- Google Calendar is my choice for now, though I'm actively looking for an alternative.
-- [QMK](https://qmk.fm/) for all my keyboards.
-- Emails:
-	- Web versions on desktop.
-	- `Mail.app` on iOS.
   
 ### Slacking
 
