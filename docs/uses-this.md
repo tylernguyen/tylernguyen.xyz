@@ -61,6 +61,14 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 - [Obsidian](https://obsidian.md/) for topic research.
 - Just Press Record for voice memos.
 
+<div class="grid cards" markdown>
+
+- ![VSCode](/assets/img/uses-this/VSCode.png){ .twemoji } [VSCode](https://code.visualstudio.com/)
+- ![iA Writer](/assets/img/uses-this/iA-Writer.png){ .twemoji } [iA Writer](https://ia.net/writer)
+- ![Obsidian](/assets/img/uses-this/Obsidian.png){ .twemoji } [Obsidian](https://obsidian.md/)
+
+</div>
+
 ### Design
 
 - Adobe Photoshop and Illustrator are what I initially learned, and stuck to until today. I only do very light design/mockup work so I've been reluctant to learn alternatives.
@@ -77,7 +85,7 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 
 <div class="grid cards" markdown>
 
-- ![Plexamp](/assets/img/uses-this/Plexamp.png){ .twemoji } [Plexamp (iOS)](https://plexamp.com/)
+- ![Plexamp](/assets/img/uses-this/Plexamp.png){ .twemoji } [Plexamp](https://plexamp.com/)
 - ![Prologue](/assets/img/uses-this/Prologue.jpg){ .twemoji } [Prologue (iOS)](https://prologue.audio/)
 
 </div>
