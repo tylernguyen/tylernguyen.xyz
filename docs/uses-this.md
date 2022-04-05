@@ -73,7 +73,7 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 <div class="grid cards" markdown>
 
 - ![Unraid](/assets/img/uses-this/Unraid.png){ .twemoji } [Unraid](https://unraid.net/)
-- ![Plex](/assets/img/uses-this/Plex.png){ .twemoji } [Plex](https://www.plex.tv/)
+- ![Plex](/assets/img/uses-this/Plex.svg){ .twemoji } [Plex](https://www.plex.tv/)
 - ![QMK](/assets/img/uses-this/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
 
 </div>
@@ -82,6 +82,14 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 
 - ![Plexamp](/assets/img/uses-this/Plexamp.png){ .twemoji } [Plexamp](https://plexamp.com/)
 - ![Prologue](/assets/img/uses-this/Prologue.jpg){ .twemoji } [Prologue (iOS)](https://prologue.audio/)
+
+</div>
+
+<div class="grid cards" markdown>
+
+- ![Audible](/assets/img/uses-this/Audible.png){ .twemoji } [Audible](https://www.audible.com/)
+- ![Spotify](/assets/img/uses-this/Spotify.svg){ .twemoji } [Spotify](https://www.spotify.com/us/)
+- ![Pocket Casts](/assets/img/uses-this/Pocket-Casts.svg){ .twemoji } [Pocket Casts](https://pocketcasts.com/)
 
 </div>
 
@@ -129,7 +137,7 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 <div class="grid cards" markdown>
 
 - ![iCloud](/assets/img/uses-this/iCloud.png){ .twemoji } [iCloud](https://www.icloud.com/)
-- ![Backblaze B2](/assets/img/uses-this/Backblaze-B2.png){ .twemoji } [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)
+- ![Backblaze B2](/assets/img/uses-this/Backblaze.svg){ .twemoji } [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)
 - ![Cryptomator](/assets/img/uses-this/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
 
 </div>
