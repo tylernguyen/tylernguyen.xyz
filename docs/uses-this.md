@@ -120,7 +120,7 @@ I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca l
 <div class="grid cards" markdown>
 
 - ![ProtonMail](/assets/img/uses-this/ProtonMail.png){ .twemoji } [ProtonMail](https://protonmail.com/)
-- ![SimpleLogin](/assets/img/uses-this/SimpleLogin.png){ .twemoji } [SimpleLogin](https://simplelogin.io/)
+- ![SimpleLogin](/assets/img/uses-this/SimpleLogin.svg){ .twemoji } [SimpleLogin](https://simplelogin.io/)
 
 </div>
 
