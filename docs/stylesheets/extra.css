@@ -1,4 +1,9 @@
-/* ANCHOR Define brand colors */
+/* ANCHOR Page Width */
+.md-grid {
+  max-width: initial;
+}
+
+/* ANCHOR Colors */
 :root {
   --md-primary-fg-color: #282F38;
   --md-primary-fg-color--light: #282F38;
