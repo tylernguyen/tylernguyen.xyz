@@ -11,6 +11,10 @@
 
     [Visit 1password.com](https://1password.com/){ .md-button .md-button--primary } [1Password White Paper](https://1passwordstatic.com/files/security/1password-white-paper.pdf){ .md-button }
 
+!!! warning
+
+    1Password is not open source.
+
 ### Yubikey
 
 !!! recommendation

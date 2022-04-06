@@ -17,9 +17,17 @@
 
 <div class="grid cards" markdown>
 
-- ![Reeder](/assets/img/uses-this/Reeder.jpg){ .twemoji } [Reader](https://reederapp.com/) (macOS and iOS)
+- ![Reeder](/assets/img/uses-this/Reeder.jpg){ .twemoji } [Reader](https://reederapp.com/) macOS and iOS
 - ![Plexamp](/assets/img/uses-this/Plexamp.png){ .twemoji } [Plexamp](https://plexamp.com/)
-- ![Prologue](/assets/img/uses-this/Prologue.jpg){ .twemoji } [Prologue](https://prologue.audio/) (iOS)
+- ![Prologue](/assets/img/uses-this/Prologue.jpg){ .twemoji } [Prologue](https://prologue.audio/) iOS
+
+</div>
+
+### File Encryption
+
+<div class="grid cards" markdown>
+
+- ![Cryptomator](/assets/img/uses-this/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
 
 </div>
 
@@ -28,8 +36,6 @@
 
 <div class="grid cards" markdown>
 
-- ![1Password](/assets/img/uses-this/1Password.png){ .twemoji } [1Password](https://1password.com/)
-- ![Todoist](/assets/img/uses-this/Todoist.svg){ .twemoji } [Todoist](https://todoist.com/)
 - ![QMK](/assets/img/uses-this/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
 
 </div>

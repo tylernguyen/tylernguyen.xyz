@@ -24,10 +24,14 @@
 
 - ![iCloud](/assets/img/uses-this/iCloud.png){ .twemoji } [iCloud](https://www.icloud.com/)
 - ![Backblaze B2](/assets/img/uses-this/Backblaze.svg){ .twemoji } [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)
-- ![Cryptomator](/assets/img/uses-this/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
 
 </div>
-  
+
+### Productivity
+
+- ![Todoist](/assets/img/uses-this/Todoist.svg){ .twemoji } [Todoist](https://todoist.com/) (SaaS)
+
+
 ### VPN
 
 <div class="grid cards" markdown>
