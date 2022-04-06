@@ -2,7 +2,6 @@
 
 I prefer to have seperate environments for work and play. Hence,
 
-``` title="Content tabs"
 === "Workspace PC"
 
     - Alienware AW2521H Monitor
@@ -21,7 +20,6 @@ I prefer to have seperate environments for work and play. Hence,
 === "Laptop"
 
     Thinkpad X1 Carbon 2018/6th Gen [running macOS](https://github.com/tylernguyen/x1c6-hackintosh)
-```
 
 ### Audio
 
