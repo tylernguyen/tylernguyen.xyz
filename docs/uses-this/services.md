@@ -1,5 +1,3 @@
-## Services ☎️
-
 ### Email
 
 <div class="grid cards" markdown>

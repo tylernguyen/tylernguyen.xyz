@@ -1,5 +1,3 @@
-## Hardware 🔧
-
 ### PC
 
 I prefer to have seperate environments for work and play. Hence,

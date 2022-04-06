@@ -100,7 +100,7 @@ nav:
       - 'Software' : 'uses-this/software.md'
       - 'Services' : 'uses-this/services.md'
       - 'Self-Hosted' : 'uses-this/selfhosted.md'
-      - 'Email' : 'uses-this/email.md'
-      - 'YubiKey' : 'uses-this/yubikey.md'
+      - 'Privacy' : 'uses-this/privacy.md'
+      - 'Security' : 'uses-this/security.md'
     - Contact: contact.md
     - About: about.md

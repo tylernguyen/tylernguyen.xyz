@@ -1,5 +1,3 @@
-## Software 🍎
-
 ### Writing, Text, and Audio
 
 <div class="grid cards" markdown>
