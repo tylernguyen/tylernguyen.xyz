@@ -3,6 +3,12 @@
   max-width: 1500px;
 }
 
+/* ANCHOR Hide shadow under navigation */
+.md-header[data-md-state="shadow"],
+.md-header--shadow {
+  box-shadow: none;
+}
+
 /* SECTION Colors */
 :root {
   --md-primary-fg-color: #282F38;
@@ -10,6 +16,7 @@
   --md-primary-fg-color--dark: #232631;
 }
 
+/* ANCHOR Dark Mode Colors */
 [data-md-color-scheme="slate"] {
   --md-default-bg-color: rgb(26, 28, 35);
   --md-default-bg-color--light: rgb(26, 28, 35, 0.54);
@@ -21,15 +28,9 @@
   --md-typeset-a-color: #689D6A;
 }
 
-/* ANCHOR Hide shadow under navigation */
-.md-header[data-md-state="shadow"],
-.md-header--shadow {
-  box-shadow: none;
-}
-
-/* ANCHOR Light Theme: Match Link Color with Primary */
+/* ANCHOR Light Mode Colors */
 [data-md-color-scheme="default"] {
-  --md-typeset-a-color: #F09383;
+  --md-typeset-a-color: #6C6F93;
 }
 
 /* ANCHOR Button Color depends on Link Color */
