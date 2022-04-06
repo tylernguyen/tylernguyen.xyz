@@ -16,6 +16,7 @@
 - ![Reeder](/assets/img/uses-this/Reeder.jpg){ .twemoji } [Reader](https://reederapp.com/) macOS and iOS
 - ![Plexamp](/assets/img/uses-this/Plexamp.png){ .twemoji } [Plexamp](https://plexamp.com/)
 - ![Prologue](/assets/img/uses-this/Prologue.jpg){ .twemoji } [Prologue](https://prologue.audio/) iOS
+- ![Panels](/assets/img/uses-this/Panels.png){ .twemoji } [Panels](https://panels.app/) iOS
 
 </div>
 
