@@ -19,9 +19,9 @@
 
 !!! recommendation
 
-    ![YubiKeys](/assets/img/uses-this/Yubikey.png)
+    ![YubiKeys](/assets/img/uses-this/Yubikey.png){ align=right }
 
-    Yubikey supports the most security protocols and is widely supported by the industry and security conscious community.
+    Yubikey supports the most security protocols. It is also widely supported by the industry and security conscious community.
 
     [Visit yubico.com](https://www.yubico.com){ .md-button .md-button--primary } [Privacy Policy](https://www.yubico.com/support/terms-conditions/privacy-notice){ .md-button }
 
