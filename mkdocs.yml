@@ -91,8 +91,8 @@ markdown_extensions:
 nav:
     - Home: index.md
     - Blog: blog/index.md
-      - '2022':
-        - 'April':
+      - 2022:
+        - April:
           - 'Cloudflare Tunnels, Zero Trust, and Warp': 'blog/2022/cloudflare-tunnels-zero-trust-and-warp.md'
     - Catalog:
       - Books : catalog/books.md
