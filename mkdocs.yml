@@ -96,14 +96,18 @@ nav:
         - 'April':
           - 'Cloudflare Tunnels, Zero Trust, and Warp': 'blog/2022/cloudflare-tunnels-zero-trust-and-warp.md'
     - Catalog:
-      - 'Books' : 'catalog/books.md'
+      - Books : catalog/books.md
+      - Movies : catalog/movies.md
+      - Television: catalog/television.md
+      - Comics: catalog/comics.md
+      - Manga: catalog/manga.md
     - Uses This:
-      - 'Hardware' : 'uses-this/hardware.md'
-      - 'Software' : 'uses-this/software.md'
-      - 'Services' : 'uses-this/services.md'
-      - 'Self-Hosted' : 'uses-this/selfhosted.md'
-      - 'Privacy' : 'uses-this/privacy.md'
-      - 'Security' : 'uses-this/security.md'
+      - Hardware : uses-this/hardware.md
+      - Software : uses-this/software.md
+      - Services : uses-this/services.md
+      - Self-Hosted : uses-this/selfhosted.md
+      - Privacy' : uses-this/privacy.md
+      - Security : uses-this/security.md
     - Contact: contact.md
     - Credits: credits.md
     - Support: support.md
