@@ -9,10 +9,6 @@
 
 </div>
 
-### Design
-
-- Adobe Photoshop and Illustrator are what I initially learned, and stuck to until today. I only do very light design/mockup work so I've been reluctant to learn alternatives.
-
 ### Media
 
 <div class="grid cards" markdown>
@@ -30,7 +26,6 @@
 - ![Cryptomator](/assets/img/uses-this/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
 
 </div>
-
 
 ## Productivity
 
