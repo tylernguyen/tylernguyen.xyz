@@ -11,10 +11,11 @@
 
 <div class="grid cards" markdown>
 
+- ![GitLab](/assets/img/uses-this/GitLab.svg){ .twemoji } [GitLab CE](https://about.gitlab.com/install/)
 - ![Plex](/assets/img/uses-this/Plex.svg){ .twemoji } [Plex](https://www.plex.tv/)
 - ![FreshRSS](/assets/img/uses-this/FreshRSS.png){ .twemoji } [FreshRSS](https://www.freshrss.org/)
 - ![RSSHub](/assets/img/uses-this/RSSHub.png){ .twemoji } [RSSHub](https://github.com/DIYgod/RSSHub)
-- ![n8n](/assets/img/uses-this/n8n.png){ .twemoji } [n9n](https://n8n.io)
+- ![n8n](/assets/img/uses-this/n8n.png){ .twemoji } [n8n](https://n8n.io)
 
 </div>
 
