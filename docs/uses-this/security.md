@@ -1,5 +1,16 @@
 ### Threat Model
 
+### 1Password
+
+!!! recommendation
+
+    ![1Password](/assets/img/uses-this/1Password-banner-light.svg#only-light){ align=right }
+    ![1Password](/assets/img/uses-this/1Password-banner-dark.svg#only-dark){ align=right }
+
+    1Password is my preferred password manager. It also manages any OTP multi-factor authentication I need.
+
+    [Visit 1password.com](https://1password.com/){ .md-button .md-button--primary } [1Password White Paper](https://1passwordstatic.com/files/security/1password-white-paper.pdf){ .md-button }
+
 ### Yubikey
 
 !!! recommendation
