@@ -17,7 +17,7 @@ theme:
   icon:
     repo: fontawesome/brands/git-square
   font:
-    text: Inter
+    text: Roboto Condensed
     code: Fira Code
   palette:
     - media: "(prefers-color-scheme: light)"
