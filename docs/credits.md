@@ -19,7 +19,7 @@ hide:
 
 !!! recommendation
 
-    ![Cloudflare](/assets/img/uses-this/Cloudflare-banner.svg#only-light){ align=right }
+    ![Cloudflare](/assets/img/uses-this/Cloudflare-banner-light.svg#only-light){ align=right }
     ![Cloudflare](/assets/img/uses-this/Cloudflare-banner-dark.svg#only-dark){ align=right }
 
     Cloudflare Pages leverage the Cloudflare network and infrastructure to build a JAMstack platform that is performant, secure, and cost effective.
