@@ -8,6 +8,7 @@
   --md-primary-fg-color: #282F38;
   --md-primary-fg-color--light: #282F38;
   --md-primary-fg-color--dark: #232631;
+  --md-text-link-color: #689D6A;
 }
 
 [data-md-color-scheme="slate"] {
@@ -18,7 +19,6 @@
   --md-default-fg-color: #FDF0ED;
   --md-footer-bg-color: rgb(23, 27, 32, 0.87);
   --md-footer-bg-color-dark: rgb(67, 126, 199);
-  --md-typeset-a-color: #689D6A;
 }
 
 /* ANCHOR Hide shadow under navigation */
@@ -27,21 +27,16 @@
   box-shadow: none;
 }
 
-/* ANCHOR Light Theme: Match Link Color with Primary */
-[data-md-color-scheme="default"] {
-  --md-typeset-a-color: #282F38;
-}
-
 /* ANCHOR Button Color depends on Link Color */
 .md-typeset .md-button {
-  color: var(--md-typeset-a-color);
+  color: var(--md-text-link-color);
   margin-bottom: 5px;
 }
 
 .md-typeset .md-button--primary {
   color: white;
-  background-color: var(--md-typeset-a-color);
-  border-color: var(--md-typeset-a-color);
+  background-color: var(--md-text-link-color);
+  border-color: var(--md-text-link-color);
 }
 
 [data-md-color-scheme="slate"] .md-typeset .md-button--primary {

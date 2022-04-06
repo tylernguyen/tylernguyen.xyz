@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 ### Resources
 
 !!! recommendation
