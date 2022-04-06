@@ -3,6 +3,7 @@
 I prefer to have seperate environments for work and play. Hence,
 
 Gaming PC:
+
 - Alienware AW2521H Monitor
 - ASUS ROG Strix X570-I AM4 Motherboard
 - AMD Ryzen 7 5800X CPU
@@ -10,6 +11,7 @@ Gaming PC:
 - 64GB of RAM
 
 Work Hackintosh:
+
 - B360M Mortar MS-7B23 Motherboard
 - Intel i7-8700
 - AMD Radeon RX 6900XT
@@ -22,6 +24,7 @@ I have an iPad Mini mostly serving as my media consumption device: watching and 
 ### Audio
 
 My audio peripherals include the Schiit Modius and Magnius stack, paired with, by order of preference:
+
 - Massdrop x Focal Elex
 - Massdrop x Beyerdynamic DT 177X GO Headphones 
 

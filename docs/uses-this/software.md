@@ -47,11 +47,6 @@
 - ![QMK](/assets/img/uses-this/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
 
 </div>
-  
-### Slacking
-
-- [Discord](https://discord.com/)  as the modern chat room alternative. I belong to way too many servers/communities. It’s also basically an instant messenger between my friends.
-- Reddit is as close as I’ll ever get to having social media.
 
 ### CLI
 
@@ -60,5 +55,14 @@
 - ![Wezterm](/assets/img/uses-this/wezterm.png){ .twemoji } [Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
 - ![Homebrew](/assets/img/uses-this/Homebrew.png){ .twemoji } [Homebrew](https://brew.sh/)
 - ![winget](/assets/img/uses-this/winget.png){ .twemoji } [winget](https://github.com/microsoft/winget-cli)
+
+</div>
+
+
+### Static Site Generator
+
+<div class="grid cards" markdown>
+
+- ![MkDocs Material](/assets/img/uses-this/MkDocs-Material.png){ .twemoji } [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 </div>

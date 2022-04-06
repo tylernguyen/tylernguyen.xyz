@@ -31,6 +31,5 @@
 <div class="grid cards" markdown>
 
 - ![Cloudflare](/assets/img/uses-this/Cloudflare.svg){ .twemoji } [Cloudflare](https://www.cloudflare.com/)
-- ![MkDocs Material](/assets/img/uses-this/MkDocs-Material.png){ .twemoji } [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 
 </div>
