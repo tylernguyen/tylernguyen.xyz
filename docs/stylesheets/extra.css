@@ -3,12 +3,6 @@
   max-width: 1500px;
 }
 
-/* ANCHOR Hide shadow under navigation */
-.md-header[data-md-state="shadow"],
-.md-header--shadow {
-  box-shadow: none;
-}
-
 /* SECTION Colors */
 :root {
   --md-primary-fg-color: #282F38;
