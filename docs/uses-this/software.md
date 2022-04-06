@@ -17,26 +17,11 @@
 
 <div class="grid cards" markdown>
 
-- ![Unraid](/assets/img/uses-this/Unraid.png){ .twemoji } [Unraid](https://unraid.net/)
-- ![Plex](/assets/img/uses-this/Plex.svg){ .twemoji } [Plex](https://www.plex.tv/)
-
-</div>
-
-<div class="grid cards" markdown>
-
 - ![Plexamp](/assets/img/uses-this/Plexamp.png){ .twemoji } [Plexamp](https://plexamp.com/)
 - ![Prologue](/assets/img/uses-this/Prologue.jpg){ .twemoji } [Prologue (iOS)](https://prologue.audio/)
 
 </div>
 
-<div class="grid cards" markdown>
-
-- ![Audible](/assets/img/uses-this/Audible.png){ .twemoji } [Audible](https://www.audible.com/)
-- ![Spotify](/assets/img/uses-this/Spotify.svg){ .twemoji } [Spotify](https://www.spotify.com/us/)
-- ![Pocket Casts](/assets/img/uses-this/Pocket-Casts.svg){ .twemoji } [Pocket Casts](https://pocketcasts.com/)
-- ![Libby](/assets/img/uses-this/Libby.png){ .twemoji } [Libby](https://libbyapp.com)
-
-</div>
 
 ## Productivity
 

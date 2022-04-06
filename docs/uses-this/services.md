@@ -1,3 +1,14 @@
+### Media
+
+<div class="grid cards" markdown>
+
+- ![Audible](/assets/img/uses-this/Audible.png){ .twemoji } [Audible](https://www.audible.com/)
+- ![Spotify](/assets/img/uses-this/Spotify.svg){ .twemoji } [Spotify](https://www.spotify.com/us/)
+- ![Pocket Casts](/assets/img/uses-this/Pocket-Casts.svg){ .twemoji } [Pocket Casts](https://pocketcasts.com/)
+- ![Libby](/assets/img/uses-this/Libby.png){ .twemoji } [Libby](https://libbyapp.com)
+
+</div>
+
 ### Email
 
 <div class="grid cards" markdown>
