@@ -16,7 +16,7 @@ Email is the most direct and convenient way to get ahold of me.
 
 !!! note
 
-  I would prefer for messages to be encrypted, even if its content is non-sensitive.
+    I would prefer for messages to be encrypted, even if its content is non-sensitive.
 
 ## What I'll definitely respond to ✅
 
