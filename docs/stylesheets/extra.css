@@ -3,7 +3,7 @@
   max-width: 1500px;
 }
 
-/* ANCHOR Colors */
+/* SECTION Colors */
 :root {
   --md-primary-fg-color: #282F38;
   --md-primary-fg-color--light: #282F38;
@@ -27,12 +27,12 @@
   box-shadow: none;
 }
 
-/* ANCHOR Better contrast link colors */
+/* ANCHOR Light Theme: Match Link Color with Primary */
 [data-md-color-scheme="default"] {
   --md-typeset-a-color: #282F38;
 }
 
-/* ANCHOR Purple buttons */
+/* ANCHOR Button Color depends on Link Color */
 .md-typeset .md-button {
   color: var(--md-typeset-a-color);
   margin-bottom: 5px;
@@ -48,7 +48,9 @@
   color: var(--md-primary-bg-color);
 }
 
-/* ANCHOR Recommendation cards */
+/* !SECTION */
+
+/* ANCHOR Custom Recommendation Cards: https://github.com/privacyguides/privacyguides.org/blob/main/docs/stylesheets/extra.css */
 .md-typeset .admonition.recommendation,
 .md-typeset details.recommendation {
   border: none;
