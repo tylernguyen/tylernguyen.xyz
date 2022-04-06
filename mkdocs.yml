@@ -95,6 +95,8 @@ nav:
       - '2022':
         - 'April':
           - 'Cloudflare Tunnels, Zero Trust, and Warp': 'blog/2022/cloudflare-tunnels-zero-trust-and-warp.md'
+    - Catalog:
+      - 'Books' : 'catalog/books.md'
     - Uses This:
       - 'Hardware' : 'uses-this/hardware.md'
       - 'Software' : 'uses-this/software.md'
@@ -103,4 +105,5 @@ nav:
       - 'Privacy' : 'uses-this/privacy.md'
       - 'Security' : 'uses-this/security.md'
     - Contact: contact.md
+    - Credits: credits.md
     - About: about.md

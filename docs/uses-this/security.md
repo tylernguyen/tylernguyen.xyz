@@ -1,6 +1,6 @@
 ### Threat Model
 
-### YubiKey
+### Yubikey
 
 !!! recommendation
 
