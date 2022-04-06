@@ -27,11 +27,19 @@
 
 </div>
 
-## Productivity
+### Productivity
 
 <div class="grid cards" markdown>
 
 - ![QMK](/assets/img/uses-this/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
+
+</div>
+
+### VPN
+
+<div class="grid cards" markdown>
+
+- ![Wireguard](/assets/img/uses-this/Wireguard.svg){ .twemoji } [Wireguard](https://www.wireguard.com/)
 
 </div>
 
@@ -56,4 +64,4 @@
 
 !!! info
 
-    Material for MkDocs Insiders starts at $10 a month. The subscription gives access to early developments and features.
+    Material for MkDocs has a private development fork called Insiders. The subsciption starts at $10 a month and gives access to early developments and features.

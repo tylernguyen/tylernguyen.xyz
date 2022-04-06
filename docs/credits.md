@@ -9,19 +9,15 @@ hide:
 
     ![Material for MkDocs](/assets/img/uses-this/MkDocs-Material.png){ align=right }
 
-    The site is built with [Material Design](https://material.io/) theme for [MkDocs](https://www.mkdocs.org/).
+    The site is built with Material for MkDocs **Insiders**, a paid fork of Material for MkDocs.
 
     MkDocs is a static site generator written in Python.
 
-    squidfunk/mkdocs-material is an expansion of the project, integreating modern extensions, callouts, mathematical formulas, fonts, and icons.
-
-    [Homepage](https://squidfunk.github.io/mkdocs-material/){ .md-button .md-button--primary } [Source](https://github.com/squidfunk/mkdocs-material){ .md-button }
-
-!!! info
-
-    The site is built with Material for MkDocs Insiders, a paid fork of Material for MkDocs.
+    squidfunk/mkdocs-material is an expansion of MkDocs, integreating modern extensions, callouts, mathematical formulas, fonts, and icons.
 
     Material for MkDocs Insiders starts at $10 a month. The subscription gives access to early developments and features.
+
+    [Homepage](https://squidfunk.github.io/mkdocs-material/){ .md-button .md-button--primary } [Source](https://github.com/squidfunk/mkdocs-material){ .md-button }    
 
 !!! recommendation
 
