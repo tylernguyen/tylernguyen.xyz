@@ -3,13 +3,13 @@ hide:
   - navigation
 ---
 
-### Resources
+### Platforms
 
 !!! recommendation
 
     ![Material for MkDocs](/assets/img/uses-this/MkDocs-Material.png){ align=right }
 
-    Made with [Material Design](https://material.io/) theme for [MkDocs](https://www.mkdocs.org/).
+    The site is built with [Material Design](https://material.io/) theme for [MkDocs](https://www.mkdocs.org/).
 
     MkDocs is a static site generator written in Python.
 
@@ -22,8 +22,11 @@ hide:
     ![Cloudflare](/assets/img/uses-this/Cloudflare-banner-light.svg#only-light){ align=right }
     ![Cloudflare](/assets/img/uses-this/Cloudflare-banner-dark.svg#only-dark){ align=right }
 
-    Cloudflare Pages leverage the Cloudflare network and infrastructure to build a JAMstack platform that is performant, secure, and cost effective.
+    The site is hosted by Cloudflare via Cloudflare Pages. Cloudflare Pages leverage the Cloudflare network and infrastructure to build a JAMstack platform that is performant, secure, and cost effective.
 
     [Visit pages.cloudflare.com](https://pages.cloudflare.com/){ .md-button .md-button--primary } [Privacy Policy](https://www.cloudflare.com/privacypolicy/){ .md-button }
 
 ### References
+
+1. [PyMdown Extensions Documentation](https://facelessuser.github.io/pymdown-extensions/)
+2. [Custom Admonitions](https://github.com/privacyguides/privacyguides.org/blob/main/docs/stylesheets/extra.css) from [Privacy Guides](https://www.privacyguides.org/)) Source.
