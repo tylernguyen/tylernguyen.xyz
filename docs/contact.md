@@ -5,8 +5,8 @@ hide:
 
 Email is the most direct and convenient way to get ahold of me.
 
-[contact@tyler-nguyen.com :fontawesome-solid-paper-plane:](mailto:contact@tyler-nguyen.com){ .md-button .md-button--primary }{ align=left }
-[GPG Key ID 0x136307727d3eef96](https://keys.openpgp.org/vks/v1/by-fingerprint/B4D2B2DB8E304D0366BFE3FF136307727D3EEF96){ .md-button }{ align=right }
+[contact@tyler-nguyen.com :fontawesome-solid-paper-plane:](mailto:contact@tyler-nguyen.com){ .md-button .md-button--primary }
+[GPG Key ID 0x136307727d3eef96](https://keys.openpgp.org/vks/v1/by-fingerprint/B4D2B2DB8E304D0366BFE3FF136307727D3EEF96){ .md-button }
 
 !!! note
 
