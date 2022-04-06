@@ -29,4 +29,4 @@ hide:
 ### References
 
 1. [PyMdown Extensions Documentation](https://facelessuser.github.io/pymdown-extensions/)
-2. [Custom Admonitions](https://github.com/privacyguides/privacyguides.org/blob/main/docs/stylesheets/extra.css) from [Privacy Guides](https://www.privacyguides.org/)) Source.
+2. [Custom Admonitions](https://github.com/privacyguides/privacyguides.org/blob/main/docs/stylesheets/extra.css) from [Privacy Guides](https://www.privacyguides.org/)'s source code.
