@@ -1,6 +1,7 @@
 !!! recommendation
 
-    ![Unraid](/assets/img/uses-this/Unraid.png)
+    ![Unraid](/assets/img/uses-this/Unraid-banner-light.svg#only-light){ align=right }
+    ![Unraid](/assets/img/uses-this/Unraid-banner-dark.svg#only-dark){ align=right }
 
     Unraid is my preferred NAS operating system for its ease of use, Docker support, and active community.
 
