@@ -58,3 +58,7 @@
 - ![MkDocs Material](/assets/img/uses-this/MkDocs-Material.png){ .twemoji } [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 </div>
+
+!!! info
+
+    Material for MkDocs Insiders starts at $10 a month. The subscription gives access to early developments and features.

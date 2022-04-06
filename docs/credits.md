@@ -17,6 +17,12 @@ hide:
 
     [Homepage](https://squidfunk.github.io/mkdocs-material/){ .md-button .md-button--primary } [Source](https://github.com/squidfunk/mkdocs-material){ .md-button }
 
+!!! info
+
+    The site is built with Material for MkDocs Insiders, a paid fork of Material for MkDocs.
+
+    Material for MkDocs Insiders starts at $10 a month. The subscription gives access to early developments and features.
+
 !!! recommendation
 
     ![Cloudflare](/assets/img/uses-this/Cloudflare-banner-light.svg#only-light){ align=right }
