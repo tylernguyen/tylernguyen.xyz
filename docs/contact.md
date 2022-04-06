@@ -3,8 +3,6 @@ hide:
   - navigation
 ---
 
-## Email Address
-
 Email is the most direct and convenient way to get ahold of me.
 
 <div class="grid cards" markdown>
