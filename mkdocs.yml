@@ -28,7 +28,7 @@ theme:
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      accent: red
+      accent: pink
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -106,11 +106,6 @@ nav:
       - Self-Hosted : uses-this/selfhosted.md
       - Privacy : uses-this/privacy.md
       - Security : uses-this/security.md
-      - Setup:
-        - macOS: uses-this/setup/macos.md
-        - Windows: uses-this/setup/windows.md
-        - VSCode: uses-this/setup/vscode.md
-        - CLI: uses-this/setup/cli.md
     - Contact: contact.md
     - Credits: credits.md
     - Support: https://github.com/sponsors/tylernguyen
