@@ -29,7 +29,7 @@ hide:
     ![GitHub](/assets/img/uses-this/GitHub-banner-light.png#only-light){ align=right }
     ![GitHub](/assets/img/uses-this/GitHub-banner-dark.png#only-dark){ align=right }
 
-    GitHub is my preferred public Git hosting for its 3rd party integrations, automation, and workflows.
+    GitHub hosts the source code of this site. It is my preferred public Git hosting for its 3rd party integrations, automation, and workflows.
 
     [Homepage](https://github.com/){ .md-button .md-button--primary } [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement){ .md-button }
 
