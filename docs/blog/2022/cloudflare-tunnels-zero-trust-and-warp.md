@@ -1,4 +1,5 @@
 ---
+template: overrides/blog.html
 tags:
   - internet
   - selfhosted
