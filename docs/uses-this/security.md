@@ -5,7 +5,7 @@
 !!! recommendation
 
     ![1Password](/assets/img/uses-this/banners/1Password-light.svg#only-light){ align=right }
-    ![1Password](/assets/img/uses-this/banners/1Password--dark.svg#only-dark){ align=right }
+    ![1Password](/assets/img/uses-this/banners/1Password-dark.svg#only-dark){ align=right }
 
     1Password is my preferred password manager. It also manages any OTP multi-factor authentication I need.
 
