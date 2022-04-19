@@ -28,9 +28,9 @@ hide:
 
 !!! info "License"
 
-    This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+    This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-    I.e. copy, remix, and redistribute to your likings but make sure to provide due credits and links.
+    I.e. copy, remix, and redistribute in a non-commericial manner but make sure to provide due credits and links.
 
 [^1]: [Richard Stallman: Twitter](https://stallman.org/twitter.html)
 [^2]: [Richard Stallman: Reasons not be used by Facebook](https://stallman.org/facebook.html)
