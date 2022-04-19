@@ -9,7 +9,7 @@ site_description: >-
 # ANCHOR  Repository
 repo_name: tylernguyen.xyz
 repo_url: https://github.com/tylernguyen/tylernguyen.xyz
-edit_uri: ""
+edit_uri: "edit/main/docs/"
 
 theme:
   name: material
