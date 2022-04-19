@@ -11,6 +11,8 @@ repo_name: tylernguyen.xyz
 repo_url: https://github.com/tylernguyen/tylernguyen.xyz
 edit_uri: "edit/main/docs/"
 
+copyright: Copyright &copy; 2022 Tyler Nguyen
+
 theme:
   name: material
   custom_dir: overrides
