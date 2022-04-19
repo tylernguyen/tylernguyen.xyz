@@ -6,7 +6,9 @@
 
     ![xkcd](/assets/img/catalog/xkcd.png){ align=right }
 
-    The essential internet comic. xkcd is short, witty, and frequently referenced across the web.
+    The essential internet comic.
+    
+    xkcd is short, witty, and frequently referenced across the web.
 
     [Website](https://xkcd.com/){ .md-button .md-button--primary } [RSS Feed](https://xkcd.com/atom.xml){ .md-button }    
 

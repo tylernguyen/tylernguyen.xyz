@@ -13,7 +13,7 @@
 
     Audible is a subsidiary of Amazon.[^1]   
     
-    Amazon sells it ebooks and audiobooks with DRM. Buy directly from publisher and your local bookstore when possible!
+    eBooks and audiobooks are sold by Amazon with DRM. Buy directly from publisher and your local bookstore when possible!
 
 ### Email
 
@@ -58,4 +58,4 @@
 
 </div>
 
-[^1]: [Richard Stallman: Reasons not to buy from Amaozn](https://stallman.org/amazon.html)
+[^1]: [Richard Stallman: Reasons not to buy from Amazon](https://stallman.org/amazon.html)

@@ -1,4 +1,18 @@
-### Writing, Text, and Audio
+## Web Browser
+
+<div class="grid cards" markdown>
+
+- ![Mozilla Firefox](/assets/img/uses-this/icons/Firefox.svg){ .twemoji } [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+</div>
+
+<div class="grid cards" markdown>
+- ![uBlock Origin](/assets/img/uses-this/icons/uBlock-Origin.png){ .twemoji } [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- ![SponsorBlock](/assets/img/uses-this/icons/SponsorBlock.png){ .twemoji } [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+
+</div>
+
+## Writing, Text, and Audio
 
 <div class="grid cards" markdown>
 
@@ -11,9 +25,9 @@
 
 !!! example
 
-    My personal wiki, [tylernguyen.wiki](https://tylernguyen.wiki/) is powered by Obsidian's hosting service, [Obsidan Publish](https://obsidian.md/publish).
+    My personal wiki: [tylernguyen.wiki](https://tylernguyen.wiki/), is powered by Obsidian's hosting service, [Obsidan Publish](https://obsidian.md/publish).
 
-### Media
+## Media
 
 <div class="grid cards" markdown>
 
@@ -24,7 +38,7 @@
 
 </div>
 
-### File Encryption
+## File Encryption
 
 <div class="grid cards" markdown>
 
@@ -32,7 +46,7 @@
 
 </div>
 
-### Productivity
+## Productivity
 
 <div class="grid cards" markdown>
 
@@ -40,7 +54,7 @@
 
 </div>
 
-### VPN
+## VPN
 
 <div class="grid cards" markdown>
 
@@ -48,7 +62,7 @@
 
 </div>
 
-### CLI
+## CLI
 
 <div class="grid cards" markdown>
 
@@ -58,8 +72,7 @@
 
 </div>
 
-
-### Static Site Generator
+## Static Site Generator
 
 <div class="grid cards" markdown>
 

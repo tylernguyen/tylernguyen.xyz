@@ -14,9 +14,9 @@ hide:
 
 ???+ question "Where are you?"
 
-    IRL, I'm based in Texas, USA and can be reached via the [contact page](contact.md).
+    IRL: I'm based in Texas, USA and can be reached via the [contact page](contact.md).
     
-    Online, `tylernguyen` is my preferred username. I do not have a Twitter[^1], Facebook[^2], or any other social media.
+    Online: `tylernguyen` is my preferred username. I do not have a Twitter[^1], Facebook[^2], or any other social media.
 
     I am most active on this website, my [GitHub](https://github.com/tylernguyen), and my [personal wiki](https://tylernguyen.wiki/).
 
