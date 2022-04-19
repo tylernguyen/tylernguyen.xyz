@@ -9,6 +9,10 @@
 
 </div>
 
+!!! example
+
+    My personal wiki, [tylernguyen.wiki](https://tylernguyen.wiki/) is powered by Obsidian's hosting service, [Obsidan Publish](https://obsidian.md/publish).
+
 ### Media
 
 <div class="grid cards" markdown>
