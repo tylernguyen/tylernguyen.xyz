@@ -15,3 +15,8 @@ hide:
     The blog does not have an overaching theme. Though I mostly write about popular culture and technology.
 
 ???+ question "Where are you on the internet?"
+
+!!! warning "Disclaimer"
+
+    Technical writings here are limited to my own knowledge and research.
+    Opinions expressed here are just that. 

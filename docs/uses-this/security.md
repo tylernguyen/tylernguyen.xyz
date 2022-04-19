@@ -45,5 +45,5 @@
 
 1Password recently released their own SSH agent[^2] implementation. This can be useful if there is a need for multiple SSH keys across different access and services. 
 
-    [1]: https://github.com/drduh/YubiKey-Guide
-    [2]: https://developer.1password.com/docs/ssh
+[^1]: https://github.com/drduh/YubiKey-Guide
+[^2]: https://developer.1password.com/docs/ssh
