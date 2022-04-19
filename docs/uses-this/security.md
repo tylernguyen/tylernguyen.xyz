@@ -4,8 +4,8 @@
 
 !!! recommendation
 
-    ![1Password](/assets/img/uses-this/1Password-banner-light.svg#only-light){ align=right }
-    ![1Password](/assets/img/uses-this/1Password-banner-dark.svg#only-dark){ align=right }
+    ![1Password](/assets/img/uses-this/banners/1Password-light.svg#only-light){ align=right }
+    ![1Password](/assets/img/uses-this/banners/1Password--dark.svg#only-dark){ align=right }
 
     1Password is my preferred password manager. It also manages any OTP multi-factor authentication I need.
 
@@ -19,7 +19,7 @@
 
 !!! recommendation
 
-    ![YubiKeys](/assets/img/uses-this/Yubikey.png){ align=right }
+    ![YubiKeys](/assets/img/uses-this/icons/Yubikey.png){ align=right }
 
     Yubikey supports the most security protocols. It is also widely supported by the industry and security conscious community.
 

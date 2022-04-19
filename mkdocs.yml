@@ -99,8 +99,11 @@ nav:
       - Books : catalog/books.md
       - Movies : catalog/movies.md
       - Television: catalog/television.md
+      - Anime: catalog/anime.md
       - Comics: catalog/comics.md
       - Manga: catalog/manga.md
+      - Graphic Novels: catalog/graphic-novels.md
+      - Music: catalog/music.md
     - Uses This:
       - Hardware : uses-this/hardware.md
       - Software : uses-this/software.md

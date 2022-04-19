@@ -2,10 +2,10 @@
 
 <div class="grid cards" markdown>
 
-- ![VSCode](/assets/img/uses-this/VSCode.png){ .twemoji } [Visual Studio Code](https://code.visualstudio.com/)
-- ![iA Writer](/assets/img/uses-this/iA-Writer.png){ .twemoji } [iA Writer](https://ia.net/writer)
-- ![Obsidian](/assets/img/uses-this/Obsidian.png){ .twemoji } [Obsidian](https://obsidian.md/)
-- ![Just Press Record](/assets/img/uses-this/Just-Press-Record.png){ .twemoji } [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
+- ![VSCode](/assets/img/uses-this/icons/VSCode.png){ .twemoji } [Visual Studio Code](https://code.visualstudio.com/)
+- ![iA Writer](/assets/img/uses-this/icons/iA-Writer.png){ .twemoji } [iA Writer](https://ia.net/writer)
+- ![Obsidian](/assets/img/uses-this/icons/Obsidian.png){ .twemoji } [Obsidian](https://obsidian.md/)
+- ![Just Press Record](/assets/img/uses-this/icons/Just-Press-Record.png){ .twemoji } [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
 
 </div>
 
@@ -17,10 +17,10 @@
 
 <div class="grid cards" markdown>
 
-- ![Reeder](/assets/img/uses-this/Reeder.jpg){ .twemoji } [Reader](https://reederapp.com/) macOS and iOS
-- ![Plexamp](/assets/img/uses-this/Plexamp.png){ .twemoji } [Plexamp](https://plexamp.com/)
-- ![Prologue](/assets/img/uses-this/Prologue.jpg){ .twemoji } [Prologue](https://prologue.audio/) iOS
-- ![Panels](/assets/img/uses-this/Panels.png){ .twemoji } [Panels](https://panels.app/) iOS
+- ![Reeder](/assets/img/uses-this/icons/Reeder.jpg){ .twemoji } [Reader](https://reederapp.com/) macOS and iOS
+- ![Plexamp](/assets/img/uses-this/icons/Plexamp.png){ .twemoji } [Plexamp](https://plexamp.com/)
+- ![Prologue](/assets/img/uses-this/icons/Prologue.jpg){ .twemoji } [Prologue](https://prologue.audio/) iOS
+- ![Panels](/assets/img/uses-this/icons/Panels.png){ .twemoji } [Panels](https://panels.app/) iOS
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div class="grid cards" markdown>
 
-- ![Cryptomator](/assets/img/uses-this/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
+- ![Cryptomator](/assets/img/uses-this/icons/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div class="grid cards" markdown>
 
-- ![QMK](/assets/img/uses-this/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
+- ![QMK](/assets/img/uses-this/icons/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div class="grid cards" markdown>
 
-- ![Wireguard](/assets/img/uses-this/Wireguard.svg){ .twemoji } [Wireguard](https://www.wireguard.com/)
+- ![Wireguard](/assets/img/uses-this/icons/Wireguard.svg){ .twemoji } [Wireguard](https://www.wireguard.com/)
 
 </div>
 
@@ -52,9 +52,9 @@
 
 <div class="grid cards" markdown>
 
-- ![Wezterm](/assets/img/uses-this/wezterm.png){ .twemoji } [Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
-- ![Homebrew](/assets/img/uses-this/Homebrew.png){ .twemoji } [Homebrew](https://brew.sh/)
-- ![winget](/assets/img/uses-this/winget.png){ .twemoji } [winget](https://github.com/microsoft/winget-cli)
+- ![Wezterm](/assets/img/uses-this/icons/wezterm.png){ .twemoji } [Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
+- ![Homebrew](/assets/img/uses-this/icons/Homebrew.png){ .twemoji } [Homebrew](https://brew.sh/)
+- ![winget](/assets/img/uses-this/icons/winget.png){ .twemoji } [winget](https://github.com/microsoft/winget-cli)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div class="grid cards" markdown>
 
-- ![MkDocs Material](/assets/img/uses-this/MkDocs-Material.png){ .twemoji } [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- ![MkDocs Material](/assets/img/uses-this/icons/MkDocs-Material.png){ .twemoji } [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 </div>
 
