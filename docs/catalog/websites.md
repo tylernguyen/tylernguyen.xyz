@@ -1,4 +1,6 @@
-### Web Comics
+## Web Comics
+
+### xkcd
 
 !!! recommendation
 
@@ -8,6 +10,8 @@
 
     [Website](https://xkcd.com/){ .md-button .md-button--primary } [RSS Feed](https://xkcd.com/atom.xml){ .md-button }    
 
+### Existential Comics
+
 !!! recommendation
 
     ![Existential Comics](/assets/img/catalog/Existential-Comics.jpg)
@@ -16,7 +20,9 @@
 
     [Website](https://existentialcomics.com/){ .md-button .md-button--primary } [RSS Feed](https://existentialcomics.com/rss.xml){ .md-button }    
 
-### Blogs
+## Blogs
+
+### No Mercy / No Malice
 
 !!! recommendation
 
@@ -27,6 +33,8 @@
     The blog can be highly technical at times but is also a good reflection of Galloway's vibrant and opiniated persona.
 
     [Website](https://www.profgalloway.com/){ .md-button .md-button--primary } [RSS Feed](https://www.profgalloway.com/feed/){ .md-button }    
+
+### danluu.com
 
 !!! recommendation
 
