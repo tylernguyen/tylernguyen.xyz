@@ -18,14 +18,21 @@ hide:
 
     IRL, I'm based in Texas, USA and can be reached via the [contact page](contact.md).
     
-    On the internet, `tylernguyen` is my preferred username. I do not have a Twitter, Facebook[^2], or any other social media.
+    On the internet, `tylernguyen` is my preferred username. I do not have a Twitter[^1], Facebook[^2], or any other social media.
 
     I am most active on this website, my [GitHub](https://github.com/tylernguyen), and my [personal wiki](https://tylernguyen.wiki/).
 
 !!! warning "Disclaimer"
 
-    Technical writings here are limited to my own knowledge and research.
+    Technical writings here are limited to my own knowledge and research.  
+
     Opinions expressed here are just that. 
+
+!!! info "License"
+
+    This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+    I.e. copy, remix, and redistribute to your likings but make sure to provide due credits and links.
 
 [^1]: [Richard Stallman: Twitter](https://stallman.org/twitter.html)
 [^2]: [Richard Stallman: Reasons not be used by Facebook](https://stallman.org/facebook.html)
