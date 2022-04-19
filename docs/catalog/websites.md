@@ -2,7 +2,7 @@
 
 !!! recommendation
 
-    ![xkcd](/assets/img/catalog/xkcd.png){ align=right }
+    ![xkcd](/assets/img/catalog/xkcd.png){ align=center }
 
     The essential internet comic. xkcd is short, witty, and frequently reference across the web.
 
@@ -20,10 +20,8 @@
 
 !!! recommendation
 
-    ![No Mercy / No Malice](/assets/img/catalog/No-Mercy-No-Malice.jpg){ align=right }
+    ![No Mercy / No Malice](/assets/img/catalog/No-Mercy-No-Malice.jpg){ align=center }
 
     Professor Scott Galloway of NYU Stern writes about the contemporary economy. The blog can be highly technical at times but is also a good reflection of Galloway's vibrant and opiniated persona.
 
     [Website](https://www.profgalloway.com/){ .md-button .md-button--primary } [RSS Feed](https://www.profgalloway.com/feed/){ .md-button }    
-
-### Newsletter
