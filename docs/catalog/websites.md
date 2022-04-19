@@ -4,7 +4,7 @@
 
     ![xkcd](/assets/img/catalog/xkcd.png){ align=right }
 
-    The essential internet comic. xkcd is short, witty, and frequently reference across the web.
+    The essential internet comic. xkcd is short, witty, and frequently referenced across the web.
 
     [Website](https://xkcd.com/){ .md-button .md-button--primary } [RSS Feed](https://xkcd.com/atom.xml){ .md-button }    
 
@@ -22,6 +22,15 @@
 
     ![No Mercy / No Malice](/assets/img/catalog/No-Mercy-No-Malice.jpg){ align=right }
 
-    Professor Scott Galloway of NYU Stern writes about the contemporary economy. The blog can be highly technical at times but is also a good reflection of Galloway's vibrant and opiniated persona.
+    Professor Scott Galloway of NYU Stern writes about the contemporary economy. 
+
+    The blog can be highly technical at times but is also a good reflection of Galloway's vibrant and opiniated persona.
 
     [Website](https://www.profgalloway.com/){ .md-button .md-button--primary } [RSS Feed](https://www.profgalloway.com/feed/){ .md-button }    
+
+!!! recommendation
+
+    Dan Luu writes about his experience with programming and industry.
+
+    [Website](https://danluu.com/){ .md-button .md-button--primary } [RSS Feed](https://danluu.com/atom.xml){ .md-button } 
+
