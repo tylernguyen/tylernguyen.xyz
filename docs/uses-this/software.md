@@ -7,7 +7,7 @@
 </div>
 
 <div class="grid cards" markdown>
-- ![uBlock Origin](/assets/img/uses-this/icons/uBlock-Origin.png){ .twemoji } [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- ![uBlock Origin](/assets/img/uses-this/icons/uBlock-Origin.svg){ .twemoji } [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - ![SponsorBlock](/assets/img/uses-this/icons/SponsorBlock.png){ .twemoji } [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
 
 </div>
