@@ -1,6 +1,6 @@
 ---
-template: 'overrides/blog.html'
-tags:'
+template: overrides/blog.html
+tags:
   - internet
   - selfhosted
   - cloudflare
