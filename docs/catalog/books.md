@@ -21,9 +21,9 @@ I haven’t read all books listed here.
 ### Business 💵
 
 - Bogle, John C. - _Stay the Course_
-- ” - _Little Book of Common Sense Investing_
+- Bogle, John C. - _Little Book of Common Sense Investing_
 - Graham, Benjamin - _The Intelligent Investor_
-- ” - _The Interpretation of Financial Statements_
+- Graham, Benjamin - _The Interpretation of Financial Statements_
 - Zuckerman, Gregory - _The Man Who Solved the Market: How Jim Simons Launched the Quant Evolution_
 - Zweig, Jason - _The Devil's Financial Diction_
 
@@ -38,8 +38,9 @@ I haven’t read all books listed here.
 - Gentry, Curt and Bugliosi, Vincent - _Helter Skelter_
 - Grann, David - _Killers of the Flower Moon_
 - Guinn, Jeff - _Road to Jones Town: Jim Jones and the Peoples Temple_
+- Keefe, Patrick Radden - _Empire of Pain: The Secret History of the Sackler Dynasty_
 - Keefe, Patrick Radden - _Say Nothing: A True Story of Murder and Memory in Northern Ireland_
-- ” - The Snakehead: _An Epic Tale of the Chinatown Underworld and the American Dream_
+- Keefe, Patrick Radden - The Snakehead: _An Epic Tale of the Chinatown Underworld and the American Dream_
 - Nelson, Maggie - _The Red Parts: Autobiography of a Trial_
 - Parry, Richard Lloyd - _People Who Eat Darkness: The True Story of a Young Woman Who Vanished from the Streets of Tokyo--and the Evil That Swallowed Her Up_
 
@@ -58,7 +59,7 @@ I haven’t read all books listed here.
 - McBride, James - _Deacon King Kong_
 - McGuire, Ian - _The North Water_
 - Nguyễn, Việt Thanh - _The Sympathizer_
-- ” - _The Committed (Sequel to The Sympathizer)_
+- Nguyễn, Việt Thanh - _The Committed (Sequel to The Sympathizer)_
 - O'Farrell, Maggie - _Hamnet and Judtih_
 - Otsuka, Julie - _The Buddha in The Attic_
 - Tarantino, Quentin - _Once Upon a Time in Hollywood_
@@ -69,15 +70,15 @@ I haven’t read all books listed here.
 
 - Applebaum, Anne - _Gulag: A History_
 - Boorstin, Daniel J. - _The Discoverers (First in the Knowledge Triology)_
-- ” - _The Creators (Second in the Knowledge Triology)_
-- ” - _The Seekers (Third in the Knowledge Triology)_
+- Boorstin, Daniel J. - _The Creators (Second in the Knowledge Triology)_
+- Boorstin, Daniel J. - _The Seekers (Third in the Knowledge Triology)_
 - Chammah, Maurice - _Let the Lord Sort Them: The Rise and Fall of the Death Penalty_
 - Davis, Jack E. - _The Gulf: The Making of An American Sea_
 - Deyle, Steven - _Carry Me Back: The Domestic Slave Trade in American Life_
 - Dolnick, Edward - _The Clockwork Universe: Saac Newto, Royal Society, and the Birth of the Modern World_
 - FitzGerald, Frances - _Fire in the Lake: The Vietnamese and the Americans in Vietnam_
 - Harari, Yuvai Noah - _Sapiens_
-- ” - _Homo Deus (Sequal to Sapiens)_
+- Harari, Yuvai Noah - _Homo Deus (Sequal to Sapiens)_
 - Golding, William - _The Inheritors_
 - Graeber, David - _Debt: The First 5000 Years_
 - Johnson, Walter - _Soul by Soul: Life Inside the Antebellum Slave Market_
@@ -107,32 +108,32 @@ I haven’t read all books listed here.
 - Galloway, Scott - _The Algebra of Happiness_
 - MacMillan, Margaret - _War: How Conflict Shaped Us_
 - Taleb, Nassim Nicholas - _Fooled by Randomness_
-- ” - _The Black Swan_
-- ” - _The Bed of Procrustes_
+- Taleb, Nassim Nicholas - _The Black Swan_
+- Taleb, Nassim Nicholas - _The Bed of Procrustes_
 
 ### Religion 💒
 
 - Fry, Stephen - _Mythos_
-- ” - _Heroes_
+- Fry, Stephe - _Heroes_
 - Skilton, Andrew - _A Concise History of Buddhism_
 
 ### Science, Economics, and Mathematics 🧪
 
 - Ackerman, Jennifer - _The Bird Way_
 - Akerlof, George A. and Shiller, Robert J. - _Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism_
-- ” and ” - _Phishing for Phools: The Economy of Manipulation and Deception_
+- Akerlof, George A. and Shiller, Robert J. - _Phishing for Phools: The Economy of Manipulation and Deception_
 - Gawande, Atul - _Being Mortal: Medicine and What Matters in the End_
 - Geithner, Timothy F. - _Stress Test: Reflections on Financial Cries_
 - Godfrey-Smith, Peter - _Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness_
-- ” - _Metazoa: Animal Life and the Birth of the Mind_
+- Godfrey-Smith, Peter - _Metazoa: Animal Life and the Birth of the Mind_
 - Huff, Darrell - _How to Lie with Statistics_
 - Kahneman, Daniel - _Thinking, Fast and Slow_
 - Levitt, Steven and Dubner, Stephen - _Freakonomics_
 - Lewis, Michael -_Boomerang: Travels in the New Third World_
-- ” - _Moneyball_
-- ” - _The Big Short_
-- ” - _The Fifth Risk_
-- ” - _The Premonition: A Pandemic Story_
+- Lewis, Michael; - _Moneyball_
+- Lewis, Michael - _The Big Short_
+- Lewis, Michael - _The Fifth Risk_
+- Lewis, Michael - _The Premonition: A Pandemic Story_
 - Marshall, Tim - _Prioners of Geography: Ten Maps That Explain Everything About the World_
 - Mukherjee, Siddhartha - _The Emperor of All Maladies: A Biography of Cancer_
 - Zucker, Caren and Donvan, John - _In a Different Key: The Story of Autism_
