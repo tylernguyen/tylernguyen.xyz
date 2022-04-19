@@ -9,6 +9,10 @@
 
 </div>
 
+!!! warning
+
+    Audible is a subsidiary of Amazon.[^1]
+
 ### Email
 
 <div class="grid cards" markdown>
@@ -48,5 +52,8 @@
 <div class="grid cards" markdown>
 
 - ![Cloudflare](/assets/img/uses-this/Cloudflare.svg){ .twemoji } [Cloudflare](https://www.cloudflare.com/)
+- ![Quad9](/assets/img/uses-this/Quad9.svg){ .twemoji } [Quad9](https://www.quad9.net/)
 
 </div>
+
+[^1]: [Richard Stallman: Reasons not to buy from Amaozn](https://stallman.org/amazon.html)

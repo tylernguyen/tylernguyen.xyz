@@ -6,8 +6,6 @@ hide:
 
 ???+ question "Who are you?"
 
-    I'm just this guy, you know?
-
     I'm a UT Austin graduate with a degree in mathematics. In my spare time, I consume an absurd amount of popular entrainment and culture. I'm also an avid gamer and Magic the Gathering player.
 
 ???+ question "What is your blog about?"
@@ -18,7 +16,7 @@ hide:
 
     IRL, I'm based in Texas, USA and can be reached via the [contact page](contact.md).
     
-    On the internet, `tylernguyen` is my preferred username. I do not have a Twitter[^1], Facebook[^2], or any other social media.
+    Online, `tylernguyen` is my preferred username. I do not have a Twitter[^1], Facebook[^2], or any other social media.
 
     I am most active on this website, my [GitHub](https://github.com/tylernguyen), and my [personal wiki](https://tylernguyen.wiki/).
 
