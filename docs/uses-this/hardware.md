@@ -8,6 +8,13 @@ I prefer to have seperate environments for work and play. Hence,
 
     -   <figure markdown>
         <p align="center">
+        ![Alienware AW2521H](/assets/img/uses-this/icons/pc/Alienware-AW2521H.png)
+        <figcaption>Alienware AW2521H</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
         ![GIGABYTE X570S AORUS Master](/assets/img/uses-this/icons/pc/GIGABYTE-X570S-AORUS-Master.png)
         <figcaption>GIGABYTE X570S AORUS Master</figcaption>
         </p>
@@ -27,20 +34,7 @@ I prefer to have seperate environments for work and play. Hence,
         </p>
         </figure>
 
-    -   <figure markdown>
-        <p align="center">
-        ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/audio/DT-177X-GO.png)
-        <figcaption>Drop x Beyerdynamic DT 177X GO</figcaption>
-        </p>
-        </figure>
-
     </div>
-
-    - Alienware AW2521H Monitor
-    - ASUS ROG Strix X570-I AM4 Motherboard
-    - AMD Ryzen 7 5800X CPU
-    - AMD Radeon RX 6900XT GPU
-    - 64GB of RAM
 
 === "Workspace PC"
 
