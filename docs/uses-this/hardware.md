@@ -27,28 +27,28 @@ I prefer to have seperate environments for work and play. Hence,
 
 -   <figure markdown>
       <p align="center">
-       ![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png)
+       ![Electro-Voice RE20](/assets/img/uses-this/icons/audio/Electro-Voice-RE20.png)
        <figcaption>Electro-Voice RE20</figcaption>
       </p>
     </figure>
 
 -   <figure markdown>
       <p align="center">
-       ![Sennheiser IE300](/assets/img/uses-this/icons/Sennheiser-IE300.png)
+       ![Sennheiser IE300](/assets/img/uses-this/icons/audio/Sennheiser-IE300.png)
        <figcaption>Sennheiser IE300</figcaption>
       </p>
     </figure>
 
 -   <figure markdown>
       <p align="center">
-       ![Drop x Focal Elex](/assets/img/uses-this/icons/Focal-Elex.png)
+       ![Drop x Focal Elex](/assets/img/uses-this/icons/audio/Focal-Elex.png)
        <figcaption>Drop x Focal Elex</figcaption>
       </p>
     </figure>
 
 -   <figure markdown>
       <p align="center">
-       ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/DT-177X-GO.png)
+       ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/audio/DT-177X-GO.png)
        <figcaption>Drop x Beyerdynamic DT 177X GO</figcaption>
       </p>
     </figure>
@@ -61,28 +61,28 @@ I prefer to have seperate environments for work and play. Hence,
 
 -   <figure markdown>
       <p align="center">
-       ![Logitech GPX](/assets/img/uses-this/icons/Logitech-GPX.png)
+       ![Logitech GPX](/assets/img/uses-this/icons/mouse/Logitech-GPX.png)
        <figcaption>Logitech GPX</figcaption>
       </p>
     </figure>
 
 -   <figure markdown>
       <p align="center">
-       ![Razer Viper 8KHz](/assets/img/uses-this/icons/Razer-Viper-8KHz.png)
+       ![Razer Viper 8KHz](/assets/img/uses-this/icons/mouse/Razer-Viper-8KHz.png)
        <figcaption>Razer Viper 8KHz</figcaption>
       </p>
     </figure>
 
 -   <figure markdown>
       <p align="center">
-       ![Katana Superlight](/assets/img/uses-this/icons/Katana-Superlight.png)
+       ![Katana Superlight](/assets/img/uses-this/icons/mouse/Katana-Superlight.png)
        <figcaption>Katana Superlight</figcaption>
       </p>
     </figure>
 
 -   <figure markdown>
       <p align="center">
-       ![Glorious Model O](/assets/img/uses-this/icons/Glorious-ModelO.png)
+       ![Glorious Model O](/assets/img/uses-this/icons/mouse/Glorious-ModelO.png)
        <figcaption>Glorious Model O</figcaption>
       </p>
     </figure>
@@ -93,3 +93,5 @@ I prefer to have seperate environments for work and play. Hence,
 
 The main keyboard is usually my modded FC660C with the Norbauer Heavy-6: Urbi et Orbi edition case, BKE Redux Light v1 domes, MT3 Serika keycaps, with a custom QMK-compatible controller from Hasu.
 I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca linear switches.
+
+## Miscellaneous
