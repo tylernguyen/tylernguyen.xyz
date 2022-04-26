@@ -1,7 +1,5 @@
 ## PC
 
-I prefer to have seperate environments for work and play. Hence,
-
 === "Gaming PC"
 
     <div class="grid cards" markdown>
@@ -29,8 +27,22 @@ I prefer to have seperate environments for work and play. Hence,
 
     -   <figure markdown>
         <p align="center">
+        ![Noctua NH-D15 chromax.Black](/assets/img/uses-this/icons/pc/Noctua-NH-D15-chromax.Black.png)
+        <figcaption>Noctua NH-D15 chromax.Black</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
         ![EVGA RTX 3080 Ti FTW3 Ultra](/assets/img/uses-this/icons/pc/RTX3080-Ti-FTW3-Ultra.png)
         <figcaption>EVGA RTX 3080 Ti FTW3 Ultra</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![be quiet! Dark Power 12 1000W](/assets/img/uses-this/icons/pc/be-quiet!-Dark-Power-12.png)
+        <figcaption>be quiet! Dark Power 12 1000W</figcaption>
         </p>
         </figure>
 
