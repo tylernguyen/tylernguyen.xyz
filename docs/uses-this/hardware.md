@@ -26,8 +26,10 @@ I prefer to have seperate environments for work and play. Hence,
 <div class="grid cards" markdown>
 
 -   <figure markdown>
-      ![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png)
-      <figcaption>Electro-Voice RE20</figcaption>
+      <p align="center">
+       ![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png)
+       <figcaption>Electro-Voice RE20</figcaption>
+      </p>
     </figure>
 
     ---
