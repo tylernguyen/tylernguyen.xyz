@@ -1,4 +1,4 @@
-### PC
+## PC
 
 I prefer to have seperate environments for work and play. Hence,
 
@@ -21,7 +21,7 @@ I prefer to have seperate environments for work and play. Hence,
 
     Thinkpad X1 Carbon 2018/6th Gen [running macOS](https://github.com/tylernguyen/x1c6-hackintosh)
 
-### Audio
+## Audio
 
 <div class="grid cards" markdown>
 
@@ -29,6 +29,13 @@ I prefer to have seperate environments for work and play. Hence,
       <p align="center">
        ![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png)
        <figcaption>Electro-Voice RE20</figcaption>
+      </p>
+    </figure>
+
+-   <figure markdown>
+      <p align="center">
+       ![Sennheiser IE300](/assets/img/uses-this/icons/Sennheiser-IE300.png)
+       <figcaption>Sennheiser IE300</figcaption>
       </p>
     </figure>
 
@@ -46,18 +53,9 @@ I prefer to have seperate environments for work and play. Hence,
       </p>
     </figure>
 
--   <figure markdown>
-      <p align="center">
-       ![Sennheiser IE300](/assets/img/uses-this/icons/Sennheiser-IE300.png)
-       <figcaption>Sennheiser IE300</figcaption>
-      </p>
-    </figure>
-
 </div>
 
-### Mouse
-
-For micing and not so accurate FPS flicks, I rotate between:
+## Mouse
 
 <div class="grid cards" markdown>
 
@@ -91,7 +89,7 @@ For micing and not so accurate FPS flicks, I rotate between:
 
 </div>
 
-### Keyboard
+## Keyboard
 
 The main keyboard is usually my modded FC660C with the Norbauer Heavy-6: Urbi et Orbi edition case, BKE Redux Light v1 domes, MT3 Serika keycaps, with a custom QMK-compatible controller from Hasu.
 I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca linear switches.
