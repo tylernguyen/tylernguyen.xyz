@@ -32,17 +32,19 @@ I prefer to have seperate environments for work and play. Hence,
       </p>
     </figure>
 
-    ---
+-   <figure markdown>
+      <p align="center">
+       ![Drop x Focal Elex](/assets/img/uses-this/icons/Focal-Elex.png)
+       <figcaption>Drop x Focal Elex</figcaption>
+      </p>
+    </figure>
 
-    Electro-Voice RE20
-
--   ![Drop x Focal Elex](/assets/img/uses-this/icons/Focal-Elex.png)
-
-    ---
-
-    Drop x Focal Elex
-
--   ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/DT-177X-GO.png)
+-   <figure markdown>
+      <p align="center">
+       ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/DT-177X-GO.png)
+       <figcaption>Drop x Beyerdynamic DT 177X GO</figcaption>
+      </p>
+    </figure>
 
 </div>
 
@@ -52,29 +54,35 @@ For micing and not so accurate FPS flicks, I rotate between:
 
 <div class="grid cards" markdown>
 
--   ![Logitech GPX](/assets/img/uses-this/icons/Logitech-GPX.png)
+-   <figure markdown>
+      <p align="center">
+       ![Logitech GPX](/assets/img/uses-this/icons/Logitech-GPX.png)
+       <figcaption>Logitech GPX</figcaption>
+      </p>
+    </figure>
 
-    ---
+-   <figure markdown>
+      <p align="center">
+       ![Razer Viper 8KHz](/assets/img/uses-this/icons/Razer-Viper-8KHz.png)
+       <figcaption>Razer Viper 8KHz</figcaption>
+      </p>
+    </figure>
 
-    Electro-Voice RE20
+-   <figure markdown>
+      <p align="center">
+       ![Katana Superlight](/assets/img/uses-this/icons/Katana-Superlight.png)
+       <figcaption>Katana Superlight</figcaption>
+      </p>
+    </figure>
 
--   ![Razer Viper 8KHz](/assets/img/uses-this/icons/Razer-Viper-8KHz.png)
-
-    ---
-
-    Drop x Focal Elex
-
--   ![Katana Superlight](/assets/img/uses-this/icons/Katana-Superlight.png)
+-   <figure markdown>
+      <p align="center">
+       ![Glorious Model O](/assets/img/uses-this/icons/Glorious-ModelO.png)
+       <figcaption>Glorious Model O</figcaption>
+      </p>
+    </figure>
 
 </div>
-
-- G Pro x Superlight
-- Viper Ultimate Wireless
-- Viper 8K Hz Wired
-- Glorious Model O Wireless
-- Logitech MX Master 3 is my preferred travel and laptop mouse.
-
-— whichever my hand feels comfortable with that day.
 
 ### Keyboard
 
