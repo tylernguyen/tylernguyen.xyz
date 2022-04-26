@@ -28,13 +28,9 @@ My audio peripherals include the Schiit Modius and Magnius stack, paired with, b
 - Massdrop x Focal Elex
 - Massdrop x Beyerdynamic DT 177X GO Headphones 
 
-!!! recommendation
+For recording and voice, I have an  hooked up with the Elgato Wave XLR.
 
-    ![Electro-Voice RE20](/assets/img/uses-this/Electro-Voice-RE20.png){ align=right }
-
-    1Password is my preferred password manager. It also manages any OTP multi-factor authentication I need.
-
-    [Visit 1password.com](https://1password.com/){ .md-button .md-button--primary } [1Password White Paper](https://1passwordstatic.com/files/security/1password-white-paper.pdf){ .md-button }
+![Electro-Voice RE20](/assets/img/uses-this/Electro-Voice-RE20.png) [Electro-Voice RE20](https://products.electrovoice.com/ap/en/re20/)
 
 ### Mouse
 
