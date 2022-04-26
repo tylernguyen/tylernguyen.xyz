@@ -28,9 +28,7 @@ My audio peripherals include the Schiit Modius and Magnius stack, paired with, b
 - Massdrop x Focal Elex
 - Massdrop x Beyerdynamic DT 177X GO Headphones 
 
-For recording and voice, I have an  hooked up with the Elgato Wave XLR.
-
-![Electro-Voice RE20](/assets/img/uses-this/Electro-Voice-RE20.png) [Electro-Voice RE20](https://products.electrovoice.com/ap/en/re20/)
+For recording and voice, I have an Electro-Voice RE20 hooked up with the Elgato Wave XLR.
 
 ### Mouse
 
