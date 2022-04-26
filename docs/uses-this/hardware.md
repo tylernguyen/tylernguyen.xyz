@@ -35,13 +35,13 @@ For recording and voice, I have an Electro-Voice RE20 hooked up with the Elgato 
 
     Electro-Voice RE20
 
--   ![Drop x Focal Elex](/assets/img/uses-this/icons/Focal-Elex.png)
+-   ![Drop x Focal Elex](/assets/img/uses-this/icons/Focal-Elex.png){ .card }
 
     ---
 
     Drop x Focal Elex
 
--   ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/DT-177X-GO.png)
+-   ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/DT-177X-GO.png){ .card }
 
 </div>
 
