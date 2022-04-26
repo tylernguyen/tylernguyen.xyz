@@ -2,7 +2,39 @@
 
 I prefer to have seperate environments for work and play. Hence,
 
-=== "Workspace PC"
+=== "Gaming PC"
+
+    <div class="grid cards" markdown>
+
+    -   <figure markdown>
+        <p align="center">
+        ![GIGABYTE X570S AORUS Master](/assets/img/uses-this/icons/pc/GIGABYTE-X570S-AORUS-Master.png)
+        <figcaption>GIGABYTE X570S AORUS Master</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![AMD Ryzen 7 5800X](/assets/img/uses-this/icons/pc/AMD-5800X.png)
+        <figcaption>AMD Ryzen 7 5800X</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![EVGA RTX 3080 Ti FTW3 Ultra](/assets/img/uses-this/icons/pc/RTX3080-Ti-FTW3-Ultra.png)
+        <figcaption>EVGA RTX 3080 Ti FTW3 Ultra</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/audio/DT-177X-GO.png)
+        <figcaption>Drop x Beyerdynamic DT 177X GO</figcaption>
+        </p>
+        </figure>
+
+    </div>
 
     - Alienware AW2521H Monitor
     - ASUS ROG Strix X570-I AM4 Motherboard
@@ -10,7 +42,7 @@ I prefer to have seperate environments for work and play. Hence,
     - AMD Radeon RX 6900XT GPU
     - 64GB of RAM
 
-=== "Gaming PC"
+=== "Workspace PC"
 
     - B360M Mortar MS-7B23 Motherboard
     - Intel i7-8700
