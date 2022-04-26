@@ -23,10 +23,6 @@ I prefer to have seperate environments for work and play. Hence,
 
 ### Audio
 
-My audio peripherals include the Schiit Modius and Magnius stack, paired with, by order of preference:
-
-For recording and voice, I have an Electro-Voice RE20 hooked up with the Elgato Wave XLR.
-
 <div class="grid cards" markdown>
 
 -   ![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png)
@@ -48,6 +44,24 @@ For recording and voice, I have an Electro-Voice RE20 hooked up with the Elgato 
 ### Mouse
 
 For micing and not so accurate FPS flicks, I rotate between:
+
+<div class="grid cards" markdown>
+
+-   ![Logitech GPX](/assets/img/uses-this/icons/Logitech-GPX.png)
+
+    ---
+
+    Electro-Voice RE20
+
+-   ![Razer Viper 8KHz](/assets/img/uses-this/icons/Razer-Viper-8KHz.png)
+
+    ---
+
+    Drop x Focal Elex
+
+-   ![Katana Superlight](/assets/img/uses-this/icons/Katana-Superlight.png)
+
+</div>
 
 - G Pro x Superlight
 - Viper Ultimate Wireless
