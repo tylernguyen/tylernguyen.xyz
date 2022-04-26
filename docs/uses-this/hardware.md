@@ -30,7 +30,7 @@ My audio peripherals include the Schiit Modius and Magnius stack, paired with, b
 
 !!! recommendation
 
-    ![Electro-Voice RE20](/assets/img/uses-this/Electro-Voice-RE20.png)
+    ![Electro-Voice RE20](/assets/img/uses-this/Electro-Voice-RE20.png){ align=right }
 
     1Password is my preferred password manager. It also manages any OTP multi-factor authentication I need.
 
