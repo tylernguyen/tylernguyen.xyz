@@ -11,7 +11,7 @@
 
 -   <figure markdown>
     <p align="center">
-    ![ASRock X570 Phantom Gaming X](/assets/img/uses-this/icons/pc/ASRock-X570-Phantom-Gaming-X)
+    ![ASRock X570 Phantom Gaming X](/assets/img/uses-this/icons/pc/ASRock-X570-Phantom-Gaming-X.png)
     <figcaption>ASRock X570 Phantom Gaming X</figcaption>
     </p>
     </figure>
@@ -34,6 +34,13 @@
     <p align="center">
     ![PNY RTX 4000](/assets/img/uses-this/icons/pc/RTX4000.png)
     <figcaption>PNY RTX 4000</figcaption>
+    </p>
+    </figure>
+
+-   <figure markdown>
+    <p align="center">
+    ![Nemix DDR4-3200 Unbuffered ECC RAM](/assets/img/uses-this/icons/pc/Nemix-ECC-RAM.png)
+    <figcaption>32GB Nemix DDR4-3200 Unbuffered ECC RAM</figcaption>
     </p>
     </figure>
 
