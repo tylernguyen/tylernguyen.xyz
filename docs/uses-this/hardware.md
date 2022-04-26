@@ -31,7 +31,15 @@ For recording and voice, I have an Electro-Voice RE20 hooked up with the Elgato 
 
 -   ![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png)
 
+    ---
+
+    Electro-Voice RE20
+
 -   ![Drop x Focal Elex](/assets/img/uses-this/icons/Focal-Elex.png)
+
+    ---
+
+    Drop x Focal Elex
 
 -   ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/DT-177X-GO.png)
 
