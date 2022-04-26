@@ -30,6 +30,18 @@ My audio peripherals include the Schiit Modius and Magnius stack, paired with, b
 
 For recording and voice, I have an Electro-Voice RE20 hooked up with the Elgato Wave XLR.
 
+<div class="grid cards" markdown>
+
+!!! recommendation
+
+    ![Electro-Voice RE20](/assets/img/uses-this/Electro-Voice-RE20.png){ align=right }
+
+    The site is built with Material for MkDocs Insiders, a paid fork of Material for MkDocs.
+
+    Material for MkDocs Insiders starts at $10 a month. The subscription gives access to early developments and features.
+
+</div>
+
 ### Mouse
 
 For micing and not so accurate FPS flicks, I rotate between:
