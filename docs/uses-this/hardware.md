@@ -25,20 +25,15 @@ I prefer to have seperate environments for work and play. Hence,
 
 My audio peripherals include the Schiit Modius and Magnius stack, paired with, by order of preference:
 
-- Massdrop x Focal Elex
-- Massdrop x Beyerdynamic DT 177X GO Headphones 
-
 For recording and voice, I have an Electro-Voice RE20 hooked up with the Elgato Wave XLR.
 
 <div class="grid cards" markdown>
 
-!!! recommendation
+-   ![Electro-Voice RE20](/assets/img/uses-this/Electro-Voice-RE20.png)
 
-    ![Electro-Voice RE20](/assets/img/uses-this/Electro-Voice-RE20.png){ align=right }
+-   ![Drop x Focal Elex](/assets/img/uses-this/Focal-Elex.png)
 
-    The site is built with Material for MkDocs Insiders, a paid fork of Material for MkDocs.
-
-    Material for MkDocs Insiders starts at $10 a month. The subscription gives access to early developments and features.
+-   ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/DT-177X-GO.png)
 
 </div>
 
