@@ -29,7 +29,7 @@ For recording and voice, I have an Electro-Voice RE20 hooked up with the Elgato 
 
 <div class="grid cards" markdown>
 
--   ![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png)
+-   ![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png){ .card }
 
     ---
 
