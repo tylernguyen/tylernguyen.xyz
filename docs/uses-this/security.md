@@ -32,17 +32,13 @@
 !!! note
 
     The following OPSEC workflow is designed around 1Password and Yubikey. Your experience may vary with other password managers and hardware tokens.
+
 ## GPG Encryption, and SSH
 
-Refer to /drduh/YubiKey-Guide[^1]
+[/drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) is a solid, up-to-date, and comprehensive setup guide. Even Yubico's official docs often do not go into as much details as this Git repository.
 
-!!! tip
-
-    /drduh/YubiKey-Guide is a solid, up-to-date, and comprehensive setup guide. Even Yubico's official docs often do not go into as much details as this Git repository.
+I follow this repository when setting up GPG and SSH authetnication with the Yubikey.
 
 ### 1Password for SSH
 
-1Password recently released their own SSH agent[^2] implementation. This can be useful if there is a need for multiple SSH keys across different access and services. 
-
-[^1]: [/drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
-[^2]: [1Password Developer Docs - SSH](https://developer.1password.com/docs/ssh)
+1Password recently released their own [SSH agent](https://developer.1password.com/docs/ssh). This can be useful if there is a need for multiple SSH keys across different access and services. 

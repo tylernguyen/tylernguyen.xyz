@@ -40,7 +40,7 @@
 
 !!! recommendation
 
-    Dan Luu writes about his experience with programming and industry.
+    Dan Luu writes about his experience with programming and the tech industry.
 
     [Website](https://danluu.com/){ .md-button .md-button--primary } [RSS Feed](https://danluu.com/atom.xml){ .md-button } 
 
