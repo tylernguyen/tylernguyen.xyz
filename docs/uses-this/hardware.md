@@ -23,14 +23,26 @@ I prefer to have seperate environments for work and play. Hence,
 
 ### Audio
 
-![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png)
+<div class="grid cards" markdown>
 
+-   <figure markdown>
+      ![Electro-Voice RE20](/assets/img/uses-this/icons/Electro-Voice-RE20.png)
+      <figcaption>Electro-Voice RE20</figcaption>
+    </figure>
 
-![Drop x Focal Elex](/assets/img/uses-this/icons/Focal-Elex.png)
+    ---
 
+    Electro-Voice RE20
 
-![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/DT-177X-GO.png)
+-   ![Drop x Focal Elex](/assets/img/uses-this/icons/Focal-Elex.png)
 
+    ---
+
+    Drop x Focal Elex
+
+-   ![Drop x Beyerdynamic DT 177X GO](/assets/img/uses-this/icons/DT-177X-GO.png)
+
+</div>
 
 ### Mouse
 
