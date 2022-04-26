@@ -49,10 +49,9 @@ I prefer to have seperate environments for work and play. Hence,
 -   <figure markdown>
       <p align="center">
        ![Sennheiser IE300](/assets/img/uses-this/icons/Sennheiser-IE300.png)
-       <figcaption>Drop x Beyerdynamic DT 177X GO</figcaption>
+       <figcaption>Sennheiser IE300</figcaption>
       </p>
     </figure>
-
 
 </div>
 
