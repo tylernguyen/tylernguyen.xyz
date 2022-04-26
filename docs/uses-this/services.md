@@ -1,4 +1,4 @@
-### Media
+## Media
 
 <div class="grid cards" markdown>
 
@@ -15,7 +15,7 @@
     
     eBooks and audiobooks are sold by Amazon with DRM. Buy directly from publisher and your local bookstore when possible!
 
-### Email
+## Email
 
 <div class="grid cards" markdown>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-### File Storage / Sync
+## File Storage / Sync
 
 <div class="grid cards" markdown>
 
@@ -33,7 +33,7 @@
 
 </div>
 
-### Productivity
+## Productivity
 
 <div class="grid cards" markdown>
 
@@ -41,7 +41,7 @@
 
 </div>
 
-### VPN
+## VPN
 
 <div class="grid cards" markdown>
 
@@ -49,7 +49,7 @@
 
 </div>
   
-### Domain, DNS, Hosting
+## Domain, DNS, Hosting
 
 <div class="grid cards" markdown>
 

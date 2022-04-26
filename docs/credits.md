@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-### Platforms
+## Platforms
 
 !!! recommendation
 
@@ -33,8 +33,3 @@ hide:
     GitHub hosts the source code of this site. It is my preferred public Git hosting for its 3rd party integrations, automation, and workflows.
 
     [Website](https://github.com/){ .md-button .md-button--primary } [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement){ .md-button }
-
-### References
-
-1. [PyMdown Extensions Documentation](https://facelessuser.github.io/pymdown-extensions/)
-2. [Custom Admonitions](https://github.com/privacyguides/privacyguides.org/blob/main/docs/stylesheets/extra.css) from [Privacy Guides](https://www.privacyguides.org/)'s source code.

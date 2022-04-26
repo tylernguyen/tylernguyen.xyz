@@ -1,6 +1,6 @@
-### Threat Model
+## Threat Model
 
-### 1Password
+## 1Password
 
 !!! recommendation
 
@@ -15,7 +15,7 @@
 
     1Password is not open source.
 
-### Yubikey
+## Yubikey
 
 !!! recommendation
 
@@ -32,8 +32,7 @@
 !!! note
 
     The following OPSEC workflow is designed around 1Password and Yubikey. Your experience may vary with other password managers and hardware tokens.
-
-### GPG Encryption, and SSH
+## GPG Encryption, and SSH
 
 Refer to /drduh/YubiKey-Guide[^1]
 
@@ -41,7 +40,7 @@ Refer to /drduh/YubiKey-Guide[^1]
 
     /drduh/YubiKey-Guide is a solid, up-to-date, and comprehensive setup guide. Even Yubico's official docs often do not go into as much details as this Git repository.
 
-#### 1Password for SSH
+### 1Password for SSH
 
 1Password recently released their own SSH agent[^2] implementation. This can be useful if there is a need for multiple SSH keys across different access and services. 
 
