@@ -198,8 +198,52 @@
 
 ## Keyboard
 
-The main keyboard is usually my modded FC660C with the Norbauer Heavy-6: Urbi et Orbi edition case, BKE Redux Light v1 domes, MT3 Serika keycaps, with a custom QMK-compatible controller from Hasu.
-I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca linear switches.
+=== "Modded FC660C"
+
+    <div class="grid cards" markdown>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Modded FC660C](/assets/img/uses-this/icons/keyboard/Modded-FC660C.png)
+        <figcaption>Modded FC660C</figcaption>
+        </p>
+        </figure>
+
+    </div>
+
+    <div class="grid cards" markdown>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Norbauer Heavy-6 Urbi et Orbi](/assets/img/uses-this/icons/keyboard/Norbauer-Heavy6-Urbi-et-Orbi.png)
+        <figcaption>Norbauer Heavy-6 Urbi et Orbi</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Hasu FC660C Controller](/assets/img/uses-this/icons/keyboard/Hasu-FC660C.png)
+        <figcaption>Hasu FC660C Controller</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![BKE Redux Light](/assets/img/uses-this/icons/keyboard/BKE-Redux-Light.png)
+        <figcaption>BKE Redux Light v1</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Drop + biip MT3 Extended 2048](/assets/img/uses-this/icons/keyboard/MT3-Extended-2048.png)
+        <figcaption>Drop + biip MT3 Extended 2048</figcaption>
+        </p>
+        </figure>
+
+    </div>
+
+=== "Mode65"
 
 !!! info
 
