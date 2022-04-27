@@ -19,8 +19,12 @@ theme:
   icon:
     repo: fontawesome/brands/git-square
     tag:
+      cloudflare: fontawesome/brands/cloudflare
       internet: fontawesome/brands/internet-explorer
+      network: fontawesome/solid/network-wired
+      opensource: fontawesome/brands/git
       selfhosted: fontawesome/solid/server
+      vpn: material/tunnel
   font:
     text: Roboto
     code: Fira Code
@@ -50,8 +54,12 @@ theme:
 # ANCHOR Customization
 extra:
   tags:
+    cloudflare: cloudflare
     internet: internet
+    network: network
+    open source: opensource
     selfhosted: selfhosted
+    vpn: vpn
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/tylernguyen
