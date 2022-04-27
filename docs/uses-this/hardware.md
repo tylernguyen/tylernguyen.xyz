@@ -129,37 +129,47 @@
 
 ## Mouse, Mousepad, and Mouse Skates
 
-<div class="grid cards" markdown>
+=== "Mouse"
 
--   <figure markdown>
-      <p align="center">
-       ![Logitech GPX](/assets/img/uses-this/icons/mouse/Logitech-GPX.png)
-       <figcaption>Logitech GPX</figcaption>
-      </p>
-    </figure>
+    <div class="grid cards" markdown>
 
--   <figure markdown>
-      <p align="center">
-       ![Razer Viper 8KHz](/assets/img/uses-this/icons/mouse/Razer-Viper-8KHz.png)
-       <figcaption>Razer Viper 8KHz</figcaption>
-      </p>
-    </figure>
+    -   <figure markdown>
+        <p align="center">
+        ![Logitech GPX](/assets/img/uses-this/icons/mouse/Logitech-GPX.png)
+        <figcaption>Logitech GPX</figcaption>
+        </p>
+        </figure>
 
--   <figure markdown>
-      <p align="center">
-       ![Katana Superlight](/assets/img/uses-this/icons/mouse/Katana-Superlight.png)
-       <figcaption>Katana Superlight</figcaption>
-      </p>
-    </figure>
+    -   <figure markdown>
+        <p align="center">
+        ![Razer Viper 8KHz](/assets/img/uses-this/icons/mouse/Razer-Viper-8KHz.png)
+        <figcaption>Razer Viper 8KHz</figcaption>
+        </p>
+        </figure>
 
--   <figure markdown>
-      <p align="center">
-       ![Glorious Model O](/assets/img/uses-this/icons/mouse/Glorious-ModelO.png)
-       <figcaption>Glorious Model O</figcaption>
-      </p>
-    </figure>
+    -   <figure markdown>
+        <p align="center">
+        ![Katana Superlight](/assets/img/uses-this/icons/mouse/Katana-Superlight.png)
+        <figcaption>Katana Superlight</figcaption>
+        </p>
+        </figure>
 
-</div>
+    -   <figure markdown>
+        <p align="center">
+        ![Glorious Model O](/assets/img/uses-this/icons/mouse/Glorious-ModelO.png)
+        <figcaption>Glorious Model O</figcaption>
+        </p>
+        </figure>
+
+    </div>
+
+=== "Mousepad"
+
+    test
+
+=== "Mouse Skates"
+
+    test
 
 ## Keyboard
 
