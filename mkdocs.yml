@@ -108,7 +108,6 @@ markdown_extensions:
 # ANCHOR Page tree
 nav:
     - Home: index.md
-      - 2022:
         - blog/2022/cloudflare-tunnel-zero-trust-and-warp.md
     - Catalog:
       - Websites: catalog/websites.md
