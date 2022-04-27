@@ -1,4 +1,8 @@
-# Mastering Emails for the Modern World
+---
+title: Email Workflow for the Modern Internet
+tags:
+  - email
+---
 
 ### Pain! Emails, Email Addresses, and Email Inboxes
 

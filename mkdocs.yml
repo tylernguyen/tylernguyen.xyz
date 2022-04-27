@@ -107,8 +107,10 @@ markdown_extensions:
 
 # ANCHOR Page tree
 nav:
-    - Home: index.md
-      - 2022, the First Year:
+    - Home: 
+      - index.md
+      - 2022:
+        - blog/2022/email-workflow-for-the-modern-internet.md
         - blog/2022/cloudflare-remote-access-suite.md
     - Catalog:
       - Websites: catalog/websites.md
