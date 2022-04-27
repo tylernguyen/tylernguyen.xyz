@@ -99,6 +99,8 @@ markdown_extensions:
 nav:
     - Home: index.md
     - Blog: blog/index.md
+      - 2022:
+        - Cloudflare Tunnel, Zero Trust, and Warp: blog/2022/cloudflare-tunnel-zero-trust-and-warp.md
     - Catalog:
       - Websites: catalog/websites.md
       - Books : catalog/books.md
