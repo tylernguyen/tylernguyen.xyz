@@ -3,6 +3,10 @@
     ![Unraid](/assets/img/uses-this/banners/Unraid-light.svg#only-light){ align=right }
     ![Unraid](/assets/img/uses-this/banners/Unraid-dark.svg#only-dark){ align=right }
 
+    Unraid 
+
+    --- 
+
     Unraid is my preferred NAS operating system for its ease of use, Docker support, and active community.
 
     [Website](https://unraid.net/){ .md-button .md-button--primary }
@@ -48,6 +52,13 @@
     <p align="center">
     ![Nemix DDR4-3200 Unbuffered ECC RAM](/assets/img/uses-this/icons/pc/RAM_Nemix-ECC.png)
     <figcaption>32GB Nemix DDR4-3200 Unbuffered ECC RAM</figcaption>
+    </p>
+    </figure>
+
+-   <figure markdown>
+    <p align="center">
+    ![WD SN750](/assets/img/uses-this/icons/pc/SSD_WD-SN750.png)
+    <figcaption>2x1TB WD SN750</figcaption>
     </p>
     </figure>
 
