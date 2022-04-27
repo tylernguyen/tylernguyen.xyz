@@ -11,56 +11,56 @@
 
 -   <figure markdown>
     <p align="center">
-    ![Fractal Meshify 2 XL](/assets/img/uses-this/icons/pc/Meshify-2-XL.png)
+    ![Fractal Meshify 2 XL](/assets/img/uses-this/icons/pc/CASE_Meshify-2-XL.png)
     <figcaption>Fractal Meshify 2 XL</figcaption>
     </p>
     </figure>
 
 -   <figure markdown>
     <p align="center">
-    ![ASRock X570 Phantom Gaming X](/assets/img/uses-this/icons/pc/ASRock-X570-Phantom-Gaming-X.png)
+    ![ASRock X570 Phantom Gaming X](/assets/img/uses-this/icons/pc/MOBO_ASRock-X570-Phantom-Gaming-X.png)
     <figcaption>ASRock X570 Phantom Gaming X</figcaption>
     </p>
     </figure>
 
 -   <figure markdown>
     <p align="center">
-    ![AMD Ryzen 9 3950X](/assets/img/uses-this/icons/pc/AMD-3950X.png)
+    ![AMD Ryzen 9 3950X](/assets/img/uses-this/icons/pc/CPU_AMD-3950X.png)
     <figcaption>AMD Ryzen 9 3950X</figcaption>
     </p>
     </figure>
 
 -   <figure markdown>
     <p align="center">
-    ![Noctua NH-D15 chromax.Black](/assets/img/uses-this/icons/pc/Noctua-NH-D15-chromax.Black.png)
+    ![Noctua NH-D15 chromax.Black](/assets/img/uses-this/icons/pc/COOLER_Noctua-NH-D15-chromax.Black.png)
     <figcaption>Noctua NH-D15 chromax.Black</figcaption>
     </p>
     </figure>
 
 -   <figure markdown>
     <p align="center">
-    ![PNY RTX 4000](/assets/img/uses-this/icons/pc/RTX4000.png)
+    ![PNY RTX 4000](/assets/img/uses-this/icons/pc/GPU_RTX4000.png)
     <figcaption>PNY RTX 4000</figcaption>
     </p>
     </figure>
 
 -   <figure markdown>
     <p align="center">
-    ![Nemix DDR4-3200 Unbuffered ECC RAM](/assets/img/uses-this/icons/pc/Nemix-ECC-RAM.png)
+    ![Nemix DDR4-3200 Unbuffered ECC RAM](/assets/img/uses-this/icons/pc/RAM_Nemix-ECC.png)
     <figcaption>32GB Nemix DDR4-3200 Unbuffered ECC RAM</figcaption>
     </p>
     </figure>
 
 -   <figure markdown>
     <p align="center">
-    ![WD Elements](/assets/img/uses-this/icons/pc/WD-Elements.png)
+    ![WD Elements](/assets/img/uses-this/icons/pc/HDD_WD-Elements.png)
     <figcaption>150TB, Shucked WD Drives</figcaption>
     </p>
     </figure>
 
 -   <figure markdown>
     <p align="center">
-    ![be quiet! Dark Power 12 1000W](/assets/img/uses-this/icons/pc/be-quiet!-Dark-Power-12.png)
+    ![be quiet! Dark Power 12 1000W](/assets/img/uses-this/icons/pc/PSU_be-quiet!-Dark-Power-12.png)
     <figcaption>be quiet! Dark Power 12 1000W</figcaption>
     </p>
     </figure>

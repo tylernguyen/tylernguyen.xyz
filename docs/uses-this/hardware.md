@@ -6,49 +6,56 @@
 
     -   <figure markdown>
         <p align="center">
-        ![Alienware AW2521H](/assets/img/uses-this/icons/pc/Alienware-AW2521H.png)
+        ![Alienware AW2521H](/assets/img/uses-this/icons/pc/MON_Alienware-AW2521H.png)
         <figcaption>Alienware AW2521H</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![Fractal Torrent](/assets/img/uses-this/icons/pc/Fractal-Torrent.png)
+        ![Fractal Torrent](/assets/img/uses-this/icons/pc/CASE_Fractal-Torrent.png)
         <figcaption>Fractal Torrent</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![GIGABYTE X570S AORUS Master](/assets/img/uses-this/icons/pc/GIGABYTE-X570S-AORUS-Master.png)
+        ![GIGABYTE X570S AORUS Master](/assets/img/uses-this/icons/pc/MOBO_GIGABYTE-X570S-AORUS-Master.png)
         <figcaption>GIGABYTE X570S AORUS Master</figcaption>
+        </p>
+        </figure>
+        
+    -   <figure markdown>
+        <p align="center">
+        ![Sabrent Rocket 4.0 Plus](/assets/img/uses-this/icons/pc/SSD_Sabrent-Rocket-4.0-Plus.png)
+        <figcaption>Sabrent Rocket 4.0 Plus 1TB</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![AMD Ryzen 7 5800X](/assets/img/uses-this/icons/pc/AMD-5800X.png)
+        ![AMD Ryzen 7 5800X](/assets/img/uses-this/icons/pc/CPU_AMD-5800X.png)
         <figcaption>AMD Ryzen 7 5800X</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![Noctua NH-D15 chromax.Black](/assets/img/uses-this/icons/pc/Noctua-NH-D15-chromax.Black.png)
+        ![Noctua NH-D15 chromax.Black](/assets/img/uses-this/icons/pc/COOLER_Noctua-NH-D15-chromax.Black.png)
         <figcaption>Noctua NH-D15 chromax.Black</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![EVGA RTX 3080 Ti FTW3 Ultra](/assets/img/uses-this/icons/pc/RTX3080-Ti-FTW3-Ultra.png)
+        ![EVGA RTX 3080 Ti FTW3 Ultra](/assets/img/uses-this/icons/pc/GPU_RTX3080-Ti-FTW3-Ultra.png)
         <figcaption>EVGA RTX 3080 Ti FTW3 Ultra</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![be quiet! Dark Power 12 1000W](/assets/img/uses-this/icons/pc/be-quiet!-Dark-Power-12.png)
+        ![be quiet! Dark Power 12 1000W](/assets/img/uses-this/icons/pc/PSU_be-quiet!-Dark-Power-12.png)
         <figcaption>be quiet! Dark Power 12 1000W</figcaption>
         </p>
         </figure>
@@ -61,35 +68,35 @@
 
     -   <figure markdown>
         <p align="center">
-        ![SSUPD Meshlicious](/assets/img/uses-this/icons/pc/SSUPD-Meshlicious.png)
+        ![SSUPD Meshlicious](/assets/img/uses-this/icons/pc/CASE_SSUPD-Meshlicious.png)
         <figcaption>SSUPD Meshlicious</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![Intel i7-8700](/assets/img/uses-this/icons/pc/Intel-i7-8700.png)
+        ![Intel i7-8700](/assets/img/uses-this/icons/pc/CPU_Intel-i7-8700.png)
         <figcaption>Intel i7-8700</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![EK 280mm AIO](/assets/img/uses-this/icons/pc/EK-280mm-AIO.png)
+        ![EK 280mm AIO](/assets/img/uses-this/icons/pc/COOLER_EK-280mm-AIO.png)
         <figcaption>EK 280mm AIO</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![AMD RX 6900XT](/assets/img/uses-this/icons/pc/AMD-6900XT.png)
+        ![AMD RX 6900XT](/assets/img/uses-this/icons/pc/GPU_AMD-6900XT.png)
         <figcaption>AMD RX 6900XT</figcaption>
         </p>
         </figure>
 
     -   <figure markdown>
         <p align="center">
-        ![Corsair SF750](/assets/img/uses-this/icons/pc/Corsair-SF750.png)
+        ![Corsair SF750](/assets/img/uses-this/icons/pc/PSU_Corsair-SF750.png)
         <figcaption>Corsair SF750</figcaption>
         </p>
         </figure>
