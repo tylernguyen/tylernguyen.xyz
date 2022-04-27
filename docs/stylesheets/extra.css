@@ -4,6 +4,15 @@
 }
 
 /* SECTION Colors */
+
+/* ANCHOR Light Mode Colors */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #282F38;
+  --md-primary-fg-color--light: #282F38;
+  --md-primary-fg-color--dark: #232631;
+  --md-typeset-a-color: #3C00E0;
+}
+
 /* ANCHOR Dark Mode Colors */
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color: #282F38;
@@ -17,14 +26,6 @@
   --md-footer-bg-color: rgb(23, 27, 32, 0.87);
   --md-footer-bg-color-dark: rgb(67, 126, 199);
   --md-typeset-a-color: #689D6A;
-}
-
-/* ANCHOR Light Mode Colors */
-[data-md-color-scheme="default"] {
-  --md-primary-fg-color: #282F38;
-  --md-primary-fg-color--light: #282F38;
-  --md-primary-fg-color--dark: #232631;
-  --md-typeset-a-color: #3C00E0;
 }
 
 /* ANCHOR Button Color depends on Link Color */
