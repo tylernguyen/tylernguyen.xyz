@@ -127,7 +127,7 @@
 
 </div>
 
-## Mouse, Mousepad, and Mouse Skates
+## Mouse
 
 === "Mouse"
 
@@ -167,9 +167,11 @@
 
     test
 
-=== "Mouse Skates"
+!!! info
 
-    test
+    [Corepad Grips](https://lethalgaminggear.com/collections/corepad-grips) is my preferred griptape.
+
+    [Pulsar Superglide](https://www.pulsar.gg/collections/superglides) is my preferred mouse skates.
 
 ## Keyboard
 
