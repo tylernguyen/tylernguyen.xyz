@@ -25,7 +25,7 @@
 
 !!! example
 
-    My personal wiki, [tylernguyen.wiki](https://tylernguyen.wiki/), is powered by Obsidian's hosting service: [Obsidan Publish](https://obsidian.md/publish).
+    [tylernguyen.wiki](https://tylernguyen.wiki/) is powered by Obsidian's hosting service, [Obsidan Publish](https://obsidian.md/publish).
 
 ## Media
 
@@ -75,3 +75,7 @@
 !!! info
 
     Material for MkDocs has a private development fork called Insiders. The subsciption starts at $10 a month and gives access to early developments and features.
+
+!!! example
+
+    This website is created using Material for MkDocs Insiders.
