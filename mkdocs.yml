@@ -108,7 +108,7 @@ markdown_extensions:
 # ANCHOR Page tree
 nav:
     - Home: index.md
-      - '2022':
+      - 2022, the First Year:
         - blog/2022/cloudflare-remote-access-suite.md
     - Catalog:
       - Websites: catalog/websites.md
