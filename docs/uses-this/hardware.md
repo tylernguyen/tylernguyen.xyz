@@ -105,7 +105,16 @@
 
 === "Laptop"
 
-    Thinkpad X1 Carbon 2018/6th Gen [running macOS](https://github.com/tylernguyen/x1c6-hackintosh)
+    <div class="grid cards" markdown>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Thinkpad X1C6](/assets/img/uses-this/icons/pc/LAPTOP_Thinkpad-X1C6.png)
+        <figcaption>Lenovo Thinkpad X1C6 <a href="https://github.com/tylernguyen/x1c6-hackintosh"> (macOS)</a> </figcaption>
+        </p>
+        </figure>
+
+    </div>
 
 ## Audio
 

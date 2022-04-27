@@ -13,6 +13,21 @@ edit_uri: "edit/main/docs/"
 
 copyright: Copyright &copy; 2022 Tyler Nguyen
 
+# ANCHOR Customization
+extra:
+  tags:
+    cloudflare: cloudflare
+    internet: internet
+    keyboard: keyboard
+    network: network
+    open source: opensource
+    selfhosted: selfhosted
+    vpn: vpn
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tylernguyen
+  generator: false # NOTE Hide "Made with Material for MkDocs"
+
 theme:
   name: material
   custom_dir: overrides
@@ -21,6 +36,7 @@ theme:
     tag:
       cloudflare: fontawesome/brands/cloudflare
       internet: fontawesome/brands/internet-explorer
+      keyboard: fontawesome/regular/keyboard
       network: fontawesome/solid/network-wired
       opensource: fontawesome/brands/git
       selfhosted: fontawesome/solid/server
@@ -50,20 +66,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.tracking # NOTE Update URL with Active Anchor
     - toc.follow # NOTE Anchor following in TOC
-
-# ANCHOR Customization
-extra:
-  tags:
-    cloudflare: cloudflare
-    internet: internet
-    network: network
-    open source: opensource
-    selfhosted: selfhosted
-    vpn: vpn
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/tylernguyen
-  generator: false # NOTE Hide "Made with Material for MkDocs"
 
 extra_css:
   - stylesheets/extra.css
