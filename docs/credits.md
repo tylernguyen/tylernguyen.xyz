@@ -23,7 +23,7 @@ hide:
 
     The site is hosted by Cloudflare via Cloudflare Pages. Cloudflare Pages leverage the Cloudflare network and infrastructure to build a JAMstack platform that is performant, secure, and cost effective.
 
-    [Website](https://pages.cloudflare.com/){ .md-button .md-button--primary } [Privacy Policy](https://www.cloudflare.com/privacypolicy/){ .md-button }
+    [Visit pages.cloudflare.com](https://pages.cloudflare.com/){ .md-button .md-button--primary } [Privacy Policy](https://www.cloudflare.com/privacypolicy/){ .md-button }
 
 !!! recommendation
 
@@ -32,4 +32,4 @@ hide:
 
     GitHub hosts the source code of this site. It is my preferred public Git hosting for its 3rd party integrations, automation, and workflows.
 
-    [Website](https://github.com/){ .md-button .md-button--primary } [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement){ .md-button }
+    [Visit github.com](https://github.com/){ .md-button .md-button--primary } [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement){ .md-button }

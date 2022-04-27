@@ -1,5 +1,5 @@
 ---
-title: Cloudflare Tunnel, Zero Trust, and Warp
+title: Cloudflare Tunnel, Zero Trust, and WARP
 tags:
   - internet
   - selfhosted

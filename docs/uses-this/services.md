@@ -37,7 +37,7 @@
 
 <div class="grid cards" markdown>
 
-- ![Todoist](/assets/img/uses-this/icons/Todoist.svg){ .twemoji } [Todoist](https://todoist.com/) SaaS
+- ![Todoist](/assets/img/uses-this/icons/Todoist.svg){ .twemoji } [Todoist](https://todoist.com/)
 
 </div>
 

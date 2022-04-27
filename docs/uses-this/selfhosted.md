@@ -7,7 +7,7 @@
 
     Unraid has a robust redundancy system. It supports virtualization, third-party plugins, and Docker. Its UI and UX is straightfoward and user friendly. The Unraid community is also very active and helpful.
 
-    [Website](https://unraid.net/){ .md-button .md-button--primary }
+    [Visit unraid.net](https://unraid.net/){ .md-button .md-button--primary }
 
 <div class="grid cards" markdown>
 
