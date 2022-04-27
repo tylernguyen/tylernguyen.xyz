@@ -7,20 +7,22 @@ tags:
 ### Pain! Emails, Email Addresses, and Email Inboxes
 
 The average Andy likely has:
+
 - a personal email address (probably Gmail)
 - a work email address (mostly powered by Gmail or Outlook)
 - a spam email address (some random address made ages ago)
 - a legacy email address tied to old accounts
 
-!!! Tip
+!!! tip
 
-		Don't be an internet peasant, buy land(domains)!
+	Don't be an internet peasant, buy land(domains)!
 
 Your email provider, be it Google (@gmail) or Microsoft (@outlook) owns your email accounts, by virtue of owning said email domain. Remember that when the service is free, you are the product!
 
 ## The Email Pipeline
 
 Email is the pillar of day-to-day life, needed when:
+
 - creating accounts
 - shopping (receipts, warranties, claims)
 - subscriptions/newsletter sign-ups
@@ -28,7 +30,6 @@ Email is the pillar of day-to-day life, needed when:
 - file sharing (mostly documents)
 
 ## Why It's the Way It Is
-
 
 
 ### Email Security, Privacy, and Availability
@@ -45,8 +46,8 @@ None of these steps are particularly difficult, but what they are is time consum
 
 ## Junctions of Trust
 
-!!! Info "April 8th, 2022"
+!!! info "April 8th, 2022"
 
-		SimpleLogin has been [acquired](https://protonmail.com/blog/proton-and-simplelogin-join-forces/) by Proton.
+	SimpleLogin has been [acquired](https://protonmail.com/blog/proton-and-simplelogin-join-forces/) by Proton.
 
 
