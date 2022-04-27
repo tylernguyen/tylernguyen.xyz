@@ -18,6 +18,9 @@ theme:
   custom_dir: overrides
   icon:
     repo: fontawesome/brands/git-square
+    tag:
+      internet: fontawesome/brands/internet-explorer
+      selfhosted: fontawesome/solid/server
   font:
     text: Roboto
     code: Fira Code
@@ -48,6 +51,9 @@ theme:
 
 # ANCHOR Customization
 extra:
+  tags:
+    internet: internet
+    selfhosted: selfhosted
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/tylernguyen
