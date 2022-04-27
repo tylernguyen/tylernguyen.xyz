@@ -37,6 +37,7 @@ Email is the pillar of day-to-day life, needed when:
 #### Why I don't Self Host Emails
 
 Ignoring technical reasons related to email SPAM, the prime reason against self-hosting the maintenance effort required for a properly configured email server. **Email is something that should just work!** With self-hosting, consider that you have to:
+
 1. Have the technical know-how and troubleshooting skills
 2. Get a server up and running
 3. Choose an email solution and configure said software
