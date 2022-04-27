@@ -127,6 +127,7 @@ nav:
       - Services : uses-this/services.md
       - Self-Hosted : uses-this/selfhosted.md
       - Security : uses-this/security.md
+      - Don't Use This: uses-this/dont-use-this.md
     - Contact: contact.md
     - Credits: credits.md
     - Support: https://github.com/sponsors/tylernguyen
