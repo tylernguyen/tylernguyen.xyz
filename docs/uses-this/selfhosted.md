@@ -11,6 +11,13 @@
 
 -   <figure markdown>
     <p align="center">
+    ![Fractal Meshify 2 XL](/assets/img/uses-this/icons/pc/Meshify-2-XL.png)
+    <figcaption>Fractal Meshify 2 XL</figcaption>
+    </p>
+    </figure>
+
+-   <figure markdown>
+    <p align="center">
     ![ASRock X570 Phantom Gaming X](/assets/img/uses-this/icons/pc/ASRock-X570-Phantom-Gaming-X.png)
     <figcaption>ASRock X570 Phantom Gaming X</figcaption>
     </p>
@@ -41,6 +48,13 @@
     <p align="center">
     ![Nemix DDR4-3200 Unbuffered ECC RAM](/assets/img/uses-this/icons/pc/Nemix-ECC-RAM.png)
     <figcaption>32GB Nemix DDR4-3200 Unbuffered ECC RAM</figcaption>
+    </p>
+    </figure>
+
+-   <figure markdown>
+    <p align="center">
+    ![WD Elements](/assets/img/uses-this/icons/pc/WD-Elements.png)
+    <figcaption>150TB, Shucked WD Drives</figcaption>
     </p>
     </figure>
 
