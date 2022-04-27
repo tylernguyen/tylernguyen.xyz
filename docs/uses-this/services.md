@@ -19,7 +19,7 @@
 
 <div class="grid cards" markdown>
 
-- ![ProtonMail](/assets/img/uses-this/icons/ProtonMail.png){ .twemoji } [ProtonMail](https://protonmail.com/)
+- ![ProtonMail](/assets/img/uses-this/icons/ProtonMail.svg){ .twemoji } [ProtonMail](https://protonmail.com/)
 - ![SimpleLogin](/assets/img/uses-this/icons/SimpleLogin.svg){ .twemoji } [SimpleLogin](https://simplelogin.io/)
 
 </div>
