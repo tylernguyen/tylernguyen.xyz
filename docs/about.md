@@ -4,6 +4,8 @@ hide:
   - toc
 ---
 
+Hello 👋,
+
 ???+ question "Who are you?"
 
     I'm a UT Austin graduate with a degree in mathematics. In my spare time, I consume an absurd amount of popular entrainment and culture. I'm also an avid gamer and Magic the Gathering player.

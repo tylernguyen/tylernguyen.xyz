@@ -14,7 +14,7 @@ hide:
 
     Material for MkDocs Insiders starts at $10 a month. The subscription gives access to early developments and features.
 
-    [Website](https://squidfunk.github.io/mkdocs-material/){ .md-button .md-button--primary } [Source](https://github.com/squidfunk/mkdocs-material){ .md-button }    
+    [Visit squidfunk.github.io/mkdocs-material](https://squidfunk.github.io/mkdocs-material/){ .md-button .md-button--primary } [Source](https://github.com/squidfunk/mkdocs-material){ .md-button }    
 
 !!! recommendation
 
