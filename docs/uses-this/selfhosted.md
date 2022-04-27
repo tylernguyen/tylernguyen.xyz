@@ -5,7 +5,7 @@
 
     Unraid is my preferred NAS operating system.
 
-    The OS has a robust redundancy system, supports Docker and virtulization. The Unraid community is also active and helpful.
+    Unraid has a robust redundancy system, supports Docker and virtualization. Its UI and UX is straightfoward and user friendly. The Unraid community is also very active and helpful.
 
     [Website](https://unraid.net/){ .md-button .md-button--primary }
 
