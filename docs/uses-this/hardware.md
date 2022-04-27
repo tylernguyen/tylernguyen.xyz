@@ -75,6 +75,13 @@
 
     -   <figure markdown>
         <p align="center">
+        ![EK 280mm AIO](/assets/img/uses-this/icons/pc/EK-280mm-AIO.png)
+        <figcaption>EK 280mm AIO</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
         ![AMD RX 6900XT](/assets/img/uses-this/icons/pc/AMD-6900XT.png)
         <figcaption>AMD RX 6900XT</figcaption>
         </p>
