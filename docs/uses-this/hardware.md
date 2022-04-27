@@ -178,4 +178,12 @@
 The main keyboard is usually my modded FC660C with the Norbauer Heavy-6: Urbi et Orbi edition case, BKE Redux Light v1 domes, MT3 Serika keycaps, with a custom QMK-compatible controller from Hasu.
 I also rotate it with a similarly modded FC980C and a Mode65 built with Alpaca linear switches.
 
+!!! info
+
+    <div class="grid cards" markdown>
+
+    - ![QMK](/assets/img/uses-this/icons/QMK.png){ .twemoji } Keyboards are powered by the [QMK](https://docs.qmk.fm/) firmware.
+
+    </div>
+
 ## Miscellaneous

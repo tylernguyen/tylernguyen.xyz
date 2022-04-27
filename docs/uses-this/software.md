@@ -46,14 +46,6 @@
 
 </div>
 
-## Productivity
-
-<div class="grid cards" markdown>
-
-- ![QMK](/assets/img/uses-this/icons/QMK.png){ .twemoji } [QMK](https://docs.qmk.fm/)
-
-</div>
-
 ## VPN
 
 <div class="grid cards" markdown>
