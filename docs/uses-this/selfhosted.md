@@ -5,7 +5,7 @@
 
     Unraid is my preferred NAS operating system for its ease of use, Docker support, and active community.
 
-    [Visit unraid.net](https://unraid.net/){ .md-button .md-button--primary }
+    [Website](https://unraid.net/){ .md-button .md-button--primary }
 
 <div class="grid cards" markdown>
 
@@ -76,6 +76,7 @@
 - ![FreshRSS](/assets/img/uses-this/icons/FreshRSS.png){ .twemoji } [FreshRSS](https://www.freshrss.org/)
 - ![RSSHub](/assets/img/uses-this/icons/RSSHub.png){ .twemoji } [RSSHub](https://github.com/DIYgod/RSSHub)
 - ![n8n](/assets/img/uses-this/icons/n8n.png){ .twemoji } [n8n](https://n8n.io)
+- ![cloudflared](/assets/img/uses-this/icons/Cloudflare.svg){ .twemoji } [cloudflared](https://github.com/cloudflare/cloudflared)
 
 </div>
 

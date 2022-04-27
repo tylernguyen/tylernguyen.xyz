@@ -13,6 +13,13 @@
 
     -   <figure markdown>
         <p align="center">
+        ![Fractal Torrent](/assets/img/uses-this/icons/pc/Fractal-Torrent.png)
+        <figcaption>Fractal Torrent</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
         ![GIGABYTE X570S AORUS Master](/assets/img/uses-this/icons/pc/GIGABYTE-X570S-AORUS-Master.png)
         <figcaption>GIGABYTE X570S AORUS Master</figcaption>
         </p>
@@ -50,10 +57,37 @@
 
 === "Workspace PC"
 
-    - B360M Mortar MS-7B23 Motherboard
-    - Intel i7-8700
-    - AMD Radeon RX 6900XT
-    - 32GB DDR4 RAM
+    <div class="grid cards" markdown>
+
+    -   <figure markdown>
+        <p align="center">
+        ![SSUPD Meshlicious](/assets/img/uses-this/icons/pc/SSUPD-Meshlicious.png)
+        <figcaption>SSUPD Meshlicious</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Intel i7-8700](/assets/img/uses-this/icons/pc/Intel-i7-8700.png)
+        <figcaption>Intel i7-8700</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![AMD RX 6900XT](/assets/img/uses-this/icons/pc/AMD-6900XT.png)
+        <figcaption>AMD RX 6900XT</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Corsair SF750](/assets/img/uses-this/icons/pc/Corsair-SF750.png)
+        <figcaption>Corsair SF750</figcaption>
+        </p>
+        </figure>
+
+    </div>
 
 === "Laptop"
 
