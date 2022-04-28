@@ -18,7 +18,7 @@
 
 ``` title="wezterm.lua"
 
---8<--​ "wezterm.lua"
+--8<--​ "wezterm.lua" 
 
 ```
 
