@@ -1,5 +1,5 @@
 ---
-title: "tylernguyen" QMK Configuration
+title: tylernguyen's QMK Configuration
 tags:
   - opensource
 ---

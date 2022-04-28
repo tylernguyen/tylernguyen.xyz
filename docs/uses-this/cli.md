@@ -1,5 +1,5 @@
 ---
-title: "tylernguyen" CLI Configuration
+title: tylernguyen's CLI Configuration
 tags:
 ---
 
