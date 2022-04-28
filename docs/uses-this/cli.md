@@ -18,11 +18,11 @@
 
 ``` title="wezterm.lua"
 
---8<--​ "wezterm.lua" 
+--8<--​ "docs/assets/snippets/wezterm.lua" 
 
 ```
 
---8<--​ "wezterm.lua" 
+--8<--​ "docs/assets/snippets/wezterm.lua" 
 
 ## Shell
 
