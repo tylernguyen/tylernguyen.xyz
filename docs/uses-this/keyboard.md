@@ -1,7 +1,5 @@
 ---
 title: tylernguyen's QMK Configuration
-tags:
-  - opensource
 ---
 
 Now,
