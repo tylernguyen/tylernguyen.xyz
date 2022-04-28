@@ -31,6 +31,7 @@ theme:
   name: material
   custom_dir: overrides
   icon:
+    logo: material/human-greeting
     repo: fontawesome/brands/git-square
     tag:
       internet: fontawesome/brands/internet-explorer
@@ -95,7 +96,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.snippets: # NOTE Glossary, Embed External Files
-      base_path: 'docs/assets/snippets/'
+      base_path: ['docs/assets/snippets/']
       check_paths: true
   - pymdownx.superfences: # NOTE Admoniton, Annotations, MermaidJS
       custom_fences:
