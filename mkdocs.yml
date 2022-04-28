@@ -16,7 +16,6 @@ copyright: Copyright &copy; 2022 Tyler Nguyen
 # ANCHOR Customization
 extra:
   tags:
-    cloudflare: cloudflare
     internet: internet
     keyboard: keyboard
     network: network
@@ -34,7 +33,6 @@ theme:
   icon:
     repo: fontawesome/brands/git-square
     tag:
-      cloudflare: fontawesome/brands/cloudflare
       internet: fontawesome/brands/internet-explorer
       keyboard: fontawesome/regular/keyboard
       network: fontawesome/solid/network-wired
@@ -129,6 +127,9 @@ nav:
       - Self-Hosted : uses-this/selfhosted.md
       - Security : uses-this/security.md
       - Don't Use This: uses-this/dont-use-this.md
+      - dotfiles:
+        - keyboard.md
+        - CLI.md
     - Contact: contact.md
     - Credits: credits.md
     - Support: https://github.com/sponsors/tylernguyen

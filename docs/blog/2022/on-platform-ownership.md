@@ -1,4 +1,8 @@
-# Platform Ownership and Self-Sufficiency on the Internet
+---
+title: On Platform Ownership
+tags:
+  - internet
+---
 
 ## Introduction
 

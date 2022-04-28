@@ -2,10 +2,8 @@
 title: Cloudflare Remote Access Suite
 tags:
   - internet
-  - selfhosted
-  - cloudflare
-  - vpn
   - network
+  - selfhosted
 ---
 
 ...
