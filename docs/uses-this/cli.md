@@ -22,6 +22,8 @@
 
 ```
 
+--8<--​ "wezterm.lua" 
+
 ## Shell
 
 
