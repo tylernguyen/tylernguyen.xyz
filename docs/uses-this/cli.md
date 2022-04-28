@@ -17,7 +17,9 @@
 
 
 ``` title="wezterm.lua"
+
 --8<--​ "wezterm.lua"
+
 ```
 
 ## Shell
