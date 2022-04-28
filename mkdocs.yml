@@ -96,6 +96,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.snippets: # NOTE Glossary, Embed External Files
       - base_path: docs/assets/snippets/
+      - check_paths: true
   - pymdownx.superfences: # NOTE Admoniton, Annotations, MermaidJS
       custom_fences:
         - name: mermaid
