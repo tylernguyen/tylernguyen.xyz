@@ -58,7 +58,7 @@
 
 <div class="grid cards" markdown>
 
-- ![Wezterm](/assets/img/uses-this/icons/wezterm.png){ .twemoji } [Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
+- ![wezterm](/assets/img/uses-this/icons/wezterm.png){ .twemoji } [Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
 - ![Homebrew](/assets/img/uses-this/icons/Homebrew.png){ .twemoji } [Homebrew](https://brew.sh/)
 - ![winget](/assets/img/uses-this/icons/winget.png){ .twemoji } [winget](https://github.com/microsoft/winget-cli)
 

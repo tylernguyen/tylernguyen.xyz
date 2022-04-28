@@ -1,7 +1,3 @@
----
-title: tylernguyen's QMK Configuration
----
-
 Now,
 
 Remove/Ignore PrintScrn, ScrollLock, Pause/Break, Insert, Home, Delete, End, PageUp/PageDown entirely, consider the Leopold FC980C’s layout.
