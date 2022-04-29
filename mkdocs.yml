@@ -23,7 +23,7 @@ extra:
 
 theme:
   name: material
-  custom_dir: ${CUSTOM_DIR}
+  custom_dir: env.CUSTOM_DIR
   icon:
     logo: material/human-greeting
     repo: fontawesome/brands/github
