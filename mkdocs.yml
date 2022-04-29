@@ -20,10 +20,6 @@ extra:
     network: network
     open source: opensource
     selfhosted: selfhosted
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/tylernguyen
-  generator: false # NOTE Hide "Made with Material for MkDocs"
 
 theme:
   name: material
