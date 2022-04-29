@@ -15,6 +15,10 @@
     3. GPU accelerated.
     4. Ligature support.
 
+``` title="wezterm.lua"
+--8<-- "includes/wezterm.lua"
+```
+
 ## Shell
 
 
