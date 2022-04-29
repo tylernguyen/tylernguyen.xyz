@@ -1,5 +1,5 @@
 ---
-template: overrides/blog.html
+template: "overrides/blog.html"
 title: Cloudflare Remote Access Suite
 tags:
   - internet
