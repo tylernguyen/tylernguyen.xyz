@@ -6,4 +6,4 @@ hide:
 
 ## 2022
 
-- [Cloudflare Remote Access Suite](blog/2022/cloudflare-remote-access-suite.md)
+- [Cloudflare Remote Access Suite](2022/cloudflare-remote-access-suite.md)
