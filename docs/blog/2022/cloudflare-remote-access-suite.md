@@ -15,7 +15,7 @@ tags:
 ## 3. Wishlist, Development, and the Competition
 
 
-``` title="wezterm.lua"
+```lua title="wezterm.lua"
 
 local wezterm = require("wezterm")
 
