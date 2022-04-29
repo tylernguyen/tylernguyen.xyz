@@ -32,7 +32,7 @@ theme:
   custom_dir: overrides
   icon:
     logo: material/human-greeting
-    repo: fontawesome/brands/git-square
+    repo: fontawesome/brands/github
     tag:
       internet: fontawesome/brands/internet-explorer
       keyboard: fontawesome/regular/keyboard
@@ -95,7 +95,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.snippets: # NOTE Glossary, Embed External Files
   - pymdownx.superfences: # NOTE Admoniton, Annotations, MermaidJS
       custom_fences:
         - name: mermaid
@@ -107,8 +106,9 @@ markdown_extensions:
 
 # ANCHOR Page tree
 nav:
-    - Home: 
-      - index.md
+    - Home: index.md
+    - Blog:
+      blog/index.md
       - 2022:
         - blog/2022/email-workflow-for-the-modern-internet.md
         - blog/2022/cloudflare-remote-access-suite.md

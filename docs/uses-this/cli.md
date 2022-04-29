@@ -15,15 +15,6 @@
     3. GPU accelerated.
     4. Ligature support.
 
-
-``` title="wezterm.lua"
-
---8<--​ "docs/assets/snippets/wezterm.lua" 
-
-```
-
---8<--​ "docs/assets/snippets/wezterm.lua" 
-
 ## Shell
 
 
