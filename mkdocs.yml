@@ -23,7 +23,7 @@ extra:
 
 theme:
   name: material
-  custom_dir: !ENV [CUSTOM_DIR, "material"]
+  custom_dir: overrides
   icon:
     logo: material/human-greeting
     repo: fontawesome/brands/github
