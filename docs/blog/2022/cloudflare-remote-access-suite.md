@@ -16,3 +16,5 @@ tags:
 
 
 --8<-- "includes/abb.md"
+
+--8<-- "includes/wezterm.lua"

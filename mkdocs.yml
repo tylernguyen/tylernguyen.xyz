@@ -50,6 +50,7 @@ theme:
     - announce.dismiss # NOTE Dismissable Announcement Banner
     - search.highlight # NOTE Highlight Matched Occurences after a Search
     - search.suggest
+    - navigation.indexes # NOTE Attach Top Level Doc to Section
     - navigation.instant # NOTE Instant Loading on Internal Links with XMLHttpRequest (XHR)
     - navigation.sections
     - navigation.top # NOTE Back-to-top button
