@@ -1,4 +1,5 @@
 ---
+template: overrides/blog.html
 title: Email Workflow for the Modern Internet
 tags:
   - email

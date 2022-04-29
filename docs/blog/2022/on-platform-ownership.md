@@ -1,4 +1,5 @@
 ---
+template: overrides/blog.html
 title: On Platform Ownership
 tags:
   - internet
