@@ -17,11 +17,9 @@ copyright: Copyright &copy; 2022 Tyler Nguyen
 extra:
   tags:
     internet: internet
-    keyboard: keyboard
     network: network
     open source: opensource
     selfhosted: selfhosted
-    vpn: vpn
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/tylernguyen
@@ -35,11 +33,9 @@ theme:
     repo: fontawesome/brands/github
     tag:
       internet: fontawesome/brands/internet-explorer
-      keyboard: fontawesome/regular/keyboard
       network: fontawesome/solid/network-wired
       opensource: fontawesome/brands/git
       selfhosted: fontawesome/solid/server
-      vpn: material/tunnel
   font:
     text: Roboto
     code: Fira Code
@@ -108,7 +104,7 @@ markdown_extensions:
 nav:
     - Home: index.md
     - Blog:
-        blog/index.md
+        - blog/index.md
         - 2022:
           - blog/2022/email-workflow-for-the-modern-internet.md
           - blog/2022/cloudflare-remote-access-suite.md
