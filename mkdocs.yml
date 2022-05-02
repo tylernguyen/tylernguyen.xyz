@@ -132,13 +132,13 @@ nav:
       - Graphic Novels: catalog/graphic-novels.md
       - Music: catalog/music.md
     - Uses This:
-      - dotfiles: uses-this/dotfiles.md
-      - Hardware : uses-this/hardware.md
-      - Software : uses-this/software.md
-      - Services : uses-this/services.md
-      - Self-Hosted : uses-this/selfhosted.md
-      - Security : uses-this/security.md
-      - Don't Use This: uses-this/dont-use-this.md
+      - dotfiles: dotfiles.md
+      - Hardware : hardware.md
+      - Software : software.md
+      - Services : services.md
+      - Self-Hosted : selfhosted.md
+      - Security : security.md
+      - Don't Use This: dont-use-this.md
     - Contact: contact.md
     - About: about.md
     - Support: https://github.com/sponsors/tylernguyen
