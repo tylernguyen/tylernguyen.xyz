@@ -115,12 +115,11 @@ markdown_extensions:
 
 # ANCHOR Page tree
 nav:
-    - Home: index.md
-    - Blog:
-        - blog/index.md
-        - 2022:
-          - blog/2022/email-workflow-for-the-modern-internet.md
-          - blog/2022/cloudflare-remote-access-suite.md
+    - Home:
+      - index.md
+      - 2022:
+        - blog/2022/email-workflow-for-the-modern-internet.md
+        - blog/2022/cloudflare-remote-access-suite.md
     - Catalog:
       - Websites: catalog/websites.md
       - Books : catalog/books.md
