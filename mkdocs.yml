@@ -24,7 +24,7 @@ extra:
 theme:
   name: material
   custom_dir: overrides
-  favicon: assets/favicon.svg
+  favicon: assets/favicon.png
   icon:
     logo: material/human-greeting
     repo: fontawesome/brands/github
