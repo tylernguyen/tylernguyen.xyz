@@ -17,7 +17,6 @@
 <div class="grid cards" markdown>
 
 - ![VSCode](/assets/img/uses-this/icons/VSCode.png){ .twemoji } [Visual Studio Code](https://code.visualstudio.com/)
-- ![iA Writer](/assets/img/uses-this/icons/iA-Writer.png){ .twemoji } [iA Writer](https://ia.net/writer)
 - ![Obsidian](/assets/img/uses-this/icons/Obsidian.png){ .twemoji } [Obsidian](https://obsidian.md/)
 - ![Just Press Record](/assets/img/uses-this/icons/Just-Press-Record.png){ .twemoji } [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
 
