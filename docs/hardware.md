@@ -255,11 +255,11 @@
 
 ## Miscellaneous
 
-## Yubikey
-
 !!! recommendation
 
-    ![YubiKeys](/assets/security/Yubikey.png){ align=right }
+    ![Yubikeys](/assets/security/Yubikey.png){ align=right }
+
+    **Yubikeys**
 
     Yubikey supports the most security protocols. It is also widely documented and supported.
 

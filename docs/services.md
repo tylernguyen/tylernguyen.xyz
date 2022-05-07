@@ -17,12 +17,12 @@
 
 ## Password Manager
 
-## 1Password
-
 !!! recommendation
 
     ![1Password](/assets/banners/1Password-light.svg#only-light){ align=right }
     ![1Password](/assets/banners/1Password-dark.svg#only-dark){ align=right }
+
+    **1Password**
 
     1Password is my preferred password manager. It also manages any OTP multi-factor and SSH authentication I need.
 
@@ -60,11 +60,22 @@
 
 ## VPN
 
-<div class="grid cards" markdown>
+!!! recommendation
 
-- ![Mullvad](/assets/logos/Mullvad.svg){ .twemoji } [Mullvad](https://mullvad.net/)
+    ![Mullvad](/assets/banners/Mullvad-light.svg#only-light){ align=right }
+    ![Mullvad](/assets/banners/Mullvad-dark.svg#only-dark){ align=right }
 
-</div>
+    **Mullvad**
+
+    [Recommended](https://www.privacyguides.org/vpn/#mullvad) by [Privacy Guides](https://www.privacyguides.org/). Mullvad is my preferred VPN Provider.
+
+    [Visit mullvad.net](hhttps://mullvad.net){ .md-button .md-button--primary } [Policies](https://mullvad.net/en/help/tag/policies/){ .md-button }
+
+!!! warning
+
+    VPNs do not provide anonymity.[^1]
+
+[^1]: [Privacy Guides: VPN Overview](https://www.privacyguides.org/vpn/#vpn-overview)
   
 ## Domain, DNS, Hosting
 
