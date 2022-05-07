@@ -71,11 +71,11 @@
 
     [Visit mullvad.net](hhttps://mullvad.net){ .md-button .md-button--primary } [Policies](https://mullvad.net/en/help/tag/policies/){ .md-button }
 
-!!! warning
+!!! danger
 
-    VPNs do not provide anonymity.[^1]
+    VPNs do not provide anonymity.[^2]
 
-[^1]: [Privacy Guides: VPN Overview](https://www.privacyguides.org/vpn/#vpn-overview)
+
   
 ## Domain, DNS, Hosting
 
@@ -87,3 +87,4 @@
 </div>
 
 [^1]: [Richard Stallman: Reasons not to buy from Amazon](https://stallman.org/amazon.html)
+[^2]: [Privacy Guides: VPN Overview](https://www.privacyguides.org/vpn/#vpn-overview)
