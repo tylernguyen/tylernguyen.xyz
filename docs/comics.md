@@ -1,20 +1,20 @@
 ## Featured
 
-### Department of Truth
+### The Department of Truth
 
 !!! recommendation
 
     ![Department of Truth](/assets/catalog/COMIC_Department-of-Truth.jpg){ align=right }
 
-    [Rotten Tomatoes](https://www.rottentomatoes.com/m/enter_the_dragon){ .md-button .md-button--primary } 
+    [James Tynion IV](https://jamestynioniv.substack.com/){ .md-button .md-button--primary } [Image Comics](https://imagecomics.com/comics/series/the-department-of-truth){ .md-button }
 
-### Sandman
+### The Sandman
 
 !!! recommendation
 
     ![Sandman](/assets/catalog/COMIC_Sandman.jpg){ align=right }
 
-    [Rotten Tomatoes](https://www.rottentomatoes.com/m/matrix){ .md-button .md-button--primary }
+    [Neil Gaiman](https://www.neilgaiman.com/){ .md-button .md-button--primary }
 
 
 ## Index
