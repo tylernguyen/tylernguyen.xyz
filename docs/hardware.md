@@ -254,3 +254,17 @@
     </div>
 
 ## Miscellaneous
+
+## Yubikey
+
+!!! recommendation
+
+    ![YubiKeys](/assets/security/Yubikey.png){ align=right }
+
+    Yubikey supports the most security protocols. It is also widely documented and supported.
+
+    [Visit yubico.com](https://www.yubico.com){ .md-button .md-button--primary } [Privacy Policy](https://www.yubico.com/support/terms-conditions/privacy-notice){ .md-button }
+
+!!! warning
+
+    Yubikey's firmware is not open source and cannot be updated without purchasing a new key.
