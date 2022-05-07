@@ -1,6 +1,6 @@
 ## Featured
 
-### The Sympathizer by Viet Thanh Nguyen
+### The Sympathizer
 
 !!! recommendation
 
