@@ -1,24 +1,40 @@
-The following is a list of books that I own, have owned or rented in the past, be it digital/physical, text/audio. Though I usually prefer to listen, rather than to read.
+## Featured
 
-If I have enough to say, I will review or write opinions on some books.
+<div class="grid cards" markdown>
 
-I haven’t read all books listed here.
+-   <figure markdown>
+    <p align="center">
+    ![The Sympathizer](/assets/img/catalog/The-Sympathizer.jpg)
+    <figcaption>The Sympathizer</figcaption>
+    </p>
+    </figure>
 
-## Art, Design, & Writing 🎨
+-   <figure markdown>
+    <p align="center">
+    ![The Committed](/assets/img/catalog/The-Committed.jpg)
+    <figcaption>The Committed</figcaption>
+    </p>
+    </figure>
+
+</div>
+
+## Index
+
+### Art, Design, & Writing 🎨
 
 - Heschong, Lisa - _Thermal Delight in Architecture_
 - Mars, Roman - _The 99 Percent Invisible City: A Field Guide to the Hidden World of Everyday Design_
 - Norman, Don - _The Design of Everyday Things_
 - Strunk, William - _The Elements of Style_
 
-## Biography, Autobiography & Memoir 🧔
+### Biography, Autobiography & Memoir 🧔
 
 - Bùi, Thi - _The Best We Could Do: An Illustrated Memoir_
 - King, Stephen - _On Writing_
 - Obama, Barack - _A Promised Land_
 - Yamashita, Karen Tei - _Letters to Memory_
 
-## Business 💵
+### Business 💵
 
 - Bogle, John C. - _Stay the Course_
 - Bogle, John C. - _Little Book of Common Sense Investing_
@@ -27,11 +43,11 @@ I haven’t read all books listed here.
 - Zuckerman, Gregory - _The Man Who Solved the Market: How Jim Simons Launched the Quant Evolution_
 - Zweig, Jason - _The Devil's Financial Diction_
 
-## Comedy 🤡
+### Comedy 🤡
 
 - Carlin, George - _When Will Jesus Bring the Pork Chops?_
 
-## Crime 🔪
+### Crime 🔪
 
 - Capote, Truman - _In Cold Blood_
 - Cullen, David - _Columbine_
@@ -44,11 +60,11 @@ I haven’t read all books listed here.
 - Nelson, Maggie - _The Red Parts: Autobiography of a Trial_
 - Parry, Richard Lloyd - _People Who Eat Darkness: The True Story of a Young Woman Who Vanished from the Streets of Tokyo--and the Evil That Swallowed Her Up_
 
-## Essays 📜
+### Essays 📜
 
 - Grann, David - _The Devil and Sherlock Holmes_
 
-## Fiction 💡
+### Fiction 💡
 
 - Cliche, Ernest - _Ready Player One_
 - Haddon, Mark - _The Curious Incident of the Dog in the Night-Time_
@@ -64,9 +80,7 @@ I haven’t read all books listed here.
 - Otsuka, Julie - _The Buddha in The Attic_
 - Tarantino, Quentin - _Once Upon a Time in Hollywood_
 
-## Graphic Novels 📷
-
-## History 💀
+### History 💀
 
 - Applebaum, Anne - _Gulag: A History_
 - Boorstin, Daniel J. - _The Discoverers (First in the Knowledge Triology)_
@@ -92,17 +106,17 @@ I haven’t read all books listed here.
 - Wilkerson, Isabel - _The Warmth of Other Suns: The Epic Story of America's Great Migration_
 - Winegard, Timothy C. - _The Mosquito: A Human History of Our Deadliest Predator_
 
-## Poetry 🔖
+### Poetry 🔖
 
 - Nguyễn, Du - _Truyện Kiều / The Tale of Kiều_ (Billingual Ed. translated by Huynh Sanh Thong)
 - Tennyson, Alfred - _Poems_
 
-## Politics 🎎
+### Politics 🎎
 
 - Rhodes, Ben - _The World as It Is_
 - Sharpio, James S. - _Shakespeare in a Divided America: What His Plays Tell Us About Our Past and Future_
 
-## Philosophy 🚬
+### Philosophy 🚬
 
 - Becker, Ernest - _The Denial of Death_
 - Galloway, Scott - _The Algebra of Happiness_
@@ -111,13 +125,13 @@ I haven’t read all books listed here.
 - Taleb, Nassim Nicholas - _The Black Swan_
 - Taleb, Nassim Nicholas - _The Bed of Procrustes_
 
-## Religion 💒
+### Religion 💒
 
 - Fry, Stephen - _Mythos_
 - Fry, Stephe - _Heroes_
 - Skilton, Andrew - _A Concise History of Buddhism_
 
-## Science, Economics, and Mathematics 🧪
+### Science, Economics, and Mathematics 🧪
 
 - Ackerman, Jennifer - _The Bird Way_
 - Akerlof, George A. and Shiller, Robert J. - _Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism_
@@ -138,6 +152,6 @@ I haven’t read all books listed here.
 - Mukherjee, Siddhartha - _The Emperor of All Maladies: A Biography of Cancer_
 - Zucker, Caren and Donvan, John - _In a Different Key: The Story of Autism_
 
-## Short Stories 📃
+### Short Stories 📃
 
 - Butler, Robert Olen - _A Good Scent from a Strange Mountain_
