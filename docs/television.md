@@ -1,27 +1,33 @@
 ## Featured
 
-### Enter the Dragon (1973)
+### Mr.Robot
 
 !!! recommendation
 
     ![Mr.Robot](/assets/catalog/TV_Mr.Robot.jpg){ align=right }
 
-    [Rotten Tomatoes](https://www.rottentomatoes.com/m/enter_the_dragon){ .md-button .md-button--primary } 
+    Young, anti-social computer programmer Elliot works as a cybersecurity engineer during the day, but at night he is a vigilante hacker. He is recruited by the mysterious leader of an underground group of hackers to join their organization. Elliot's task? Help bring down corporate America, including the company he is paid to protect, which presents him with a moral dilemma. Although he works for a corporation, his personal beliefs make it hard to resist the urge to take down the heads of multinational companies that he believes are running -- and ruining -- the world.
 
-### The Matrix (1999)
+    [Rotten Tomatoes](https://www.rottentomatoes.com/tv/mr_robot){ .md-button .md-button--primary } 
+
+### Barry
 
 !!! recommendation
 
     ![Barry](/assets/catalog/TV_Barry.jpg){ align=right }
 
-    [Rotten Tomatoes](https://www.rottentomatoes.com/m/matrix){ .md-button .md-button--primary }
+    Disillusioned at the thought of taking down another "mark," depressed, low-level hit man Barry Berkman seeks a way out. When the Midwesterner reluctantly travels to Los Angeles to execute a hit on an actor who is bedding a mobster's wife, little does Barry know that the City of Angels may be his sanctuary. He follows his target into acting class and ends up instantly drawn to the community of eager hopefuls, especially dedicated student Sally, who becomes the object of his affection. While Barry wants to start a new life as an actor, his handler, Fuches, has other ideas, and the hit man's criminal past won't let him walk away so easily.
 
-### La Haine (1996)
+    [Rotten Tomatoes](https://www.rottentomatoes.com/tv/barry){ .md-button .md-button--primary }
+
+### Severance
 
 !!! recommendation
 
     ![Severance](/assets/catalog/TV_Severance.jpg){ align=right }
 
-    [Rotten Tomatoes](https://www.rottentomatoes.com/m/la_haine){ .md-button .md-button--primary }
+    Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives; when a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.
+
+    [Rotten Tomatoes](https://www.rottentomatoes.com/tv/severance){ .md-button .md-button--primary }
 
 ## Index
