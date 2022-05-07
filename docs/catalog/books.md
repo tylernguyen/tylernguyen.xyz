@@ -8,7 +8,7 @@
 
     A startling debut novel from a powerful new voice featuring one of the most remarkable narrators of recent fiction: a conflicted subversive and idealist working as a double agent in the aftermath of the Vietnam War.
 
-    [Visit groveatlantic.com](https://groveatlantic.com/book/the-sympathizer/){ .md-button .md-button--primary }
+    [Published by Grove Atlantic](https://groveatlantic.com/book/the-sympathizer/){ .md-button .md-button--primary } [Written by Viet Thanh Nguyen]](https://www.nytimes.com/column/viet-thanh-nguyen){ .md-button }
 
 ### The Committed
 
@@ -18,7 +18,7 @@
 
     The sequel to The Sympathizer, which won the 2016 Pulitzer Prize in Fiction and went on to sell over a million copies worldwide, The Committed tells the story of “the man of two minds” as he comes as a refugee to France and turns his hand to capitalismYubikey supports the most security protocols. It is also widely documented and supported.
 
-    [Visit groveatlantic.com](https://groveatlantic.com/book/the-committed/){ .md-button .md-button--primary }
+    [Published by Grove Atlantic](https://groveatlantic.com/book/the-committed/){ .md-button .md-button--primary } [Written by Viet Thanh Nguyen](https://www.nytimes.com/column/viet-thanh-nguyen){ .md-button }
 
 ## Index
 
