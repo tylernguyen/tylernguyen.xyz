@@ -1,22 +1,22 @@
 ## Featured
 
-<div class="grid cards" markdown>
+### The Sympathizer by Viet Thanh Nguyen
 
--   <figure markdown>
-    <p align="center">
-    ![The Sympathizer](/assets/img/catalog/The-Sympathizer.jpg)
-    <figcaption>The Sympathizer</figcaption>
-    </p>
-    </figure>
+!!! recommendation
 
--   <figure markdown>
-    <p align="center">
-    ![The Committed](/assets/img/catalog/The-Committed.jpg)
-    <figcaption>The Committed</figcaption>
-    </p>
-    </figure>
+    ![The Sympathizer](/assets/img/catalog/The-Sympathizer.jpg){ align=left }
 
-</div>
+    [Visit groveatlantic.com](https://groveatlantic.com/book/the-sympathizer/){ .md-button .md-button--primary }
+
+### The Committed (sequal to The Sympathizer)
+
+!!! recommendation
+
+    ![The Committed](/assets/img/catalog/The-Committed){ align=right }
+
+    Yubikey supports the most security protocols. It is also widely documented and supported.
+
+    [Visit groveatlantic.com](https://groveatlantic.com/book/the-committed/){ .md-button .md-button--primary }
 
 ## Index
 
