@@ -1,7 +1,7 @@
 !!! recommendation
 
-    ![Unraid](/assets/img/uses-this/banners/Unraid-light.svg#only-light){ align=right }
-    ![Unraid](/assets/img/uses-this/banners/Unraid-dark.svg#only-dark){ align=right }
+    ![Unraid](/assets/banners/Unraid-light.svg#only-light){ align=right }
+    ![Unraid](/assets/banners/Unraid-dark.svg#only-dark){ align=right }
 
     Unraid is my preferred NAS operating system.
 

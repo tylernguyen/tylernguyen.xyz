@@ -2,10 +2,10 @@
 
 <div class="grid cards" markdown>
 
-- ![Audible](/assets/img/uses-this/icons/Audible.png){ .twemoji } [Audible](https://www.audible.com/)
-- ![Spotify](/assets/img/uses-this/icons/Spotify.svg){ .twemoji } [Spotify](https://www.spotify.com/us/)
-- ![Pocket Casts](/assets/img/uses-this/icons/Pocket-Casts.svg){ .twemoji } [Pocket Casts](https://pocketcasts.com/)
-- ![Libby](/assets/img/uses-this/icons/Libby.png){ .twemoji } [Libby](https://libbyapp.com)
+- ![Audible](/assets/logos/Audible.png){ .twemoji } [Audible](https://www.audible.com/)
+- ![Spotify](/assets/logos/Spotify.svg){ .twemoji } [Spotify](https://www.spotify.com/us/)
+- ![Pocket Casts](/assets/logos/Pocket-Casts.svg){ .twemoji } [Pocket Casts](https://pocketcasts.com/)
+- ![Libby](/assets/logos/Libby.png){ .twemoji } [Libby](https://libbyapp.com)
 
 </div>
 

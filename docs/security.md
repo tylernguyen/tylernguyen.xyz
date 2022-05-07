@@ -17,7 +17,7 @@
 
 !!! recommendation
 
-    ![YubiKeys](/assets/icons/Yubikey.png){ align=right }
+    ![YubiKeys](/assets/icons/security/Yubikey.png){ align=right }
 
     Yubikey supports the most security protocols. It is also widely documented and supported.
 
