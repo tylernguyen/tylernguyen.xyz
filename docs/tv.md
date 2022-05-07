@@ -1,10 +1,10 @@
 ## Featured
 
-### Mr.Robot
+### Mr. Robot
 
 !!! recommendation
 
-    ![Mr.Robot](/assets/catalog/TV_Mr.Robot.jpg){ align=right }
+    ![Mr. Robot](/assets/catalog/TV_Mr.Robot.jpg){ align=right }
 
     Young, anti-social computer programmer Elliot works as a cybersecurity engineer during the day, but at night he is a vigilante hacker. He is recruited by the mysterious leader of an underground group of hackers to join their organization. Elliot's task? Help bring down corporate America, including the company he is paid to protect, which presents him with a moral dilemma. Although he works for a corporation, his personal beliefs make it hard to resist the urge to take down the heads of multinational companies that he believes are running -- and ruining -- the world.
 
