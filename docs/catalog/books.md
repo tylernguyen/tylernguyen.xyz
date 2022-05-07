@@ -4,7 +4,7 @@
 
 !!! recommendation
 
-    ![The Sympathizer](/assets/img/catalog/The-Sympathizer.jpg){ align=left }
+    ![The Sympathizer](/assets/img/catalog/The-Sympathizer.jpg){ align=right }
 
     A startling debut novel from a powerful new voice featuring one of the most remarkable narrators of recent fiction: a conflicted subversive and idealist working as a double agent in the aftermath of the Vietnam War.
 
