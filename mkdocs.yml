@@ -122,15 +122,15 @@ nav:
         - blog/2022/email-workflow-for-the-modern-internet.md
         - blog/2022/cloudflare-remote-access-suite.md
     - Catalog:
-      - Websites: catalog/websites.md
-      - Books : catalog/books.md
-      - Movies : catalog/movies.md
-      - Television: catalog/television.md
-      - Anime: catalog/anime.md
-      - Comics: catalog/comics.md
-      - Manga: catalog/manga.md
-      - Graphic Novels: catalog/graphic-novels.md
-      - Music: catalog/music.md
+      - Websites: websites.md
+      - Books : books.md
+      - Movies : movies.md
+      - Television: television.md
+      - Anime: anime.md
+      - Comics: comics.md
+      - Manga: manga.md
+      - Graphic Novels: graphic-novels.md
+      - Music: music.md
     - Uses This:
       - dotfiles: dotfiles.md
       - Hardware : hardware.md
