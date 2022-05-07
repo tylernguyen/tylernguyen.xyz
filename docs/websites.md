@@ -4,7 +4,7 @@
 
 !!! recommendation
 
-    ![xkcd](/assets/img/catalog/xkcd.png){ align=right }
+    ![xkcd](/assets/catalog/xkcd.png){ align=right }
 
     The essential internet comic.
     
@@ -16,7 +16,7 @@
 
 !!! recommendation
 
-    ![Existential Comics](/assets/img/catalog/Existential-Comics.jpg)
+    ![Existential Comics](/assets/catalog/Existential-Comics.jpg)
 
     A light comic about deeper topics in philosophy. Existential Comics isn't always easy to digest. On occasions, however, it can be highly relatable and thought provoking.
 
@@ -28,7 +28,7 @@
 
 !!! recommendation
 
-    ![No Mercy / No Malice](/assets/img/catalog/No-Mercy-No-Malice.jpg){ align=right }
+    ![No Mercy / No Malice](/assets/catalog/No-Mercy-No-Malice.jpg){ align=right }
 
     Professor Scott Galloway of NYU Stern writes about the contemporary economy. 
 

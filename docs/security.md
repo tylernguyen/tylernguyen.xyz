@@ -2,8 +2,8 @@
 
 !!! recommendation
 
-    ![1Password](/assets/img/uses-this/banners/1Password-light.svg#only-light){ align=right }
-    ![1Password](/assets/img/uses-this/banners/1Password-dark.svg#only-dark){ align=right }
+    ![1Password](/assets/banners/1Password-light.svg#only-light){ align=right }
+    ![1Password](/assets/banners/1Password-dark.svg#only-dark){ align=right }
 
     1Password is my preferred password manager. It also manages any OTP multi-factor and SSH authentication I need.
 
@@ -17,7 +17,7 @@
 
 !!! recommendation
 
-    ![YubiKeys](/assets/img/uses-this/icons/Yubikey.png){ align=right }
+    ![YubiKeys](/assets/icons/Yubikey.png){ align=right }
 
     Yubikey supports the most security protocols. It is also widely documented and supported.
 

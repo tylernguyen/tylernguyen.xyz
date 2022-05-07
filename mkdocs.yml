@@ -138,6 +138,7 @@ nav:
       - Services : services.md
       - Self-Hosted : selfhosted.md
       - Security : security.md
+    - Now: now.md
     - Contact: contact.md
     - About: about.md
     - Support: https://github.com/sponsors/tylernguyen

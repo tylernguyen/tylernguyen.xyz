@@ -8,7 +8,7 @@ hide:
 
 !!! recommendation
 
-    ![Material for MkDocs](/assets/img/uses-this/icons/MkDocs-Material.png){ align=right }
+    ![Material for MkDocs](/assets/icons/MkDocs-Material.png){ align=right }
 
     The site is built with Material for MkDocs Insiders, a paid fork of Material for MkDocs.
 
@@ -18,8 +18,8 @@ hide:
 
 !!! recommendation
 
-    ![Cloudflare](/assets/img/uses-this/banners/Cloudflare-light.svg#only-light){ align=right }
-    ![Cloudflare](/assets/img/uses-this/banners/Cloudflare-dark.svg#only-dark){ align=right }
+    ![Cloudflare](/assets/banners/Cloudflare-light.svg#only-light){ align=right }
+    ![Cloudflare](/assets/banners/Cloudflare-dark.svg#only-dark){ align=right }
 
     The site is hosted by Cloudflare via Cloudflare Pages. Cloudflare Pages leverage the Cloudflare network and infrastructure to build a JAMstack platform that is performant, secure, and cost effective.
 
@@ -27,8 +27,8 @@ hide:
 
 !!! recommendation
 
-    ![GitHub](/assets/img/uses-this/banners/GitHub-light.png#only-light){ align=right }
-    ![GitHub](/assets/img/uses-this/banners/GitHub-dark.png#only-dark){ align=right }
+    ![GitHub](/assets/banners/GitHub-light.png#only-light){ align=right }
+    ![GitHub](/assets/banners/GitHub-dark.png#only-dark){ align=right }
 
     GitHub hosts the source code of this site. It is my preferred public Git hosting for its 3rd party integrations, automation, and workflows.
 

@@ -2,13 +2,13 @@
 
 <div class="grid cards" markdown>
 
-- ![Mozilla Firefox](/assets/img/uses-this/icons/Firefox.svg){ .twemoji } [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- ![Mozilla Firefox](/assets/logos/Firefox.svg){ .twemoji } [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 </div>
 
 <div class="grid cards" markdown>
-- ![uBlock Origin](/assets/img/uses-this/icons/uBlock-Origin.svg){ .twemoji } [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-- ![SponsorBlock](/assets/img/uses-this/icons/SponsorBlock.png){ .twemoji } [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+- ![uBlock Origin](/assets/logos/uBlock-Origin.svg){ .twemoji } [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- ![SponsorBlock](/assets/logos/SponsorBlock.png){ .twemoji } [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
 
 </div>
 
@@ -16,9 +16,9 @@
 
 <div class="grid cards" markdown>
 
-- ![VSCode](/assets/img/uses-this/icons/VSCode.png){ .twemoji } [Visual Studio Code](https://code.visualstudio.com/)
-- ![Obsidian](/assets/img/uses-this/icons/Obsidian.png){ .twemoji } [Obsidian](https://obsidian.md/)
-- ![Just Press Record](/assets/img/uses-this/icons/Just-Press-Record.png){ .twemoji } [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
+- ![VSCode](/assets/logos/VSCode.png){ .twemoji } [Visual Studio Code](https://code.visualstudio.com/)
+- ![Obsidian](/assets/logos/Obsidian.png){ .twemoji } [Obsidian](https://obsidian.md/)
+- ![Just Press Record](/assets/logos/Just-Press-Record.png){ .twemoji } [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
 
 </div>
 
@@ -30,10 +30,10 @@
 
 <div class="grid cards" markdown>
 
-- ![Reeder](/assets/img/uses-this/icons/Reeder.jpg){ .twemoji } [Reader](https://reederapp.com/) macOS and iOS
-- ![Plexamp](/assets/img/uses-this/icons/Plexamp.png){ .twemoji } [Plexamp](https://plexamp.com/)
-- ![Prologue](/assets/img/uses-this/icons/Prologue.jpg){ .twemoji } [Prologue](https://prologue.audio/) iOS
-- ![Panels](/assets/img/uses-this/icons/Panels.png){ .twemoji } [Panels](https://panels.app/) iOS
+- ![Reeder](/assets/logos/Reeder.jpg){ .twemoji } [Reader](https://reederapp.com/) macOS and iOS
+- ![Plexamp](/assets/logos/Plexamp.png){ .twemoji } [Plexamp](https://plexamp.com/)
+- ![Prologue](/assets/logos/Prologue.jpg){ .twemoji } [Prologue](https://prologue.audio/) iOS
+- ![Panels](/assets/logos/Panels.png){ .twemoji } [Panels](https://panels.app/) iOS
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <div class="grid cards" markdown>
 
-- ![Cryptomator](/assets/img/uses-this/icons/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
+- ![Cryptomator](/assets/logos/Cryptomator.svg){ .twemoji } [Cryptomator](https://cryptomator.org/)
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div class="grid cards" markdown>
 
-- ![Wireguard](/assets/img/uses-this/icons/Wireguard.svg){ .twemoji } [Wireguard](https://www.wireguard.com/)
+- ![Wireguard](/assets/logos/Wireguard.svg){ .twemoji } [Wireguard](https://www.wireguard.com/)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div class="grid cards" markdown>
 
-- ![MkDocs Material](/assets/img/uses-this/icons/MkDocs-Material.png){ .twemoji } [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- ![MkDocs Material](/assets/logos/MkDocs-Material.png){ .twemoji } [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 </div>
 

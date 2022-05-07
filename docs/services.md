@@ -19,8 +19,8 @@
 
 <div class="grid cards" markdown>
 
-- ![ProtonMail](/assets/img/uses-this/icons/ProtonMail.svg){ .twemoji } [ProtonMail](https://protonmail.com/)
-- ![SimpleLogin](/assets/img/uses-this/icons/SimpleLogin.svg){ .twemoji } [SimpleLogin](https://simplelogin.io/)
+- ![ProtonMail](/assets/logos/ProtonMail.svg){ .twemoji } [ProtonMail](https://protonmail.com/)
+- ![SimpleLogin](/assets/logos/SimpleLogin.svg){ .twemoji } [SimpleLogin](https://simplelogin.io/)
 
 </div>
 
@@ -28,8 +28,8 @@
 
 <div class="grid cards" markdown>
 
-- ![iCloud](/assets/img/uses-this/icons/iCloud.png){ .twemoji } [iCloud](https://www.icloud.com/)
-- ![Backblaze B2](/assets/img/uses-this/icons/Backblaze.svg){ .twemoji } [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)
+- ![iCloud](/assets/logos/iCloud.png){ .twemoji } [iCloud](https://www.icloud.com/)
+- ![Backblaze B2](/assets/logos/Backblaze.svg){ .twemoji } [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <div class="grid cards" markdown>
 
-- ![Todoist](/assets/img/uses-this/icons/Todoist.svg){ .twemoji } [Todoist](https://todoist.com/)
+- ![Todoist](/assets/logos/Todoist.svg){ .twemoji } [Todoist](https://todoist.com/)
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div class="grid cards" markdown>
 
-- ![Mullvad](/assets/img/uses-this/icons/Mullvad.svg){ .twemoji } [Mullvad](https://mullvad.net/)
+- ![Mullvad](/assets/logos/Mullvad.svg){ .twemoji } [Mullvad](https://mullvad.net/)
 
 </div>
   
@@ -53,8 +53,8 @@
 
 <div class="grid cards" markdown>
 
-- ![Cloudflare](/assets/img/uses-this/icons/Cloudflare.svg){ .twemoji } [Cloudflare](https://www.cloudflare.com/)
-- ![Quad9](/assets/img/uses-this/icons/Quad9.svg){ .twemoji } [Quad9](https://www.quad9.net/)
+- ![Cloudflare](/assets/logos/Cloudflare.svg){ .twemoji } [Cloudflare](https://www.cloudflare.com/)
+- ![Quad9](/assets/logos/Quad9.svg){ .twemoji } [Quad9](https://www.quad9.net/)
 
 </div>
 
