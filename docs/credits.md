@@ -8,7 +8,7 @@ hide:
 
 !!! recommendation
 
-    ![Material for MkDocs](/assets/icons/MkDocs-Material.png){ align=right }
+    ![Material for MkDocs](/assets/logos/MkDocs-Material.png){ align=right }
 
     The site is built with Material for MkDocs Insiders, a paid fork of Material for MkDocs.
 
