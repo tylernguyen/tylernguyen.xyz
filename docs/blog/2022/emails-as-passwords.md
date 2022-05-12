@@ -1,6 +1,6 @@
 ---
 template: overrides/blog.html
-title: Email Workflow for the Modern Internet
+title: "Emails as Passwords: a Starter Guide to Aliasing"
 tags:
   - email
 ---
