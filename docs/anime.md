@@ -1,37 +1,5 @@
 ## Featured
 
-<div class="grid cards" markdown>
-
--   <figure markdown>
-      <p align="center">
-       ![Electro-Voice RE20](/assets/catalog/ANIME_Cowboy-Bebop.jpg)
-       <figcaption>Electro-Voice RE20</figcaption>
-      </p>
-    </figure>
-
--   <figure markdown>
-      <p align="center">
-       ![Sennheiser IE300](/assets/catalog/ANIME_House-of-Five-Leaves.jpg)
-       <figcaption>Sennheiser IE300</figcaption>
-      </p>
-    </figure>
-
--   <figure markdown>
-      <p align="center">
-       ![Drop x Focal Elex](/assets/catalog/ANIME_Nichijou.jpg)
-       <figcaption>Drop x Focal Elex</figcaption>
-      </p>
-    </figure>
-
--   <figure markdown>
-      <p align="center">
-       ![Drop x Beyerdynamic DT 177X GO](/assets/catalog/ANIME_Ranking-of-Kings.jpg)
-       <figcaption>Drop x Beyerdynamic DT 177X GO</figcaption>
-      </p>
-    </figure>
-
-</div>
-
 ### Cowboy Bebop
 
 !!! recommendation
@@ -76,7 +44,7 @@
 
 !!! recommendation
 
-    ![Yubikeys](/assets/security/AniList.svg){ align=right }
+    ![AniList](/assets/logos/AniList.svg){ align=right }
 
     **AniList**
 
