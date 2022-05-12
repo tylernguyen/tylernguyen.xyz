@@ -119,8 +119,8 @@ nav:
     - Home:
       - index.md
       - 2022:
-        - blog/2022/email-workflow-for-the-modern-internet.md
-        - blog/2022/cloudflare-remote-access-suite.md
+        - blog/2022/emails-as-passwords.md
+        - blog/2022/cloudflare-zero-trust.md
     - Catalog:
       - Websites: websites.md
       - Books : books.md
