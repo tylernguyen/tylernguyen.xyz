@@ -1,5 +1,6 @@
 ---
 template: overrides/blog.html
+title: The Death of Phan Thanh Giản
 tags:
     - history
 ---
