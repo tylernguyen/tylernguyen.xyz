@@ -103,14 +103,21 @@
 
     </div>
 
-=== "Laptop"
+=== "Mobile"
 
     <div class="grid cards" markdown>
 
     -   <figure markdown>
         <p align="center">
-        ![Thinkpad X1C6](/assets/pc/LAPTOP_Thinkpad-X1C6.png)
-        <figcaption>Lenovo Thinkpad X1C6 <a href="https://github.com/tylernguyen/x1c6-hackintosh"> (macOS)</a> </figcaption>
+        ![Thinkpad X1C6](/assets/pc/MOBILE_Thinkpad-X1C6.png)
+        <figcaption>Lenovo Thinkpad X1C6<a href="https://github.com/tylernguyen/x1c6-hackintosh"> (macOS)</a> </figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Thinkpad X1C6](/assets/pc/MOBILE_iPad-Mini6.png)
+        <figcaption>iPad Mini 6th Gen</figcaption>
         </p>
         </figure>
 
