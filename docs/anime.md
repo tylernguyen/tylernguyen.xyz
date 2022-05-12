@@ -42,12 +42,12 @@
 
 ## Index
 
+### AniList
+
 !!! recommendation
 
     ![AniList](/assets/logos/AniList.svg){ align=right }
 
-    **AniList**
+    AniList is my preferred platform for keeping tracking of anime and manga.
 
-    Yubikey supports the most security protocols. It is also widely documented and supported.
-
-    [Visit anilist.co/user/tylernguyen](https://anilist.co/user/tylernguyen/){ .md-button .md-button--primary } [Privacy Policy](https://www.yubico.com/support/terms-conditions/privacy-notice){ .md-button }
+    [Visit anilist.co/user/tylernguyen](https://anilist.co/user/tylernguyen/){ .md-button .md-button--primary }

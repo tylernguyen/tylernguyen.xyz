@@ -18,3 +18,13 @@
 
 
 ## Index
+
+### AniList
+
+!!! recommendation
+
+    ![AniList](/assets/logos/AniList.svg){ align=right }
+
+    AniList is my preferred platform for keeping tracking of anime and manga.
+
+    [Visit anilist.co/user/tylernguyen](https://anilist.co/user/tylernguyen/){ .md-button .md-button--primary }
