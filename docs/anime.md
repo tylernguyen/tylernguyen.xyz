@@ -1,5 +1,37 @@
 ## Featured
 
+<div class="grid cards" markdown>
+
+-   <figure markdown>
+      <p align="center">
+       ![Electro-Voice RE20](/assets/catalog/ANIME_Cowboy-Bebop.jpg)
+       <figcaption>Electro-Voice RE20</figcaption>
+      </p>
+    </figure>
+
+-   <figure markdown>
+      <p align="center">
+       ![Sennheiser IE300](/assets/catalog/ANIME_House-of-Five-Leaves.jpg)
+       <figcaption>Sennheiser IE300</figcaption>
+      </p>
+    </figure>
+
+-   <figure markdown>
+      <p align="center">
+       ![Drop x Focal Elex](/assets/catalog/ANIME_Nichijou.jpg)
+       <figcaption>Drop x Focal Elex</figcaption>
+      </p>
+    </figure>
+
+-   <figure markdown>
+      <p align="center">
+       ![Drop x Beyerdynamic DT 177X GO](/assets/catalog/ANIME_Ranking-of-Kings.jpg)
+       <figcaption>Drop x Beyerdynamic DT 177X GO</figcaption>
+      </p>
+    </figure>
+
+</div>
+
 ### Cowboy Bebop
 
 !!! recommendation
@@ -41,3 +73,13 @@
     [AniList](https://anilist.co/anime/113717/Ranking-of-Kings/){ .md-button .md-button--primary }
 
 ## Index
+
+!!! recommendation
+
+    ![Yubikeys](/assets/security/AniList.svg){ align=right }
+
+    **AniList**
+
+    Yubikey supports the most security protocols. It is also widely documented and supported.
+
+    [Visit anilist.co/user/tylernguyen](https://anilist.co/user/tylernguyen/){ .md-button .md-button--primary } [Privacy Policy](https://www.yubico.com/support/terms-conditions/privacy-notice){ .md-button }
