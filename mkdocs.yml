@@ -23,7 +23,7 @@ extra:
 
 theme:
   name: material
-  custom_dir: overrides
+  custom_dir: material
   favicon: assets/favicon.png
   icon:
     logo: material/human-greeting
