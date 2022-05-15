@@ -1,3 +1,7 @@
+.md-grid {
+  max-width: 1600px; 
+}
+
 /* SECTION Colors */
 :root>* {
   --md-primary-fg-color: #282F38;
