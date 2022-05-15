@@ -1,18 +1,18 @@
 /* SECTION Colors */
 
-/* ANCHOR Light Mode Colors */
-[data-md-color-scheme="default"] {
+:root>* {
   --md-primary-fg-color: #282F38;
   --md-primary-fg-color--light: #282F38;
   --md-primary-fg-color--dark: #232631;
+}
+
+/* ANCHOR Light Mode Colors */
+[data-md-color-scheme="default"] {
   --md-typeset-a-color: #4051B5;
 }
 
 /* ANCHOR Dark Mode Colors */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #282F38;
-  --md-primary-fg-color--light: #282F38;
-  --md-primary-fg-color--dark: #232631;
   --md-default-bg-color: rgb(26, 28, 35);
   --md-default-bg-color--light: rgb(26, 28, 35, 0.54);
   --md-default-bg-color--lighter: rgb(26, 28, 35, 0.26);
