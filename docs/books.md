@@ -1,3 +1,7 @@
+---
+icon: material/book
+---
+
 ## Featured
 
 ### The Sympathizer

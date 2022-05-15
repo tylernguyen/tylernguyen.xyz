@@ -1,3 +1,7 @@
+---
+icon: material/web
+---
+
 ## Web Comics
 
 ### xkcd

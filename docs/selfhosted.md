@@ -1,3 +1,7 @@
+---
+icon: material/server
+---
+
 !!! recommendation
 
     ![Unraid](/assets/banners/Unraid-light.svg#only-light){ align=right }

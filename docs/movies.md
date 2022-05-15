@@ -1,3 +1,7 @@
+---
+icon: material/movie
+---
+
 ## Featured
 
 ### Enter the Dragon (1973)
