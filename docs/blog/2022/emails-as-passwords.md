@@ -5,24 +5,9 @@ tags:
   - email
 ---
 
-## Pain! Emails, Email Addresses, and Email Inboxes
+## Preface: Old Email Habits and Usage
 
-The average Andy likely has:
-
-- a personal email address (probably Gmail)
-- a work email address (mostly powered by Gmail or Outlook)
-- a spam email address (some random address made ages ago)
-- a legacy email address tied to old accounts
-
-!!! warning
-
-	Your email provider, be it Google (@gmail) or Microsoft (@outlook) owns your email accounts, by virtue of owning said domain. Remember that when the service is free, you are the product!
-
-## Search and Destroy
-
-Old, legacy email accounts are particularly vulnerable to attacks, especially targetted attacks. Look for old email accounts and delete them. Reduce the number of email accounts down to a minimum. The majority of email providers will have an option to export data before deletion. Make sure that no currrent accounts are linked to old addresses as you'll no longer have access after deletion.
-
-## The Email Pipeline
+### The Email Pipeline
 
 Email is the pillar of day-to-day internet life, needed for:
 
@@ -32,8 +17,47 @@ Email is the pillar of day-to-day internet life, needed for:
 - work contacts
 - file sharing (mostly documents)
 
-## Why It's the Way It Is
+### Old Email Habits
 
+The average Andy likely has:
+
+- a personal email address (probably Gmail)
+- a work email address (mostly powered by Gmail or Outlook)
+- a spam email address (some random address made ages ago)
+- a legacy email address tied to old accounts (likely made when you were young)
+
+!!! warning
+
+	Your email provider, be it Google (@gmail) or Microsoft (@outlook) owns your email accounts, by virtue of owning said domain. Remember that when the service is free, you are the product!
+
+
+## Cleanup: Search and Destroy
+
+### Old Email Accounts
+
+Legacy email accounts are particularly vulnerable to attacks, especially targetted attacks. Look for old email accounts and delete them. Reduce the number of email accounts down to a minimum. Make sure that no currrent accounts are linked to old addresses as you'll no longer have access after deletion.
+
+!!! info
+
+	The majority of email providers will have an option to export data before deletion.
+
+### Compromised(Pawned) Addresses
+
+Data leaked from security breaches are usually linked with an email address.
+
+!!! tip
+
+	[Have I Been Pwned?](https://haveibeenpwned.com/), developed by [Troy Hunt](https://www.troyhunt.com/about/) allows you to check if personal data associated with a particular email address has been compromised.
+
+I recommend a scan of all email addresses with Have I Been Pwned. Consider deleting addresses with a high amount of data breaches.
+
+## Solution: Email Aliasing
+
+!!! note
+
+	"Emails as Passwords" assumes that you already have a habit of using a password manager. Priority #1 should be setting up a password manager and 2fa.
+
+### 1. Buy a Domain
 
 ## Email Security, Privacy, and Availability
 
