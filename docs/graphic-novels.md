@@ -1,3 +1,7 @@
+---
+icon: material/image-outline
+---
+
 ## Featured
 
 ### Did You Hear What Eddie Gein Done?

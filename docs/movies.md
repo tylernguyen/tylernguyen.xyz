@@ -1,5 +1,5 @@
 ---
-icon: material/movie
+icon: material/movie-outline
 ---
 
 ## Featured
