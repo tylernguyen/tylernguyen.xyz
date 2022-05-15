@@ -1,3 +1,7 @@
+---
+icon: material/television-classic
+---
+
 ## Featured
 
 ### Mr. Robot
