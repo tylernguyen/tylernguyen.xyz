@@ -5,7 +5,7 @@ tags:
   - email
 ---
 
-### Pain! Emails, Email Addresses, and Email Inboxes
+## Pain! Emails, Email Addresses, and Email Inboxes
 
 The average Andy likely has:
 
@@ -14,15 +14,17 @@ The average Andy likely has:
 - a spam email address (some random address made ages ago)
 - a legacy email address tied to old accounts
 
-!!! tip
+!!! warning
 
-	Don't be an internet peasant, buy land(domains)!
+	Your email provider, be it Google (@gmail) or Microsoft (@outlook) owns your email accounts, by virtue of owning said domain. Remember that when the service is free, you are the product!
 
-Your email provider, be it Google (@gmail) or Microsoft (@outlook) owns your email accounts, by virtue of owning said email domain. Remember that when the service is free, you are the product!
+## Search and Destroy
+
+Old, legacy email accounts are particularly vulnerable to attacks, especially targetted attacks. Look for old email accounts and delete them. Reduce the number of email accounts down to a minimum. The majority of email providers will have an option to export data before deletion. Make sure that no currrent accounts are linked to old addresses as you'll no longer have access after deletion.
 
 ## The Email Pipeline
 
-Email is the pillar of day-to-day life, needed when:
+Email is the pillar of day-to-day internet life, needed for:
 
 - creating accounts
 - shopping (receipts, warranties, claims)
@@ -33,18 +35,18 @@ Email is the pillar of day-to-day life, needed when:
 ## Why It's the Way It Is
 
 
-### Email Security, Privacy, and Availability
+## Email Security, Privacy, and Availability
 
-#### Why I don't Self Host Emails
+## Why I don't Self Host Emails
 
 Ignoring technical reasons related to email SPAM, the prime reason against self-hosting the maintenance effort required for a properly configured email server. **Email is something that should just work!** With self-hosting, consider that you have to:
 
-1. Have the technical know-how and troubleshooting skills
+1. Have the technical know-how and corresponding troubleshooting skills
 2. Get a server up and running
 3. Choose an email solution and configure said software
 4. Harden and secure the finished product against security threats
 
-None of these steps are particularly difficult, but what they are is time consuming and maintenance heavy. And time spent on creating, maintaining, and upgrading a self-hosted email solution is time wasted.
+None of these steps are particularly difficult, but what they are is time consuming. And protecting a server against (targeted) attacks can be very maintenance heavy. And time spent on creating, maintaining, and upgrading a self-hosted email solution is time wasted.
 
 ## Junctions of Trust
 
