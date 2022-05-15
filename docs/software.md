@@ -1,3 +1,7 @@
+---
+icon: material/code-json
+---
+
 ## Web Browser
 
 <div class="grid cards" markdown>

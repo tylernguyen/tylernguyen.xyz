@@ -1,3 +1,7 @@
+---
+icon: material/toolbox-outline
+---
+
 ## PC
 
 === "Gaming PC"
