@@ -47,7 +47,7 @@ theme:
       opensource: fontawesome/brands/git
       selfhosted: fontawesome/solid/server
   font:
-    text: Roboto Condensed
+    text: Source Sans Pro
     code: Fira Code
   palette:
     - scheme: default
