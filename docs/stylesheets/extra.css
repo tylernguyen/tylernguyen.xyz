@@ -85,3 +85,8 @@
 .md-typeset .downloads > summary::after {
     right:auto;
 }
+
+/* ANCHOR Correct navigation icon size */
+.md-nav__link svg {
+  width: 22px;
+}
