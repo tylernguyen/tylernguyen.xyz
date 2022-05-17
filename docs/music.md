@@ -1,5 +1,5 @@
 ---
-icon: material/music
+icon: doodle/music
 ---
 
 

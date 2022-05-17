@@ -1,5 +1,5 @@
 ---
-icon: custom/bios
+icon: doodle/video-card
 ---
 
 ## PC

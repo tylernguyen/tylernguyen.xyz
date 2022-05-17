@@ -1,5 +1,5 @@
 ---
-icon: custom/cmd
+icon: doodle/splash
 ---
 
 <div class="grid cards" markdown>

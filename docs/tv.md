@@ -1,5 +1,5 @@
 ---
-icon: material/television-classic
+icon: doodle/hdtv
 ---
 
 ## Featured

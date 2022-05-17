@@ -1,5 +1,5 @@
 ---
-icon: material/cloud-outline
+icon: doodle/cloud-file
 ---
 
 ## Media

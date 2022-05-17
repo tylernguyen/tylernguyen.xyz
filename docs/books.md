@@ -1,5 +1,5 @@
 ---
-icon: material/book-outline
+icon: doodle/books
 ---
 
 ## Featured

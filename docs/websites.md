@@ -1,5 +1,5 @@
 ---
-icon: material/web
+icon: doodle/website
 ---
 
 ## Web Comics
