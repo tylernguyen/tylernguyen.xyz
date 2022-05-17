@@ -1,5 +1,5 @@
 ---
-icon: custom/comics-magazine
+icon: doodle/comics-magazine
 ---
 
 ## Featured
