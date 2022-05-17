@@ -1,7 +1,3 @@
----
-icon: custom/naruto
----
-
 ## Featured
 
 ### Vagabond

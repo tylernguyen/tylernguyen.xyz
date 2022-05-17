@@ -1,7 +1,3 @@
----
-icon: custom/batman
----
-
 ## Featured
 
 ### The Department of Truth
