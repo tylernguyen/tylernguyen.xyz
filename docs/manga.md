@@ -1,3 +1,7 @@
+---
+icon: custom/manga
+---
+
 ## Featured
 
 ### Vagabond

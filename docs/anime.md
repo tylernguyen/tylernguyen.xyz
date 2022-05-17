@@ -1,3 +1,7 @@
+---
+icon: custom/anime
+---
+
 ## Featured
 
 ### Cowboy Bebop

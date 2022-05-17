@@ -1,3 +1,7 @@
+---
+icon: custom/comic
+---
+
 ## Featured
 
 ### The Department of Truth
