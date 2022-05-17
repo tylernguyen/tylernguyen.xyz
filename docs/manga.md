@@ -1,5 +1,5 @@
 ---
-icon: custom/manga
+icon: custom/naruto
 ---
 
 ## Featured

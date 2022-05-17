@@ -1,5 +1,5 @@
 ---
-icon: custom/comic
+icon: custom/batman
 ---
 
 ## Featured

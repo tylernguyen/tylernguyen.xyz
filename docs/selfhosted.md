@@ -1,5 +1,5 @@
 ---
-icon: material/server
+icon: custom/server
 ---
 
 !!! recommendation

@@ -1,3 +1,7 @@
+---
+icon: custom/cmd
+---
+
 <div class="grid cards" markdown>
 
 - ![GitHub](/assets/logos/GitHub.svg){ .twemoji } [tylernguyen/dotfiles](https://github.com/tylernguyen/dotfiles)
