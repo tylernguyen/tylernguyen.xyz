@@ -38,7 +38,7 @@ icon: material/web
 
     Bruce Schneier of the Electronic Frontier Foundation blogs about security and contemporary issues between technology and people.
 
-    [Visit schneier.com/](https://www.schneier.com/){ .md-button .md-button--primary } [RSS Feed](https://www.schneier.com/feed/){ .md-button }    
+    [Visit schneier.com/](https://www.schneier.com){ .md-button .md-button--primary } [RSS Feed](https://www.schneier.com/feed/){ .md-button }    
 
 ### danluu.com
 
