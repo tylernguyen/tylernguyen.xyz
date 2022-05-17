@@ -1,5 +1,5 @@
 ---
-icon: doodle/thin-client
+icon: doodle/linux-server
 ---
 
 !!! recommendation

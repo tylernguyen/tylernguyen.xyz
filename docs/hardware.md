@@ -1,5 +1,5 @@
 ---
-icon: doodle/video-card
+icon: doodle/motherboard
 ---
 
 ## PC

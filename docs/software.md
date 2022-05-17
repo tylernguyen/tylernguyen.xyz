@@ -1,5 +1,5 @@
 ---
-icon: doodle/module
+icon: doodle/obs-studio
 ---
 
 ## Web Browser
