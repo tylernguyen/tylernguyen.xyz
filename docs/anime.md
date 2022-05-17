@@ -1,5 +1,5 @@
 ---
-icon: custom/anime
+icon: doodle/totoro
 ---
 
 ## Featured

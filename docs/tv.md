@@ -1,5 +1,5 @@
 ---
-icon: doodle/hdtv
+icon: doodle/retro-tv
 ---
 
 ## Featured

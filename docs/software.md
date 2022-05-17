@@ -1,5 +1,5 @@
 ---
-icon: custom/software
+icon: doodle/module
 ---
 
 ## Web Browser

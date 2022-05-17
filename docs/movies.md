@@ -1,5 +1,5 @@
 ---
-icon: doodle/film-reel
+icon: doodle/movie
 ---
 
 ## Featured

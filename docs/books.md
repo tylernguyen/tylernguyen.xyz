@@ -1,5 +1,5 @@
 ---
-icon: doodle/books
+icon: doodle/read
 ---
 
 ## Featured

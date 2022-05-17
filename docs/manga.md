@@ -1,3 +1,7 @@
+---
+icon: doodle/naruto
+---
+
 ## Featured
 
 ### Vagabond

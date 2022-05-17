@@ -1,3 +1,7 @@
+---
+icon: doodle/iron-man
+---
+
 ## Featured
 
 ### The Department of Truth

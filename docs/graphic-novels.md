@@ -1,5 +1,5 @@
 ---
-icon: material/image-outline
+icon: custom/comics-magazine
 ---
 
 ## Featured
