@@ -192,7 +192,23 @@ icon: doodle/motherboard
 
 === "Mousepad"
 
-    test
+    <div class="grid cards" markdown>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Lethal Gaming Gear Venus](/assets/mouse/LGG-Venus.png)
+        <figcaption>Lethal Gaming Gear Venus 3XL</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
+        ![Artisan Hien](/assets/mouse/Artisan-Hien.png)
+        <figcaption>Artisan Hien</figcaption>
+        </p>
+        </figure>
+
+    </div>
 
 !!! info
 
