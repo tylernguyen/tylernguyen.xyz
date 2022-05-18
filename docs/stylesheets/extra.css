@@ -88,6 +88,14 @@
   --md-typeset-a-color: #689D6A;
 }
 
+/* ANCHOR Define Header Font */
+h1,
+h2,
+h3,
+.md-header__topic {
+  font-family: "Bagnard", serif;
+}
+
 /* ANCHOR Button Color depends on Link Color */
 .md-typeset .md-button {
   color: var(--md-typeset-a-color);
