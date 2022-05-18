@@ -1,6 +1,6 @@
 ---
 template: overrides/blog.html
-title: On Ownership
+title: On Platform Ownership
 tags:
   - internet
 ---

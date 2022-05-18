@@ -123,7 +123,7 @@ nav:
       - index.md
       - 2022:
         - blog/2022/emails-as-passwords.md
-        - blog/2022/on-ownership.md
+        - blog/2022/on-platform-ownership.md
     - Catalog:
       - Websites: websites.md
       - Books : books.md
