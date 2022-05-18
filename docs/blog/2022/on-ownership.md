@@ -1,9 +1,11 @@
 ---
 template: overrides/blog.html
-title: On Platform Ownership
+title: On Ownership
 tags:
   - internet
 ---
+
+__This is the story of the platforms I considered and chose when creating tylernguyen.xyz__
 
 ## Introduction
 
@@ -12,7 +14,7 @@ In the age of big data and targeted analytics, it is essential that we become se
 Platforms come and go. Companies inevitably:
 
 1. Gets hacked and leak data
-2. Fail and go away
+2. Fail, dissolve, and go away
 3. Gets acquired (and go away)
 4. Change in the name of profit
 

@@ -1,11 +1,11 @@
 ---
 template: overrides/blog.html
-title: "Emails as Passwords"
+title: Emails as Passwords
 tags:
   - email
 ---
 
-__Modern email usage made it a unique identifier and tracker. Moreover, an email address commonly used across multiple (important) accounts can be especially vulnerable to targeted attacks. Consider treating your emails as you would passwords: 1 main email and multiple alises.__
+__Modern email usage made it a unique identifier and tracker. An email address commonly used across multiple (important) accounts can be especially vulnerable to targeted attacks. Consider treating your emails as you would passwords: 1 main email and multiple alises.__
 
 ## Preface: Old Email Habits and Usage
 
