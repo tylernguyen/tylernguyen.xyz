@@ -1,9 +1,11 @@
 ---
 template: overrides/blog.html
+title: Comparing Topre Domes
 ---
 
+__
 
-# A Brief Background of Topre
+## A Brief Background of Topre
 Named after its design company,  [Topre Coporation](https://deskthority.net/wiki/Topre_Corporation), 
 
 Topre is a rubber-dome type keyboard switch with tactile feedback. The switch itself works by compressing a conical spring inside the rubber dome, thereby giving a keypress signal the capacitive sensing PCB.  Hence, the nature of Topre's **tacticle feel comes not from any mechanical switch, but from the rubber dome** that sits between the conical spring and slider housing.
