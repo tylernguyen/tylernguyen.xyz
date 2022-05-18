@@ -7,6 +7,10 @@ tags:
   - selfhosted
 ---
 
+__This is the story of how we managed to completely rebuild client-side search,
+delivering a significantly better user experience while making it faster and
+smaller at the same time.__
+
 ...
 
 ## 1. Existing Solutions
