@@ -46,7 +46,9 @@ theme:
       network: fontawesome/solid/network-wired
       opensource: fontawesome/brands/git
       selfhosted: fontawesome/solid/server
-  font: false
+  font:
+    text: Public Sans
+    code: Fira Code
   palette:
     - scheme: default
       accent: deep orange
