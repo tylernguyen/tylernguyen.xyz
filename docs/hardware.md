@@ -169,6 +169,13 @@ icon: doodle/motherboard
 
     -   <figure markdown>
         <p align="center">
+        ![Razer Viper V2 Pro](/assets/mouse/Razer-Viper-V2-Pro.png)
+        <figcaption>Razer Viper V2 Pro</figcaption>
+        </p>
+        </figure>
+
+    -   <figure markdown>
+        <p align="center">
         ![Logitech GPX](/assets/mouse/Logitech-GPX.png)
         <figcaption>Logitech GPX</figcaption>
         </p>

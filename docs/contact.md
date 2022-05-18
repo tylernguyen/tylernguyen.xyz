@@ -26,7 +26,6 @@ Email is the most direct and convenient way to get ahold of me.
 
 !!! failure "What I'll definitely NOT respond to"
 
-    - I don't do pen pals.
     - [Don't ask to ask, just ask.](https://dontasktoask.com/)
     - [The XY Problem](https://xyproblem.info/)
     - No guest posts, linking, cross-promotions, and/or solicitations will be accepted.
