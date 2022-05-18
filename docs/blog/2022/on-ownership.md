@@ -5,7 +5,7 @@ tags:
   - internet
 ---
 
-__This is the story of the platforms I considered and chose when creating tylernguyen.xyz__
+__This is the story of the platforms I considered and chose when creating `tylernguyen.xyz`__
 
 ## Introduction
 
