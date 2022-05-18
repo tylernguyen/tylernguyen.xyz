@@ -183,22 +183,8 @@ icon: doodle/motherboard
 
     -   <figure markdown>
         <p align="center">
-        ![Razer Viper 8KHz](/assets/mouse/Razer-Viper-8KHz.png)
-        <figcaption>Razer Viper 8KHz</figcaption>
-        </p>
-        </figure>
-
-    -   <figure markdown>
-        <p align="center">
-        ![Katana Superlight](/assets/mouse/Katana-Superlight.png)
-        <figcaption>Katana Superlight</figcaption>
-        </p>
-        </figure>
-
-    -   <figure markdown>
-        <p align="center">
-        ![Glorious Model O](/assets/mouse/Glorious-ModelO.png)
-        <figcaption>Glorious Model O</figcaption>
+        ![Logitech MX Master 3](/assets/mouse/Logitec-MX-Master-3.png)
+        <figcaption>Logitech MX Master 3</figcaption>
         </p>
         </figure>
 
