@@ -46,9 +46,7 @@ theme:
       network: fontawesome/solid/network-wired
       opensource: fontawesome/brands/git
       selfhosted: fontawesome/solid/server
-  font:
-    text: Roboto Flex
-    code: Fira Code
+  font: false
   palette:
     - scheme: default
       accent: deep orange

@@ -1,9 +1,75 @@
-/* SECTION Colors */
+/* SECTION Import Fonts */
+@font-face {
+  font-family: 'Bagnard';
+  src: url("/assets/fonts/bagnard/Bagnard.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  src: url('/assets/fonts/public_sans/PublicSans-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  src: url('/assets/fonts/public_sans/PublicSans-BoldItalic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  src: url('/assets/fonts/public_sans/PublicSans-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  src: url('/assets/fonts/public_sans/PublicSans-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  src: url('/assets/fonts/public_sans/PublicSans-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url('/assets/fonts/dm_mono/DMMono-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url('/assets/fonts/dm_mono/DMMono-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SECTION Root */
 :root>* {
   --md-primary-fg-color: #282F38;
   --md-primary-fg-color--light: #282F38;
   --md-primary-fg-color--dark: #232631;
+  --md-text-font: "Public Sans", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+  --md-code-font: "DM Mono", SFMono-Regular, Consolas, Menlo, monospace;
 }
+/* !SECTION */
 
 /* ANCHOR Light Mode Colors */
 [data-md-color-scheme="default"] {
@@ -37,7 +103,6 @@
 [data-md-color-scheme="slate"] .md-typeset .md-button--primary {
   color: var(--md-primary-bg-color);
 }
-
 /* !SECTION */
 
 /* ANCHOR Custom Recommendation Cards: https://github.com/privacyguides/privacyguides.org/blob/main/docs/stylesheets/extra.css */
