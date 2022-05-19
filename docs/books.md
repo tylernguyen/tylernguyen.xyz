@@ -50,26 +50,6 @@ I prefer to listen to the audiobook version when available. I've read/listened t
 
 ## Fiction 💡
 
-### The Sympathizer
-
-!!! recommendation
-
-    ![The Sympathizer](/assets/catalog/BOOK_The-Sympathizer.jpg){ align=right }
-
-    A startling debut novel from a powerful new voice featuring one of the most remarkable narrators of recent fiction: a conflicted subversive and idealist working as a double agent in the aftermath of the Vietnam War.
-
-    [Viet Thanh Nguyen](https://vietnguyen.info/category/essays){ .md-button .md-button--primary } [Grove Press](https://groveatlantic.com/book/the-sympathizer/){ .md-button }
-
-### The Committed
-
-!!! recommendation
-
-    ![The Committed](/assets/catalog/BOOK_The-Committed.jpg){ align=right }
-
-    The sequel to The Sympathizer, which won the 2016 Pulitzer Prize in Fiction and went on to sell over a million copies worldwide, The Committed tells the story of “the man of two minds” as he comes as a refugee to France and turns his hand to capitalism.
-
-    [Viet Thanh Nguyen](https://vietnguyen.info/category/essays){ .md-button .md-button--primary } [Grove Press](https://groveatlantic.com/book/the-committed/){ .md-button }
-
 - Cliche, Ernest - _Ready Player One_
 - Haddon, Mark - _The Curious Incident of the Dog in the Night-Time_
 - Hamid, Moshin - _Exit West_
@@ -79,7 +59,25 @@ I prefer to listen to the audiobook version when available. I've read/listened t
 - McBride, James - _Deacon King Kong_
 - McGuire, Ian - _The North Water_
 - Nguyễn, Việt Thanh - _The Sympathizer_
+
+!!! recommendation
+
+    ![The Sympathizer](/assets/catalog/BOOK_The-Sympathizer.jpg){ align=right }
+
+    A startling debut novel from a powerful new voice featuring one of the most remarkable narrators of recent fiction: a conflicted subversive and idealist working as a double agent in the aftermath of the Vietnam War.
+
+    [Viet Thanh Nguyen](https://vietnguyen.info/category/essays){ .md-button .md-button--primary } [Grove Press](https://groveatlantic.com/book/the-sympathizer/){ .md-button }
+
 - Nguyễn, Việt Thanh - _The Committed (Sequel to The Sympathizer)_
+
+!!! recommendation
+
+    ![The Committed](/assets/catalog/BOOK_The-Committed.jpg){ align=right }
+
+    The sequel to The Sympathizer, which won the 2016 Pulitzer Prize in Fiction and went on to sell over a million copies worldwide, The Committed tells the story of “the man of two minds” as he comes as a refugee to France and turns his hand to capitalism.
+
+    [Viet Thanh Nguyen](https://vietnguyen.info/category/essays){ .md-button .md-button--primary } [Grove Press](https://groveatlantic.com/book/the-committed/){ .md-button }
+
 - O'Farrell, Maggie - _Hamnet and Judtih_
 - Otsuka, Julie - _The Buddha in The Attic_
 - Tarantino, Quentin - _Once Upon a Time in Hollywood_
@@ -158,7 +156,7 @@ I prefer to listen to the audiobook version when available. I've read/listened t
 
 ## Short Stories 📃
 
-### A Good Scent from a Strange Mountain
+- Butler, Robert Olen - _A Good Scent from a Strange Mountain_
 
 !!! recommendation
 
@@ -167,5 +165,3 @@ I prefer to listen to the audiobook version when available. I've read/listened t
     A Good Scent from a Strange Mountain is Robert Olen Butler’s Pulitzer Prize-winning collection of lyrical and poignant stories about the aftermath of the Vietnam War and its enduring impact on the Vietnamese. Written in a soaring prose, Butler’s haunting and powerful stories blend Vietnamese folklore and contemporary American realities, creating a vibrant panorama that is epic in its scope. This new edition includes two previously uncollected stories—”missing” and “salem”—that brilliantly complete the collection’s narrative journey, returning to the jungles of Vietnam to explore the experiences of a former Vietcong soldier and an American MIA.
 
     [Robert Olen Butler](https://www.robertolenbutler.com/){ .md-button .md-button--primary } [Grove Press](https://groveatlantic.com/book/a-good-scent-from-a-strange-mountain/){ .md-button }
-
-- Butler, Robert Olen - _A Good Scent from a Strange Mountain_
