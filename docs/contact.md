@@ -6,8 +6,12 @@ hide:
 
 Email is the most direct and convenient way to get ahold of me.
 
+<div style="padding-top:5em;max-width:960px;margin:auto;text-align:center;" markdown>
+
 [human@tylernguyen.email](mailto:human@tylernguyen.email){ .md-button .md-button--primary }
 [GPG Key ID 0x136307727d3eef96](https://keys.openpgp.org/vks/v1/by-fingerprint/B4D2B2DB8E304D0366BFE3FF136307727D3EEF96){ .md-button }
+
+</div>
 
 !!! note
 
