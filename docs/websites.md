@@ -2,6 +2,8 @@
 icon: doodle/rss
 ---
 
+RSS is my preferred method of following websites. I also maintain an email alias specfically for newsletters to be converted into an RSS feed. 
+
 ## Web Comics
 
 ### xkcd

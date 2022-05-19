@@ -2,6 +2,10 @@
 icon: doodle/obs-studio
 ---
 
+Though I do prefer free (as in freedom) software, I defer to the standard, popular choice if its open-source alternative is obviously lacking in features.
+
+More importantly, I only use software that adhere to the industry (usually open-source) standard and actively avoid any software that forces a new/proprietary implementation.
+
 ## Web Browser
 
 <div class="grid cards" markdown>

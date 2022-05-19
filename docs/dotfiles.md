@@ -2,13 +2,13 @@
 icon: doodle/splash
 ---
 
-_tylernguyen/dotfiles is designed and maintained for cross-platform compatibility, universal behaviors, and a pretty but also fast ZSH shell prompt_
-
 <div class="grid cards" markdown>
 
 - ![GitHub](/assets/logos/GitHub.svg){ .twemoji } [tylernguyen/dotfiles](https://github.com/tylernguyen/dotfiles)
 
 </div>
+
+tylernguyen/dotfiles is designed and maintained for cross-platform compatibility, universal behaviors, and a pretty but also fast ZSH shell prompt
 
 <div class="grid cards" markdown>
 

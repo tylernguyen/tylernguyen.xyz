@@ -2,6 +2,8 @@
 icon: doodle/cloud-backup-restore
 ---
 
+I hate subsciptions and actively avoid them when I can. This is mostly a financial decision but is also motivated by data privacy. The services here are mostly irreplaceable for their features and/or should not be self-hosted for security.
+
 ## Media
 
 <div class="grid cards" markdown>
@@ -78,8 +80,6 @@ icon: doodle/cloud-backup-restore
 !!! danger
 
     VPNs do not provide anonymity.[^2]
-
-
   
 ## Domain, DNS, Hosting
 

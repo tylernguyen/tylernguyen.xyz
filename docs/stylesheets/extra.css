@@ -43,9 +43,13 @@ h3,
   font-family: "bluu", serif;
 }
 
-/* ANCHOR Reduce Margin on h1 */
+/* ANCHOR Reduce Margins */
 .md-typeset h1 {
   margin: 0;
+}
+
+.md-typeset h2 {
+  margin-top: 0;
 }
 
 /* ANCHOR Button Color depends on Link Color */
