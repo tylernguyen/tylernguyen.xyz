@@ -1,12 +1,12 @@
 /* ANCHOR Import Fonts */
 @font-face {
-  font-family: 'bluu_nexttitling';
-  src: local('bluu_nexttitling'),
-    url('/assets/fonts/BluuNext/BluuNext-Titling.ttf') format('truetype'),
-    url('/assets/fonts/BluuNext/BluuNext-Titling.woff2') format('woff2'),
-    url('/assets/fonts/BluuNext/BluuNext-Titling.woff') format('woff');
+  font-family: 'bluu';
+  src: local('bluu'),
+    url('bluunext-bolditalic-webfont.woff2') format('woff2'),
+    url('bluunext-bolditalic-webfont.woff') format('woff'),
+    url('bluunext-bolditalic.ttf') format('truetype');
   font-weight: normal;
-  font-style: normal;
+  font-style: italic;
   font-display: swap;
 }
 
@@ -40,7 +40,7 @@ h1,
 h2,
 h3,
 .md-header__topic {
-  font-family: "bluu_nexttitling", serif;
+  font-family: "bluu", serif;
 }
 
 /* ANCHOR Button Color depends on Link Color */
