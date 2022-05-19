@@ -24,5 +24,4 @@ These days, indie comics have really grown and caught my attention. I love them 
 
     [Neil Gaiman](https://www.neilgaiman.com/){ .md-button .md-button--primary }
 
-
 ## Index

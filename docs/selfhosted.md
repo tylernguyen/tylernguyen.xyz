@@ -2,6 +2,8 @@
 icon: doodle/linux-server
 ---
 
+The majority of my current self-hosting effort is Docker based and media focused. In the future, I want to create a secondary server that's light on storage but more efficient. For that, I plan to learn Kubernetes to host more crtical things such as IoT automation, DNS, and DNS-based ad-blocking.
+
 !!! recommendation
 
     ![Unraid](/assets/banners/Unraid-light.svg#only-light){ align=right }

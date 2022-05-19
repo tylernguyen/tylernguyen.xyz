@@ -2,6 +2,10 @@
 icon: doodle/motherboard
 ---
 
+I'm big spender on computer related hardware. Not necessarily because they increase my productivity nor make me more driven and focused, but mostly because I'm a gearhead that's addicted to having the newest and greatest. 
+
+I do, above all, enjoy the possibitilies and modular nature of computer hardware. Ranging from computer hardware, keyboard switches and keycaps, to mousepad and mousefeet; The internet has made it ever easier for communites to come together and demand niche products that are customizable to anyone's likings.
+
 ## PC
 
 === "Gaming PC"
