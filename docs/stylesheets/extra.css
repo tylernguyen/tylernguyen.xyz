@@ -1,8 +1,12 @@
 /* ANCHOR Import Fonts */
 @font-face {
-  font-family: 'Bagnard';
-  src: url("/assets/fonts/bagnard/Bagnard.woff") format("woff");
-  font-display: swap;
+  font-family: 'Bluu Next';
+  font-style: bold;
+  font-weight: 700;
+  src: local('Bluu Next'),
+    url('/assets/fonts/bluunext/bluunext-bold-webfont.woff2') format('woff2'),
+    url('/assets/fonts/bluunext/bluunext-bold-webfont.woff') format('woff'),
+    url('/assets/fonts/bluunext/bluunext-bold.ttf') format('truetype');
 }
 
 /* SECTION Root */
@@ -34,7 +38,7 @@
 h1,
 h2,
 h3 {
-  font-family: "Bagnard", serif;
+  font-family: "Bluu Next", serif;
 }
 
 /* ANCHOR Button Color depends on Link Color */
