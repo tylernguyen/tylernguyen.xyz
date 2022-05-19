@@ -1,12 +1,13 @@
 /* ANCHOR Import Fonts */
 @font-face {
-  font-family: 'Bluu Next';
-  font-style: bold;
-  font-weight: 700;
-  src: local('Bluu Next'),
-    url('/assets/fonts/bluunext/bluunext-bold-webfont.woff2') format('woff2'),
-    url('/assets/fonts/bluunext/bluunext-bold-webfont.woff') format('woff'),
-    url('/assets/fonts/bluunext/bluunext-bold.ttf') format('truetype');
+  font-family: 'bluu_nexttitling';
+  src: local('bluu_nexttitling'),
+    url('/assets/fonts/BluuNext/BluuNext-Titling.ttf') format('truetype'),
+    url('/assets/fonts/BluuNext/BluuNext-Titling.woff2') format('woff2'),
+    url('/assets/fonts/BluuNext/BluuNext-Titling.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 /* SECTION Root */
@@ -37,8 +38,9 @@
 /* ANCHOR Define Header Font */
 h1,
 h2,
-h3 {
-  font-family: "Bluu Next", serif;
+h3,
+.md-header__topic {
+  font-family: "bluu_nexttitling", serif;
 }
 
 /* ANCHOR Button Color depends on Link Color */
