@@ -2,11 +2,11 @@
 @font-face {
   font-family: 'bluu';
   src: local('bluu'),
-    url('/assets/fonts/BluuNext/bluunext-bolditalic-webfont.woff2') format('woff2'),
-    url('/assets/fonts/BluuNext/bluunext-bolditalic-webfont.woff') format('woff'),
-    url('/assets/fonts/BluuNext/bluunext-bolditalic.ttf') format('truetype');
+    url('/assets/fonts/BluuNext/bluunext-bold-webfont.woff2') format('woff2'),
+    url('/assets/fonts/BluuNext/bluunext-bold-webfont.woff') format('woff'),
+    url('/assets/fonts/BluuNext/bluunext-bold.ttf') format('truetype');
   font-weight: normal;
-  font-style: italic;
+  font-style: normal;
   font-display: swap;
 }
 
