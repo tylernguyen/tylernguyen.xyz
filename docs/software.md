@@ -57,7 +57,7 @@ More importantly, I only use software that adhere to the industry (usually open-
 
 <div class="grid cards" markdown>
 
-- ![Wireguard](/assets/logos/Wireguard.svg){ .twemoji } [Wireguard](https://www.wireguard.com/)
+- ![Wireguard](/assets/logos/Wireguard.svg){ .twemoji } [Wireguard](https://www.wireguard.com/) [^1]
 
 </div>
 
@@ -76,3 +76,5 @@ More importantly, I only use software that adhere to the industry (usually open-
 !!! example
 
     This website is created using Material for MkDocs Insiders.
+
+[^1]: [Wireguard: Known Limitations](https://www.wireguard.com/known-limitations/)
