@@ -135,6 +135,7 @@ nav:
       - Comics: comics.md
       - Manga: manga.md
       - Graphic Novels: graphic-novels.md
+      - Podcasts: podcasts.md
       - Music: music.md
     - Uses This:
       - dotfiles: dotfiles.md
