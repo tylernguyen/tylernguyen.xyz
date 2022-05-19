@@ -2,6 +2,10 @@
 icon: doodle/iron-man
 ---
 
+_I've never been able to get into long running superhero comics, partly because of their dauntingly large catalog. But mostly because superhero movie and tv has been so well done lately that it's dwarfed tradtional superhero comics for me.
+
+These days, indie comics have really grown and caught my attention. I love them as a serialized medium that's quick to easy to digest but also often times deeply interesting._
+
 ## Featured
 
 ### The Department of Truth

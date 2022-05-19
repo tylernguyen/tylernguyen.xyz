@@ -2,6 +2,8 @@
 icon: doodle/comics-magazine
 ---
 
+_It's a shame that there aren't many graphic novels that catch my attention. I do feel that narratives told with pictures is a medium that's underutilized and often reduced to children's literature._
+
 ## Featured
 
 ### Did You Hear What Eddie Gein Done?
