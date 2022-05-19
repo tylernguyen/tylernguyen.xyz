@@ -183,7 +183,7 @@ icon: doodle/motherboard
 
     -   <figure markdown>
         <p align="center">
-        ![Logitech MX Master 3](/assets/mouse/Logitec-MX-Master-3.png)
+        ![Logitech MX Master 3](/assets/mouse/Logitech-MX-Master-3.png)
         <figcaption>Logitech MX Master 3</figcaption>
         </p>
         </figure>
