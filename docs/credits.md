@@ -45,6 +45,20 @@ hide:
 
 ### Fonts
 
+!!! recommendation
+
+    Bluu Next
+
+    ---
+
+    GitHub hosts the source code of this site. It is my preferred public Git hosting for its 3rd party integrations, automation, and workflows.
+
+    [Visit velvetyne.fr](http://velvetyne.fr/fonts/bluu/){ .md-button .md-button--primary } [LICENSE](https://github.com/tylernguyen/tylernguyen.xyz/blob/main/docs/assets/fonts/BluuNext/LICENSE.txt){ .md-button }
+
 ### Icons
 
+https://icons8.com/icons/doodle
+
 ### Snippets
+
+https://github.com/privacyguides/privacyguides.org
