@@ -1,10 +1,11 @@
 ---
 hide:
   - navigation
-  - toc
 ---
 
 ## Platforms
+
+### Material for MkDocs
 
 !!! recommendation
 
@@ -16,6 +17,9 @@ hide:
 
     [Visit squidfunk.github.io/mkdocs-material](https://squidfunk.github.io/mkdocs-material/){ .md-button .md-button--primary } [Source](https://github.com/squidfunk/mkdocs-material){ .md-button }    
 
+
+### Cloudflare Pages
+
 !!! recommendation
 
     ![Cloudflare](/assets/banners/Cloudflare-light.svg#only-light){ align=right }
@@ -25,6 +29,9 @@ hide:
 
     [Visit pages.cloudflare.com](https://pages.cloudflare.com/){ .md-button .md-button--primary } [Privacy Policy](https://www.cloudflare.com/privacypolicy/){ .md-button }
 
+
+### GitHub
+
 !!! recommendation
 
     ![GitHub](/assets/banners/GitHub-light.png#only-light){ align=right }
@@ -33,3 +40,11 @@ hide:
     GitHub hosts the source code of this site. It is my preferred public Git hosting for its 3rd party integrations, automation, and workflows.
 
     [Visit github.com](https://github.com/){ .md-button .md-button--primary } [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement){ .md-button }
+
+## Resources
+
+### Fonts
+
+### Icons
+
+### Snippets

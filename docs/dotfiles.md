@@ -8,7 +8,7 @@ icon: doodle/splash
 
 </div>
 
-tylernguyen/dotfiles is designed and maintained for cross-platform compatibility, universal behaviors, and a pretty but also fast ZSH shell prompt
+tylernguyen/dotfiles is designed and maintained for cross-platform compatibility, universal behaviors, and a pretty but also fast ZSH shell prompt.
 
 <div class="grid cards" markdown>
 
