@@ -4,7 +4,51 @@ icon: doodle/read
 
 I prefer to listen to the audiobook version when available. I've read/listened to the books listed here at least once. Frequent interested generes include: general nonfiction, history, crime, science, and mathematics.
 
-## Featured
+## Art, Design, & Writing 🎨
+
+- Heschong, Lisa - _Thermal Delight in Architecture_
+- Mars, Roman - _The 99 Percent Invisible City: A Field Guide to the Hidden World of Everyday Design_
+- Norman, Don - _The Design of Everyday Things_
+- Strunk, William - _The Elements of Style_
+
+## Biography, Autobiography & Memoir 🧔
+
+- Bùi, Thi - _The Best We Could Do: An Illustrated Memoir_
+- King, Stephen - _On Writing_
+- Obama, Barack - _A Promised Land_
+- Yamashita, Karen Tei - _Letters to Memory_
+
+## Business 💵
+
+- Bogle, John C. - _Stay the Course_
+- Bogle, John C. - _Little Book of Common Sense Investing_
+- Graham, Benjamin - _The Intelligent Investor_
+- Graham, Benjamin - _The Interpretation of Financial Statements_
+- Zuckerman, Gregory - _The Man Who Solved the Market: How Jim Simons Launched the Quant Evolution_
+- Zweig, Jason - _The Devil's Financial Diction_
+
+## Comedy 🤡
+
+- Carlin, George - _When Will Jesus Bring the Pork Chops?_
+
+## Crime 🔪
+
+- Capote, Truman - _In Cold Blood_
+- Cullen, David - _Columbine_
+- Gentry, Curt and Bugliosi, Vincent - _Helter Skelter_
+- Grann, David - _Killers of the Flower Moon_
+- Guinn, Jeff - _Road to Jones Town: Jim Jones and the Peoples Temple_
+- Keefe, Patrick Radden - _Empire of Pain: The Secret History of the Sackler Dynasty_
+- Keefe, Patrick Radden - _Say Nothing: A True Story of Murder and Memory in Northern Ireland_
+- Keefe, Patrick Radden - The Snakehead: _An Epic Tale of the Chinatown Underworld and the American Dream_
+- Nelson, Maggie - _The Red Parts: Autobiography of a Trial_
+- Parry, Richard Lloyd - _People Who Eat Darkness: The True Story of a Young Woman Who Vanished from the Streets of Tokyo--and the Evil That Swallowed Her Up_
+
+## Essays 📜
+
+- Grann, David - _The Devil and Sherlock Holmes_
+
+## Fiction 💡
 
 ### The Sympathizer
 
@@ -26,54 +70,6 @@ I prefer to listen to the audiobook version when available. I've read/listened t
 
     [Viet Thanh Nguyen](https://vietnguyen.info/category/essays){ .md-button .md-button--primary } [Grove Press](https://groveatlantic.com/book/the-committed/){ .md-button }
 
-## Index
-
-### Art, Design, & Writing 🎨
-
-- Heschong, Lisa - _Thermal Delight in Architecture_
-- Mars, Roman - _The 99 Percent Invisible City: A Field Guide to the Hidden World of Everyday Design_
-- Norman, Don - _The Design of Everyday Things_
-- Strunk, William - _The Elements of Style_
-
-### Biography, Autobiography & Memoir 🧔
-
-- Bùi, Thi - _The Best We Could Do: An Illustrated Memoir_
-- King, Stephen - _On Writing_
-- Obama, Barack - _A Promised Land_
-- Yamashita, Karen Tei - _Letters to Memory_
-
-### Business 💵
-
-- Bogle, John C. - _Stay the Course_
-- Bogle, John C. - _Little Book of Common Sense Investing_
-- Graham, Benjamin - _The Intelligent Investor_
-- Graham, Benjamin - _The Interpretation of Financial Statements_
-- Zuckerman, Gregory - _The Man Who Solved the Market: How Jim Simons Launched the Quant Evolution_
-- Zweig, Jason - _The Devil's Financial Diction_
-
-### Comedy 🤡
-
-- Carlin, George - _When Will Jesus Bring the Pork Chops?_
-
-### Crime 🔪
-
-- Capote, Truman - _In Cold Blood_
-- Cullen, David - _Columbine_
-- Gentry, Curt and Bugliosi, Vincent - _Helter Skelter_
-- Grann, David - _Killers of the Flower Moon_
-- Guinn, Jeff - _Road to Jones Town: Jim Jones and the Peoples Temple_
-- Keefe, Patrick Radden - _Empire of Pain: The Secret History of the Sackler Dynasty_
-- Keefe, Patrick Radden - _Say Nothing: A True Story of Murder and Memory in Northern Ireland_
-- Keefe, Patrick Radden - The Snakehead: _An Epic Tale of the Chinatown Underworld and the American Dream_
-- Nelson, Maggie - _The Red Parts: Autobiography of a Trial_
-- Parry, Richard Lloyd - _People Who Eat Darkness: The True Story of a Young Woman Who Vanished from the Streets of Tokyo--and the Evil That Swallowed Her Up_
-
-### Essays 📜
-
-- Grann, David - _The Devil and Sherlock Holmes_
-
-### Fiction 💡
-
 - Cliche, Ernest - _Ready Player One_
 - Haddon, Mark - _The Curious Incident of the Dog in the Night-Time_
 - Hamid, Moshin - _Exit West_
@@ -88,7 +84,7 @@ I prefer to listen to the audiobook version when available. I've read/listened t
 - Otsuka, Julie - _The Buddha in The Attic_
 - Tarantino, Quentin - _Once Upon a Time in Hollywood_
 
-### History 💀
+## History 💀
 
 - Applebaum, Anne - _Gulag: A History_
 - Boorstin, Daniel J. - _The Discoverers (First in the Knowledge Triology)_
@@ -114,17 +110,17 @@ I prefer to listen to the audiobook version when available. I've read/listened t
 - Wilkerson, Isabel - _The Warmth of Other Suns: The Epic Story of America's Great Migration_
 - Winegard, Timothy C. - _The Mosquito: A Human History of Our Deadliest Predator_
 
-### Poetry 🔖
+## Poetry 🔖
 
 - Nguyễn, Du - _Truyện Kiều / The Tale of Kiều_ (Billingual Ed. translated by Huynh Sanh Thong)
 - Tennyson, Alfred - _Poems_
 
-### Politics 🎎
+## Politics 🎎
 
 - Rhodes, Ben - _The World as It Is_
 - Sharpio, James S. - _Shakespeare in a Divided America: What His Plays Tell Us About Our Past and Future_
 
-### Philosophy 🚬
+## Philosophy 🚬
 
 - Becker, Ernest - _The Denial of Death_
 - Galloway, Scott - _The Algebra of Happiness_
@@ -133,13 +129,13 @@ I prefer to listen to the audiobook version when available. I've read/listened t
 - Taleb, Nassim Nicholas - _The Black Swan_
 - Taleb, Nassim Nicholas - _The Bed of Procrustes_
 
-### Religion 💒
+## Religion 💒
 
 - Fry, Stephen - _Mythos_
 - Fry, Stephe - _Heroes_
 - Skilton, Andrew - _A Concise History of Buddhism_
 
-### Science, Economics, and Mathematics 🧪
+## Science, Economics, and Mathematics 🧪
 
 - Ackerman, Jennifer - _The Bird Way_
 - Akerlof, George A. and Shiller, Robert J. - _Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism_
@@ -160,6 +156,16 @@ I prefer to listen to the audiobook version when available. I've read/listened t
 - Mukherjee, Siddhartha - _The Emperor of All Maladies: A Biography of Cancer_
 - Zucker, Caren and Donvan, John - _In a Different Key: The Story of Autism_
 
-### Short Stories 📃
+## Short Stories 📃
+
+### A Good Scent from a Strange Mountain
+
+!!! recommendation
+
+    ![A Good Scent from a Strange Mountain](/assets/catalog/BOOK_A-Good-Scent-from-a-Strange-Mountain.jpg){ align=right }
+
+    A Good Scent from a Strange Mountain is Robert Olen Butler’s Pulitzer Prize-winning collection of lyrical and poignant stories about the aftermath of the Vietnam War and its enduring impact on the Vietnamese. Written in a soaring prose, Butler’s haunting and powerful stories blend Vietnamese folklore and contemporary American realities, creating a vibrant panorama that is epic in its scope. This new edition includes two previously uncollected stories—”missing” and “salem”—that brilliantly complete the collection’s narrative journey, returning to the jungles of Vietnam to explore the experiences of a former Vietcong soldier and an American MIA.
+
+    [Robert Olen Butler](https://www.robertolenbutler.com/){ .md-button .md-button--primary } [Grove Press](https://groveatlantic.com/book/a-good-scent-from-a-strange-mountain/){ .md-button }
 
 - Butler, Robert Olen - _A Good Scent from a Strange Mountain_
