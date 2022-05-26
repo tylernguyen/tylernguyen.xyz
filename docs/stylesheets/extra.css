@@ -43,6 +43,15 @@ h3,
   font-family: "bluu", serif;
 }
 
+/* ANCHOR Reduce Margins */
+.md-typeset h1 {
+  margin: 0;
+}
+
+.md-typeset h2 {
+  margin-top: 0.5em;
+}
+
 /* ANCHOR Button Color depends on Link Color */
 .md-typeset .md-button {
   color: var(--md-typeset-a-color);
@@ -105,4 +114,10 @@ h3,
 /* ANCHOR Correct navigation icon size */
 .md-nav__link svg {
   width: 20px;
+}
+
+
+/* ANCHOR Un-sticky sidebar without JS */
+.no-js .md-sidebar {
+  align-self: auto;
 }
