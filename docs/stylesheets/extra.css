@@ -38,8 +38,7 @@
 /* ANCHOR Define Header Font */
 h1,
 h2,
-h3,
-.md-header__topic {
+h3 {
   font-family: "bluu", serif;
 }
 
