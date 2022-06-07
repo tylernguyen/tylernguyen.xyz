@@ -137,6 +137,13 @@ I do, above all, enjoy the possibitilies and modular nature of computer hardware
 
 -   <figure markdown>
       <p align="center">
+       ![MOTU UltraLite Mk5](/assets/audio/MOTU-Ultralite-mk5.png)
+       <figcaption>MOTU UltraLite Mk5</figcaption>
+      </p>
+    </figure>
+
+-   <figure markdown>
+      <p align="center">
        ![Electro-Voice RE20](/assets/audio/Electro-Voice-RE20.png)
        <figcaption>Electro-Voice RE20</figcaption>
       </p>
