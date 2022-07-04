@@ -59,6 +59,13 @@ hide:
 
 https://icons8.com/icons/doodle
 
-### Snippets
+### Stylesheets
 
-https://github.com/privacyguides/privacyguides.org
+!!! recommendation
+
+    ![Privacy Guides](/assets/banners/Privacy-Guides-light.svg#only-light){ align=right }
+    ![Privacy Guides](/assets/banners/Privacy-Guides-dark.svg#only-dark){ align=right }
+
+    The page inherits some of its CSS stylesheets from Privacy Guides' source code.
+
+    [Visit github.com/privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org/tree/main/docs/assets/stylesheets){ .md-button .md-button--primary } [LICENSE](https://github.com/privacyguides/privacyguides.org/blob/main/LICENSE){ .md-button }
