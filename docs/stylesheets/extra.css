@@ -10,14 +10,12 @@
   font-display: swap;
 }
 
-/* SECTION Root */
+/* SECTION Colors */
 :root>* {
   --md-primary-fg-color: #282F38;
   --md-primary-fg-color--light: #282F38;
   --md-primary-fg-color--dark: #232631;
 }
-
-/* !SECTION */
 
 /* ANCHOR Light Mode Colors */
 [data-md-color-scheme="default"] {
@@ -37,6 +35,7 @@
   --md-typeset-a-color: #689D6A;
   --md-accent-fg-color: #689D6A;
 }
+/* !SECTION */
 
 /* ANCHOR Define Header Font */
 h1,
@@ -55,7 +54,8 @@ h3,
   margin-top: 0.5em;
 }
 
-/* ANCHOR Button Color depends on Link Color */
+/* !SECTION Inherit from https: //github.com/privacyguides/privacyguides.org/blob/main/docs/assets/stylesheets/extra.css */
+/* ANCHOR Button  */
 .md-typeset .md-button {
   color: var(--md-typeset-a-color);
   background: none;
@@ -87,9 +87,7 @@ h3,
   border-color: var(--md-accent-fg-color);
 }
 
-/* !SECTION */
-
-/* ANCHOR Custom Recommendation Cards: https: //github.com/privacyguides/privacyguides.org/blob/main/docs/assets/stylesheets/extra.css */
+/* ANCHOR Custom Recommendation Cards */
 .md-typeset .admonition.recommendation,
 .md-typeset details.recommendation {
   border: none;
@@ -137,6 +135,7 @@ h3,
 .md-typeset .downloads>summary::after {
   right: auto;
 }
+/* !SECTION */
 
 /* ANCHOR Correct navigation icon size */
 .md-nav__link svg {
