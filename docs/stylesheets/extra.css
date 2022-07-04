@@ -21,6 +21,8 @@
 /* ANCHOR Light Mode Colors */
 [data-md-color-scheme="default"] {
   --md-typeset-a-color: #4051B5;
+  --md-accent-fg-color: #4051B5;
+  --pg-light-border: rgb(229, 231, 235);
 }
 
 /* ANCHOR Dark Mode Colors */
@@ -33,6 +35,8 @@
   --md-footer-bg-color: rgb(23, 27, 32, 0.87);
   --md-footer-bg-color-dark: rgb(67, 126, 199);
   --md-typeset-a-color: #689D6A;
+  --md-accent-fg-color: #689D6A;
+  --pg-light-border: rgb(47, 47, 47);
 }
 
 /* ANCHOR Define Header Font */
@@ -52,20 +56,194 @@ h3,
   margin-top: 0.5em;
 }
 
-/* ANCHOR Button Color depends on Link Color */
+/* Custom header + nav */
+.md-header>*,
+.md-tabs {
+  background: none;
+}
+
+[data-md-color-scheme="slate"] .md-header>*,
+[data-md-color-scheme="slate"] .md-tabs {
+  color: #fff;
+}
+
+.md-header__button {
+  color: var(--md-default-fg-color--light);
+}
+
+.md-header,
+.md-tabs {
+  /* firefox fallback */
+  background-color: rgb(40, 47, 56);
+}
+
+@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+
+  .md-header,
+  .md-tabs {
+    background-color: rgb(40, 47, 56);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+  }
+}
+
+[data-md-color-scheme="default"] img[src$="#only-dark"] {
+  display: none !important;
+}
+
+[data-md-color-scheme="slate"] img[src$="#only-light"] {
+  display: none !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav--primary .md-nav__title[for="__drawer"] {
+  color: var(--md-typeset-a-color)
+}
+
+@media screen and (max-width: 59.9375em) {
+  .md-nav__source {
+    display: none;
+  }
+}
+
+header[class="md-header md-header--shadow"],
+nav[class="md-tabs"] {
+  border-bottom: 1px solid var(--pg-light-border);
+}
+
+@media screen and (min-width: 60em) {
+  .md-search__overlay {
+    background-color: transparent;
+  }
+
+  .md-search__form {
+    border: 1px solid var(--pg-light-border);
+    background-color: var(--md-primary-fg-color) !important;
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(0, 0, 0, 0.02) 0px 1px 2px -1px;
+    border-radius: 6px;
+    height: 1.4rem;
+  }
+
+  [data-md-toggle="search"]:checked~.md-header .md-search__form {
+    border-radius: 6px 6px 0 0;
+  }
+
+  [dir="ltr"] .md-search__output {
+    top: initial;
+    border-radius: 0 0 6px 6px;
+  }
+
+  [data-md-toggle="search"]:checked~.md-header .md-search__output {
+    box-shadow: 0 0 .6rem rgba(0, 0, 0, .07);
+  }
+
+  .md-search__input {
+    font-size: .6rem;
+  }
+
+  .md-search__options {
+    top: .05rem;
+  }
+
+  .md-search__icon,
+  .md-search__input::placeholder {
+    color: var(--md-default-fg-color--light) !important;
+  }
+
+  .md-search__icon svg {
+    width: .75rem;
+    height: .75rem;
+  }
+}
+
+div[class="md-source__icon md-icon"],
+div[class="md-source__repository md-source__repository--active"] *:not(.md-source__facts):not(.md-source__fact) {
+  display: none;
+}
+
+.md-source__fact::before {
+  color: var(--md-default-fg-color--light);
+}
+
+.md-header__option {
+  transition: max-width 0ms, opacity 0ms;
+}
+
+.md-header__source {
+  text-align: right;
+  width: initial;
+  margin-right: 1em;
+}
+
+[dir="ltr"] .md-source__icon+.md-source__repository {
+  padding-left: 0;
+}
+
+.md-source__repository {
+  max-width: initial;
+}
+
+form[class="md-header__option"]>label[class="md-header__button md-icon"]>svg {
+  fill: none !important;
+}
+
+.md-tabs__link--active {
+  background:
+    radial-gradient(farthest-side, var(--md-primary-fg-color--light) 98%, transparent 100%) bottom right/2px 2px,
+    radial-gradient(farthest-side, var(--md-primary-fg-color--light) 98%, transparent 100%) bottom left /2px 2px,
+    linear-gradient(var(--md-primary-fg-color--light), var(--md-primary-fg-color--light)) bottom/calc(100% - 2px) 2px;
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+  padding-bottom: 2px;
+}
+
+
+/* ANCHOR Button */
 .md-typeset .md-button {
-  color: var(--md-typeset-a-color);
-  margin-bottom: 5px;
+  color: var(--md-typeset-color);
+  background: none;
+  border: 1px solid var(--pg-light-border);
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 3px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px -1px;
 }
 
 .md-typeset .md-button--primary {
-  color: white;
-  background-color: var(--md-typeset-a-color);
-  border-color: var(--md-typeset-a-color);
+  color: var(--md-typeset-a-color);
+  background-color: var(--md-primary-fg-color);
 }
 
-[data-md-color-scheme="slate"] .md-typeset .md-button--primary {
-  color: var(--md-primary-bg-color);
+.md-typeset .grid.cards> :is(ul, ol)>li,
+.md-typeset .grid>.card {
+  /* Firefox */
+  color: var(--md-typeset-color);
+  background: var(--md-primary-fg-color);
+  border: 1px solid var(--pg-light-border);
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 3px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px -1px;
+  transition: none;
+}
+
+.md-typeset .grid.cards>:-webkit-any(ul, ol)>li,
+.md-typeset .grid>.card {
+  /* Webkit */
+  color: var(--md-typeset-color);
+  background: var(--md-primary-fg-color);
+  border: 1px solid var(--pg-light-border);
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 3px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px -1px;
+  transition: none;
+}
+
+.md-typeset .grid.cards> :is(ul, ol)>li:is(:focus-within, :hover),
+.md-typeset .grid>.card:is(:focus-within, :hover) {
+  /* Firefox */
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 3px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px -1px;
+  border-color: var(--md-accent-fg-color);
+}
+
+.md-typeset .grid.cards>:-webkit-any(ul, ol)>li:-webkit-any(:focus-within, :hover) {
+  /* Webkit */
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 3px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px -1px;
+  border-color: var(--md-accent-fg-color);
 }
 /* !SECTION */
 
