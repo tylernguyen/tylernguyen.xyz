@@ -62,6 +62,7 @@ theme:
         name: Switch to light mode
   features:
     - announce.dismiss # NOTE Dismissable Announcement Banner
+    - content.tooltips
     - search.highlight # NOTE Highlight Matched Occurences after a Search
     - search.suggest
     - navigation.indexes # NOTE Attach Top Level Doc to Section
