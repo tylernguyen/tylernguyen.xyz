@@ -83,12 +83,16 @@ I hate subsciptions and actively avoid them when I can. This is mostly a financi
   
 ## Domain, DNS, Hosting
 
-<div class="grid cards" markdown>
+!!! recommendation
 
-- ![Cloudflare](/assets/logos/Cloudflare.svg){ .twemoji } [Cloudflare](https://www.cloudflare.com/)
-- ![Quad9](/assets/logos/Quad9.svg){ .twemoji } [Quad9](https://www.quad9.net/)
+    ![Cloudflare](/assets/banners/Cloudflare-light.svg#only-light){ align=right }
+    ![Cloudflare](/assets/banners/Cloudflare-dark.svg#only-dark){ align=right }
 
-</div>
+    **Cloudflare**
+
+    Cloudflare is preferred for anything networking related. 
+
+    [Visit cloudflare.com](https://cloudflare.com/){ .md-button .md-button--primary } [Privacy Policy](https://www.cloudflare.com/privacypolicy/){ .md-button }
 
 [^1]: [Richard Stallman: Reasons not to buy from Amazon](https://stallman.org/amazon.html)
 [^2]: [Privacy Guides: VPN Overview](https://www.privacyguides.org/vpn/#vpn-overview)
