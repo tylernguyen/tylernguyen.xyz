@@ -7,9 +7,11 @@ icon: icons8/bash
     ![GitHub](/assets/banners/GitHub-light.png#only-light){ align=right }
     ![GitHub](/assets/banners/GitHub-dark.png#only-dark){ align=right }
 
+    **tylernguyen/dotfiles**
+
     tylernguyen/dotfiles is designed and maintained for cross-platform compatibility, universal behaviors, and a pretty but also fast ZSH shell prompt.
 
-    [Visit github.com](https://github.com/){ .md-button .md-button--primary }
+    [Visit github.com/tylernguyen/dotfiles](https://github.com/tylernguyen/dotfiles){ .md-button .md-button--primary }
 
 <div class="grid cards" markdown>
 
