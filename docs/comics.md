@@ -1,5 +1,5 @@
 ---
-icon: icons8/iron-man
+icon: icons8/wolverine
 ---
 
 I've never been able to get into long running superhero comics, partly because of their dauntingly large catalog. But mostly because superhero movie and tv has been so well done lately that it's dwarfed tradtional superhero comics for me.

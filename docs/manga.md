@@ -1,5 +1,5 @@
 ---
-icon: icons8/naruto
+icon: icons8/kakashi-hatake
 ---
 
 ## Featured

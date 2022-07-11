@@ -1,5 +1,5 @@
 ---
-icon: icons8/motherboard
+icon: icons8/integrated-circuit
 ---
 
 I'm big spender on computer related hardware. Not necessarily because they increase my productivity nor make me more driven and focused, but mostly because I'm a gearhead that's addicted to having the newest and greatest. 
