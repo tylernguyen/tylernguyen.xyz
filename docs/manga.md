@@ -1,5 +1,5 @@
 ---
-icon: doodle/naruto
+icon: icons8/naruto
 ---
 
 ## Featured

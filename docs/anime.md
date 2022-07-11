@@ -1,5 +1,5 @@
 ---
-icon: doodle/totoro
+icon: icons8/totoro
 ---
 
 ## Featured

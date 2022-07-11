@@ -1,5 +1,5 @@
 ---
-icon: doodle/hdtv
+icon: icons8/tv
 ---
 
 ## Featured

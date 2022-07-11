@@ -1,5 +1,5 @@
 ---
-icon: doodle/movie
+icon: icons8/movie
 ---
 
 I consume an absurd amount of movies. My Plex library contains over 3000 movies, of which I estimate I've seen a bit over 2500. I'm currently working through the Criterion collection of movies.

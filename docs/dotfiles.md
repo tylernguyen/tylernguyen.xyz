@@ -1,5 +1,5 @@
 ---
-icon: doodle/splash
+icon: icons8/bash
 ---
 
 <div class="grid cards" markdown>

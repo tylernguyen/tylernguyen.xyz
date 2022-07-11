@@ -1,5 +1,5 @@
 ---
-icon: doodle/cloud-backup-restore
+icon: icons8/mail
 ---
 
 I hate subsciptions and actively avoid them when I can. This is mostly a financial decision but is also motivated by data privacy. The services here are mostly irreplaceable for their features and/or should not be self-hosted for security.
