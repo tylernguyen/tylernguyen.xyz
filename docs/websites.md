@@ -51,6 +51,28 @@ RSS is my preferred method of following websites. I also maintain an email alias
     [Visit danluu.com](https://danluu.com/){ .md-button .md-button--primary } [RSS Feed](https://danluu.com/atom.xml){ .md-button } 
 
 
+## News
+
+### The New York Times
+
+!!! recommendation
+
+    I try to stay away from news websites that use advertising as a revenue model. I'm also reluctant on reading the news from the big cable news networks. As such, the NYTimes is my preferred source.
+
+    It's also a great source for book reviews, as well as cooking recipes.
+
+    [Visit nytimes.com/](https://www.nytimes.com/){ .md-button .md-button--primary } [RSS Feed](https://www.nytimes.com/rss){ .md-button } 
+
+### The Athletic
+
+!!! recommendation
+
+    ![The Athletic](/assets/catalog/WEBSITE_The-Athletic){ align=right }
+
+    The Athletic provides the best longform content on the Premier League and European football. It's also a great source of in-depth analysis on the current state of the game.
+
+    [Visit theathletic.com/](https://theathletic.com/){ .md-button .md-button--primary } [RSS Feed](https://theathletic.com/rss-feed/){ .md-button } 
+
 ## Forums
 
 ### bogleheads.org
