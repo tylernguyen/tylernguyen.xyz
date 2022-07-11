@@ -9,7 +9,7 @@ I hate subsciptions and actively avoid them when I can. This is mostly a financi
 <div class="grid cards" markdown>
 
 - ![Audible](/assets/logos/Audible.png){ .twemoji } [Audible](https://www.audible.com/)
-- ![Deezer](/assets/logos/Deezer.svg){ .twemoji } [Spotify](https://www.deezer.com)
+- ![Deezer](/assets/logos/Deezer.svg){ .twemoji } [Deezer](https://www.deezer.com)
 - ![Pocket Casts](/assets/logos/Pocket-Casts.svg){ .twemoji } [Pocket Casts](https://pocketcasts.com/)
 - ![Libby](/assets/logos/Libby.png){ .twemoji } [Libby](https://libbyapp.com)
 
