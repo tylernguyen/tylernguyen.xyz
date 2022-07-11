@@ -1,5 +1,5 @@
 ---
-icon: icons8/obs-studio
+icon: icons8/software
 ---
 
 Though I do prefer free (as in freedom) software, I defer to the standard, popular choice if its open-source alternative is obviously lacking in features.

@@ -1,5 +1,5 @@
 ---
-icon: icons8/music
+icon: icons8/musical-notes
 ---
 
 
