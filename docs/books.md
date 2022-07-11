@@ -1,5 +1,5 @@
 ---
-icon: icons8/books
+icon: icons8/book-stack
 ---
 
 I prefer to listen to the audiobook version when available. I've read/listened to the books listed here at least once. Frequent interested generes include: general nonfiction, history, crime, science, and mathematics.

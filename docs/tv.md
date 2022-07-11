@@ -1,5 +1,5 @@
 ---
-icon: icons8/tv
+icon: icons8/retro-tv
 ---
 
 ## Featured
