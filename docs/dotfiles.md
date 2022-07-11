@@ -2,13 +2,14 @@
 icon: icons8/bash
 ---
 
-<div class="grid cards" markdown>
+!!! recommendation
 
-- ![GitHub](/assets/logos/GitHub.svg){ .twemoji } [tylernguyen/dotfiles](https://github.com/tylernguyen/dotfiles)
+    ![GitHub](/assets/banners/GitHub-light.png#only-light){ align=right }
+    ![GitHub](/assets/banners/GitHub-dark.png#only-dark){ align=right }
 
-</div>
+    tylernguyen/dotfiles is designed and maintained for cross-platform compatibility, universal behaviors, and a pretty but also fast ZSH shell prompt.
 
-tylernguyen/dotfiles is designed and maintained for cross-platform compatibility, universal behaviors, and a pretty but also fast ZSH shell prompt.
+    [Visit github.com](https://github.com/){ .md-button .md-button--primary }
 
 <div class="grid cards" markdown>
 
