@@ -24,7 +24,7 @@ More importantly, I only use software that adhere to the industry (usually open-
 
 <div class="grid cards" markdown>
 
-- ![VSCode](/assets/logos/VSCode.png){ .twemoji } [Visual Studio Code](https://code.visualstudio.com/)
+- ![VSCode](/assets/logos/VSCode.svg){ .twemoji } [Visual Studio Code](https://code.visualstudio.com/)
 - ![Obsidian](/assets/logos/Obsidian.png){ .twemoji } [Obsidian](https://obsidian.md/)
 - ![Just Press Record](/assets/logos/Just-Press-Record.png){ .twemoji } [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
 
