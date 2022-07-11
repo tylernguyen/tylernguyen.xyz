@@ -67,7 +67,7 @@ RSS is my preferred method of following websites. I also maintain an email alias
 
 !!! recommendation
 
-    ![The Athletic](/assets/catalog/WEBSITE_The-Athletic){ align=right }
+    ![The Athletic](/assets/catalog/WEBSITE_The-Athletic.png){ align=right }
 
     The Athletic provides the best longform content on the Premier League and European football. It's also a great source of in-depth analysis on the current state of the game.
 
