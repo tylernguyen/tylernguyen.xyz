@@ -146,7 +146,7 @@ I prefer to listen to the audiobook version when available. I've read/listened t
 - Kahneman, Daniel - _Thinking, Fast and Slow_
 - Levitt, Steven and Dubner, Stephen - _Freakonomics_
 - Lewis, Michael -_Boomerang: Travels in the New Third World_
-- Lewis, Michael; - _Moneyball_
+- Lewis, Michael - _Moneyball_
 - Lewis, Michael - _The Big Short_
 - Lewis, Michael - _The Fifth Risk_
 - Lewis, Michael - _The Premonition: A Pandemic Story_
