@@ -192,13 +192,6 @@ I do, above all, enjoy the possibitilies and modular nature of computer hardware
         </p>
         </figure>
 
-    -   <figure markdown>
-        <p align="center">
-        ![Logitech MX Master 3](/assets/mouse/Logitech-MX-Master-3.png)
-        <figcaption>Logitech MX Master 3</figcaption>
-        </p>
-        </figure>
-
     </div>
 
 === "Mousepad"
